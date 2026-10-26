@@ -20,7 +20,7 @@ jobs:
         run: python scripts/update_market_news.py
       - name: Publish updated data
         run: |
-          if ! git diff --quiet -- data/market-news.json; then
+          git add data/market-news.json\n          if ! git diff --cached --quiet; then
             git config user.name "midnimo-news-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add data/market-news.json
