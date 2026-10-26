@@ -1,89 +1,165 @@
 {
-  "updated_at": "2026-10-26T16:09:25.566328+00:00",
+  "updated_at": "2026-10-26T19:07:07.730376+00:00",
   "items": [
     {
-      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-      "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-26T16:05:12+00:00"
-    },
-    {
-      "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
-      "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
+      "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
+      "url": "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T16:04:51+00:00"
+      "published": "2026-10-26T18:46:03+00:00",
+      "title_so": null
     },
     {
-      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-      "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-26T15:59:55+00:00"
-    },
-    {
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "AI company Anthropic announces IPO, expected as early as November",
+      "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-26T15:54:15+00:00"
+      "published": "2026-10-26T18:42:41+00:00",
+      "title_so": null
     },
     {
-      "title": "OCC calls on community banks to enter the stablecoin payments market",
-      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-26T15:45:51+00:00"
-    },
-    {
-      "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-      "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
+      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+      "url": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T15:36:03+00:00"
+      "published": "2026-10-26T18:16:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+      "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-26T17:46:09+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+      "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-26T17:41:21+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-26T17:20:54+00:00",
+      "title_so": null
+    },
+    {
+      "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
+      "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-26T16:36:03+00:00",
+      "title_so": null
     },
     {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-26T15:27:54+00:00"
+      "published": "2026-10-26T16:27:17+00:00",
+      "title_so": null
+    },
+    {
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-26T16:18:09+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-26T16:05:12+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
+      "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-26T16:04:51+00:00",
+      "title_so": null
+    },
+    {
+      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-26T15:59:55+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+      "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-26T15:54:15+00:00",
+      "title_so": null
+    },
+    {
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-26T15:45:51+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
+      "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-26T15:36:03+00:00",
+      "title_so": null
     },
     {
       "title": "'Privacy Horror’: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
       "url": "https://decrypt.co/381801/privacy-horror-researcher-uncovers-extent-of-samsung-smart-tv-user-tracking",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T15:00:02+00:00"
+      "published": "2026-10-26T15:00:02+00:00",
+      "title_so": null
     },
     {
       "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
       "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-26T14:51:07+00:00"
+      "published": "2026-10-26T14:51:07+00:00",
+      "title_so": null
     },
     {
       "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
       "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-26T14:25:22+00:00"
+      "published": "2026-10-26T14:25:22+00:00",
+      "title_so": null
     },
     {
       "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
       "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-26T14:23:41+00:00"
+      "published": "2026-10-26T14:23:41+00:00",
+      "title_so": null
     },
     {
       "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under ‘ANT’",
       "url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T13:50:22+00:00"
+      "published": "2026-10-26T13:50:22+00:00",
+      "title_so": null
     },
     {
       "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
@@ -434,62 +510,6 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-      "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-24T14:38:47+00:00"
-    },
-    {
-      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-      "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-24T14:06:24+00:00"
-    },
-    {
-      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-24T14:00:00+00:00"
-    },
-    {
-      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-24T13:01:02+00:00"
-    },
-    {
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-24T00:36:47+00:00"
-    },
-    {
-      "title": "How does the UK state pension compare with other countries?",
-      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-24T00:09:12+00:00"
-    },
-    {
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-24T00:05:45+00:00"
-    },
-    {
-      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-23T23:11:31+00:00"
     }
   ]
 }
