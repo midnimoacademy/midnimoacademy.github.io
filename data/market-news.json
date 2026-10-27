@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-27T01:08:31.481892+00:00",
+  "updated_at": "2026-10-27T03:53:32.285672+00:00",
   "items": [
+    {
+      "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-27T01:57:48+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+      "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-27T01:55:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-27T01:48:04+00:00",
+      "title_so": null
+    },
     {
       "title": "Ripple wins final US approval for national trust bank",
       "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -15,14 +39,6 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-27T00:01:00+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-26T22:30:02+00:00",
       "title_so": null
     },
     {
@@ -310,16 +326,14 @@
       "url": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T13:01:02+00:00",
-      "title_so": null
+      "published": "2026-10-26T13:01:02+00:00"
     },
     {
       "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
       "url": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T12:16:12+00:00",
-      "title_so": null
+      "published": "2026-10-26T12:16:12+00:00"
     },
     {
       "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
@@ -516,20 +530,6 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
-      "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-25T14:01:03+00:00"
-    },
-    {
-      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
-      "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-25T13:00:00+00:00"
     }
   ]
 }
