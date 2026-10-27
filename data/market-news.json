@@ -1,21 +1,109 @@
 {
-  "updated_at": "2026-10-27T13:07:57.029760+00:00",
+  "updated_at": "2026-10-27T16:01:25.573429+00:00",
   "items": [
+    {
+      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-27T15:01:27+00:00",
+      "title_so": "Mushaharka ugu yar ayaa lagu wadaa inuu kordho laakiin 18-20 sano jir ma heli doono koror ka sii weyn"
+    },
+    {
+      "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
+      "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-27T14:31:02+00:00",
+      "title_so": "McDonald's McRib Runtii Kor Uma Qaado Qiimaha Bitcoin, Waan Ka xunahay Qof walba"
+    },
+    {
+      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+      "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-27T14:21:10+00:00",
+      "title_so": "Nasdaq-100 wuxuu ku yimid onchain sidii Janus Henderson iyo Centrifuge ay bilaabeen sanduuqa shatiga ugu horreeya"
+    },
+    {
+      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+      "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-27T14:00:00+00:00",
+      "title_so": "CF Benchmarks waxay keentaa kaabayaasha qiimaha Wall Street onchain, oo ay ku jiraan xogta ay isticmaasho BlackRock"
+    },
+    {
+      "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
+      "url": "https://decrypt.co/381936/polymarket-has-investigated-dozens-of-midterm-election-bets-report",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-27T13:52:58+00:00",
+      "title_so": "Polymarket-ka ayaa baadhay 'daraasiin' ee sharadka doorashada xilliga dhexe: Warbixinta"
+    },
+    {
+      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+      "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-27T13:30:00+00:00",
+      "title_so": "Crypto waxay ka sarreyn kartaa saamiyada AI: Wall Street veteran Jordi Visser"
+    },
+    {
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-27T13:25:54+00:00",
+      "title_so": "Mbappé waan ka xumahay hadalka Mao ee 'sida xun loo xukumay' ka dib fal celintii Shiinaha"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-27T13:17:24+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+      "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-27T13:13:50+00:00",
+      "title_so": "U guurista macdan qodayaasha Bitcoin ee AI waxay abuuraysaa suuq cusub oo loogu talagalay awoodda xisaabinta ganacsiga"
+    },
+    {
+      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-27T13:08:26+00:00",
+      "title_so": "Waxaan ahay hooyo keligeed ah £41,000 waxaanan ku xaddidaa dukaankayga toddobaadlaha ah £40 - way adag tahay"
+    },
+    {
+      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
+      "url": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-27T13:01:10+00:00",
+      "title_so": "Hayes wuxuu faahfaahinayaa FLOP's AI wuxuu xisaabiyaa aragga kala-soocida ka dib markii uu iibiyay altcoins-kiisa"
+    },
     {
       "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
       "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-27T13:01:08+00:00",
-      "title_so": null
+      "title_so": "Shirkadda Macdanta ee Bitcoin Luxor ayaa kor u qaadaysa $16 milyan si ay u cabbirto riixitaanka xisaabteeda AI"
     },
     {
       "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
       "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-27T13:00:00+00:00",
-      "title_so": null
+      "published": "2026-10-27T13:01:00+00:00",
+      "title_so": "Luxor waxay kor u qaaday $16M CMT Digital iyada oo ay jirto isku dhafka macdanta AI-Bitcoin"
     },
     {
       "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood’s Earnings Call",
@@ -23,15 +111,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-27T12:59:58+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Minimum wage increase set to slow for 18-20 year-olds",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-27T12:53:49+00:00",
-      "title_so": null
+      "title_so": "Daqiiqada Subaxda: Tokenized Stock Battle wuxuu ku socdaa wicida dakhliga ee Robinhood"
     },
     {
       "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
@@ -39,15 +119,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-27T12:18:24+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-27T12:02:20+00:00",
-      "title_so": null
+      "title_so": "Falanqaynta qiimaha Bitcoin waxay arkaysaa 'mudaaharaad xooggan' maaddaama qadaadiicda hore ay noqdaan kuwo hurda"
     },
     {
       "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
@@ -55,7 +127,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-27T12:00:39+00:00",
-      "title_so": null
+      "title_so": "Bitcoin waxay muujineysaa calaamadaha daciifnimada halka guusha bangiga Ripple uu ku guuldareysto inuu xoojiyo XRP"
     },
     {
       "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
@@ -63,15 +135,15 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-27T11:46:51+00:00",
-      "title_so": null
+      "title_so": "Waa maxay sababta kooxdan Ninjas ay ugu sii yaraanayaan macdanta Bitcoin"
     },
     {
-      "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+      "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
       "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-27T11:40:50+00:00",
-      "title_so": null
+      "title_so": "Cusboonaysiinta tooska ah: Bitcoin waxay haysaa ku dhawaad ​​$80,000 iyadoo AI dhismuhu soo jiidanayo dareenka maalgashadayaasha iyo raasamaal"
     },
     {
       "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
@@ -79,7 +151,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-27T11:37:52+00:00",
-      "title_so": null
+      "title_so": "Sarrifka sarrifka ee yen ee Japan ayaa hoos uga dhacay bartilmaameedkiisa sanadka ugu horreeya ee niyad-jabka ah"
     },
     {
       "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
@@ -87,7 +159,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-27T11:32:45+00:00",
-      "title_so": null
+      "title_so": "Bitcoin ayaa ka hooseysa $80,000 maadaama crypto uu iska indhatiray isu soo baxa teknoolojiyadda Aasiya, kulanka Fed ayaa bilaabmay"
     },
     {
       "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
@@ -95,7 +167,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-27T11:13:54+00:00",
-      "title_so": null
+      "title_so": "Sameeyaha jeebka Crypto Keystone si uu u baabi'iyo ku dhawaad ​​​​19,000 aaladaha kadib jebinta amniga"
     },
     {
       "title": "What is the Budget and what could be in it?",
@@ -103,31 +175,28 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-27T11:06:53+00:00",
-      "title_so": null
+      "title_so": "Waa maxay Miisaaniyadda iyo waxa ku jiri kara?"
     },
     {
       "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
       "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-27T10:57:51+00:00",
-      "title_so": null
+      "published": "2026-10-27T10:57:51+00:00"
     },
     {
       "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
       "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-27T10:16:46+00:00",
-      "title_so": null
+      "published": "2026-10-27T10:16:46+00:00"
     },
     {
       "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
       "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-27T10:00:31+00:00",
-      "title_so": null
+      "published": "2026-10-27T10:00:31+00:00"
     },
     {
       "title": "Now is the time to accumulate bitcoin, Galaxy says",
@@ -142,8 +211,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-27T09:37:55+00:00",
-      "title_so": null
+      "published": "2026-10-27T09:37:55+00:00"
     },
     {
       "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
@@ -194,14 +262,6 @@
       "title_so": "Ethereum waxay hagaajisaa bug Glamsterdam kaas oo u diri kara lacag dhigaal ah kuwa wax dhisa"
     },
     {
-      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-27T06:48:50+00:00",
-      "title_so": "Waxaan ahay hooyo keligeed ah £41,000 waxaanan ku xaddidaa dukaankayga toddobaadlaha ah £40 - way adag tahay"
-    },
-    {
       "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
       "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -216,14 +276,6 @@
       "category": "Crypto",
       "published": "2026-10-27T06:14:41+00:00",
       "title_so": "Aasaasaha Zcash wuxuu soo jeedinayaa joojinta maalgelinta deeqaha, isagoo tixraacaya khasnadda $125 milyan"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-27T06:08:28+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Donald Trump's biggest economic problem looks strangely familiar",
@@ -438,24 +490,21 @@
       "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-26T15:54:15+00:00",
-      "title_so": null
+      "published": "2026-10-26T15:54:15+00:00"
     },
     {
       "title": "OCC calls on community banks to enter the stablecoin payments market",
       "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-26T15:45:51+00:00",
-      "title_so": null
+      "published": "2026-10-26T15:45:51+00:00"
     },
     {
       "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
       "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T15:36:03+00:00",
-      "title_so": null
+      "published": "2026-10-26T15:36:03+00:00"
     },
     {
       "title": "'Privacy Horror’: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
@@ -498,55 +547,6 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-26T13:27:38+00:00"
-    },
-    {
-      "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
-      "url": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-26T13:24:38+00:00"
-    },
-    {
-      "title": "AI giant Anthropic files for blockbuster IPO",
-      "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-26T13:22:09+00:00"
-    },
-    {
-      "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-      "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-26T13:12:41+00:00"
-    },
-    {
-      "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-      "url": "https://decrypt.co/381802/bitcoin-dips-below-80000-ahead-of-fed-decision-midterms",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-26T13:02:43+00:00"
-    },
-    {
-      "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-      "url": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-26T13:01:02+00:00"
-    },
-    {
-      "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
-      "url": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-26T12:16:12+00:00"
-    },
-    {
-      "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-26T11:53:07+00:00"
     }
   ]
 }
