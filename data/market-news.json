@@ -1,21 +1,93 @@
 {
-  "updated_at": "2026-10-27T07:07:32.827119+00:00",
+  "updated_at": "2026-10-27T09:57:51.816456+00:00",
   "items": [
     {
-      "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "title": "Now is the time to accumulate bitcoin, Galaxy says",
+      "url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-27T09:42:46+00:00",
+      "title_so": "Hadda waa waqtigii la uruurin lahaa bitcoin, ayuu yidhi Galaxy"
+    },
+    {
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-27T09:37:55+00:00",
+      "title_so": "Apple ayaa sheegtay in ay ku beddeli doonto taleefannada gacanta ee iPhone Duo dhibaatooyinka shaashadda"
+    },
+    {
+      "title": "Budget measures to include fuel duty freeze and food tariff cuts",
       "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-27T06:49:19+00:00",
-      "title_so": null
+      "published": "2026-10-27T09:17:39+00:00",
+      "title_so": "Tallaabooyinka miisaaniyadda oo ay ku jiraan joojinta cashuurta shidaalka iyo dhimista tacriifadaha cuntada"
     },
     {
-      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
+      "url": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-27T09:07:37+00:00",
+      "title_so": "Hackers-ka Bloom-bot-ku waxay bililiqeysteen $953k si ka dhakhso badan sidaad karootada mikrowave ah"
+    },
+    {
+      "title": "An AI label alone no longer wins lenders, JPMorgan says",
+      "url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-27T08:24:39+00:00",
+      "title_so": "Calaamadda AI kaligiis kuma guuleysanayso amaah-bixiyeyaasha, JPMorgan ayaa leh"
+    },
+    {
+      "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+      "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-27T08:04:21+00:00",
+      "title_so": "Binance wuxuu u fayl-gareeyaa shatiga crypto Brazil kahor maalinta Jimcaha"
+    },
+    {
+      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+      "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-27T07:44:04+00:00",
+      "title_so": "Warbixinnada Solana bug ayaa hadda ku kacaya 1 SOL maadaama AI ay daadadka kooxaha amniga wata spam"
+    },
+    {
+      "title": "Bitcoin ETFs claw back $110M after $774M exit",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-27T07:35:37+00:00",
+      "title_so": "Bitcoin ETFs waxay dib u soo celiyaan $110M ka dib bixitaan $774M"
+    },
+    {
+      "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-27T07:15:08+00:00",
+      "title_so": "Summadaha waaweyn ee Shiinaha ayaa hoos u dhigaya Mbappé iyadoo dib u dhac ku yimid kaftanka Mao"
+    },
+    {
+      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+      "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-27T07:09:56+00:00",
+      "title_so": "Ethereum waxay hagaajisaa bug Glamsterdam kaas oo u diri kara lacag dhigaal ah kuwa wax dhisa"
+    },
+    {
+      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
       "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-27T06:48:50+00:00",
-      "title_so": null
+      "title_so": "Waxaan ahay hooyo keligeed ah £41,000 waxaanan ku xaddidaa dukaankayga toddobaadlaha ah £40 - way adag tahay"
     },
     {
       "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
@@ -23,7 +95,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-27T06:33:11+00:00",
-      "title_so": null
+      "title_so": "Kor u kaca iibinta idaacadaha iyo cuntooyinka qasacadaysan, ayay yiraahdeen tafaariiqleyaasha, kadib wacitaanka kaydinta"
     },
     {
       "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
@@ -31,7 +103,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-27T06:14:41+00:00",
-      "title_so": null
+      "title_so": "Aasaasaha Zcash wuxuu soo jeedinayaa joojinta maalgelinta deeqaha, isagoo tixraacaya khasnadda $125 milyan"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -39,7 +111,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-27T06:08:28+00:00",
-      "title_so": null
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Donald Trump's biggest economic problem looks strangely familiar",
@@ -47,7 +119,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-27T06:01:11+00:00",
-      "title_so": null
+      "title_so": "Dhibaatada dhaqaale ee ugu weyn ee Donald Trump ayaa u muuqata mid la yaab leh"
     },
     {
       "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
@@ -55,7 +127,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-27T04:28:49+00:00",
-      "title_so": null
+      "title_so": "Ripple wuxuu helayaa horudhac u dambeeya si uu u bilaabo bangigiisa kalsoonida qaranka Mareykanka"
     },
     {
       "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
@@ -63,7 +135,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-27T04:26:51+00:00",
-      "title_so": null
+      "title_so": "RedotPay waxay miisaamaysaa xaraynta IPO ee US sirta ah dhamaadka sanadka: Bloomberg"
     },
     {
       "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
@@ -71,15 +143,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-27T01:55:03+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
-      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-27T01:48:04+00:00",
-      "title_so": null
+      "title_so": "Jebinta furaha ayaa sii qoto dheereysa: Hackers waxay xadeen furaha loo isticmaalo in lagu xaqiijiyo boorsooyinka inay run yihiin"
     },
     {
       "title": "Ripple wins final US approval for national trust bank",
@@ -87,7 +151,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-27T00:06:41+00:00",
-      "title_so": null
+      "title_so": "Ripple ayaa ku guulaysta ansixinta ugu danbeysa ee Maraykanka ee bangiga kalsoonida qaranka"
     },
     {
       "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
@@ -95,7 +159,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-26T22:16:03+00:00",
-      "title_so": null
+      "title_so": "Qabyo-qoraalka Kanada ee Stablecoin Xeerarka Khidmadaha Furashada ee 1% iyo Ban Wax-soosaarka"
     },
     {
       "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
@@ -262,64 +326,56 @@
       "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-26T15:54:15+00:00",
-      "title_so": null
+      "published": "2026-10-26T15:54:15+00:00"
     },
     {
       "title": "OCC calls on community banks to enter the stablecoin payments market",
       "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-26T15:45:51+00:00",
-      "title_so": null
+      "published": "2026-10-26T15:45:51+00:00"
     },
     {
       "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
       "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T15:36:03+00:00",
-      "title_so": null
+      "published": "2026-10-26T15:36:03+00:00"
     },
     {
       "title": "'Privacy Horror’: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
       "url": "https://decrypt.co/381801/privacy-horror-researcher-uncovers-extent-of-samsung-smart-tv-user-tracking",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T15:00:02+00:00",
-      "title_so": null
+      "published": "2026-10-26T15:00:02+00:00"
     },
     {
       "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
       "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-26T14:51:07+00:00",
-      "title_so": null
+      "published": "2026-10-26T14:51:07+00:00"
     },
     {
       "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
       "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-26T14:25:22+00:00",
-      "title_so": null
+      "published": "2026-10-26T14:25:22+00:00"
     },
     {
       "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
       "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-26T14:23:41+00:00",
-      "title_so": null
+      "published": "2026-10-26T14:23:41+00:00"
     },
     {
       "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under ‘ANT’",
       "url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T13:50:22+00:00",
-      "title_so": null
+      "published": "2026-10-26T13:50:22+00:00"
     },
     {
       "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
@@ -474,62 +530,6 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-26T05:15:20+00:00"
-    },
-    {
-      "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-      "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-26T05:13:33+00:00"
-    },
-    {
-      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-      "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-26T04:37:02+00:00"
-    },
-    {
-      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-      "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-26T03:21:26+00:00"
-    },
-    {
-      "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
-      "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-26T03:11:39+00:00"
-    },
-    {
-      "title": "Keystone says website breach exposed hardware wallet buyers’ addresses",
-      "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-26T02:24:04+00:00"
-    },
-    {
-      "title": "What is the Budget and what could be in it?",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-26T02:16:37+00:00"
-    },
-    {
-      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-26T00:26:49+00:00"
-    },
-    {
-      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
-      "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-26T00:13:29+00:00"
     }
   ]
 }
