@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-26T21:50:53.021149+00:00",
+  "updated_at": "2026-10-27T01:08:31.481892+00:00",
   "items": [
+    {
+      "title": "Ripple wins final US approval for national trust bank",
+      "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-27T00:06:41+00:00",
+      "title_so": null
+    },
+    {
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-27T00:01:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-26T22:30:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+      "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-26T22:16:03+00:00",
+      "title_so": null
+    },
     {
       "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
       "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
@@ -166,112 +198,128 @@
       "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-26T15:54:15+00:00"
+      "published": "2026-10-26T15:54:15+00:00",
+      "title_so": null
     },
     {
       "title": "OCC calls on community banks to enter the stablecoin payments market",
       "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-26T15:45:51+00:00"
+      "published": "2026-10-26T15:45:51+00:00",
+      "title_so": null
     },
     {
       "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
       "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T15:36:03+00:00"
+      "published": "2026-10-26T15:36:03+00:00",
+      "title_so": null
     },
     {
       "title": "'Privacy Horror’: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
       "url": "https://decrypt.co/381801/privacy-horror-researcher-uncovers-extent-of-samsung-smart-tv-user-tracking",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T15:00:02+00:00"
+      "published": "2026-10-26T15:00:02+00:00",
+      "title_so": null
     },
     {
       "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
       "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-26T14:51:07+00:00"
+      "published": "2026-10-26T14:51:07+00:00",
+      "title_so": null
     },
     {
       "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
       "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-26T14:25:22+00:00"
+      "published": "2026-10-26T14:25:22+00:00",
+      "title_so": null
     },
     {
       "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
       "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-26T14:23:41+00:00"
+      "published": "2026-10-26T14:23:41+00:00",
+      "title_so": null
     },
     {
       "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under ‘ANT’",
       "url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T13:50:22+00:00"
+      "published": "2026-10-26T13:50:22+00:00",
+      "title_so": null
     },
     {
       "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
       "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-26T13:27:38+00:00"
+      "published": "2026-10-26T13:27:38+00:00",
+      "title_so": null
     },
     {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-26T13:26:47+00:00"
+      "published": "2026-10-26T13:26:47+00:00",
+      "title_so": null
     },
     {
       "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
       "url": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T13:24:38+00:00"
+      "published": "2026-10-26T13:24:38+00:00",
+      "title_so": null
     },
     {
       "title": "AI giant Anthropic files for blockbuster IPO",
       "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-26T13:22:09+00:00"
+      "published": "2026-10-26T13:22:09+00:00",
+      "title_so": null
     },
     {
       "title": "HOOD’s prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
       "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-26T13:12:41+00:00"
+      "published": "2026-10-26T13:12:41+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
       "url": "https://decrypt.co/381802/bitcoin-dips-below-80000-ahead-of-fed-decision-midterms",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T13:02:43+00:00"
+      "published": "2026-10-26T13:02:43+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
       "url": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T13:01:02+00:00"
+      "published": "2026-10-26T13:01:02+00:00",
+      "title_so": null
     },
     {
       "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
       "url": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-26T12:16:12+00:00"
+      "published": "2026-10-26T12:16:12+00:00",
+      "title_so": null
     },
     {
       "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
@@ -482,34 +530,6 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-25T13:00:00+00:00"
-    },
-    {
-      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
-      "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-25T11:42:00+00:00"
-    },
-    {
-      "title": "Budget to include £1bn for social and affordable housing",
-      "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-25T10:03:17+00:00"
-    },
-    {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-25T07:15:38+00:00"
-    },
-    {
-      "title": "Will a new code end 'rip-off parking charges'?",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-25T07:05:30+00:00"
     }
   ]
 }
