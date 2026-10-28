@@ -1,21 +1,109 @@
 {
-  "updated_at": "2026-10-28T13:17:00.406534+00:00",
+  "updated_at": "2026-10-28T16:07:52.037676+00:00",
   "items": [
     {
-      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-      "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T13:14:37+00:00",
-      "title_so": null
+      "published": "2026-10-28T16:01:36+00:00",
+      "title_so": "Crypto Long & Short: Maxaa dhacaya marka wakiilka AI uu bixiyo wax khaldan"
+    },
+    {
+      "title": "The one thing that didn't change that will affect your pay the most",
+      "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-28T15:48:03+00:00",
+      "title_so": "Hal shay oo aan waxba iska beddelin oo saamayn doona mushaharkaaga"
     },
     {
       "title": "Budget 2026: Key points at a glance",
       "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-28T13:13:38+00:00",
-      "title_so": null
+      "published": "2026-10-28T15:37:50+00:00",
+      "title_so": "Miisaaniyadda 2026: Qodobbada muhiimka ah marka la eego"
+    },
+    {
+      "title": "Your pay, energy bills and savings: How the Budget affects you",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-28T15:32:58+00:00",
+      "title_so": "Mushaharkaaga, biilasha tamarta iyo kaydka: Sida miisaaniyadu kuu saamayso"
+    },
+    {
+      "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+      "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-28T15:15:34+00:00",
+      "title_so": "Go'aanka Heerka Fed: Waa maxay Suuqyada iyo Ganacsatada Bitcoin waxay filan karaan"
+    },
+    {
+      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+      "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-28T15:05:03+00:00",
+      "title_so": "JPMorgan, Coca-Cola oo ka mid ah 7 Shirkadood oo Dheeraad ah oo Diidmada OKX-ICE Tokenized Stocks"
+    },
+    {
+      "title": "How much is the minimum wage going up by?",
+      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-28T14:53:29+00:00",
+      "title_so": "Waa imisa mushaharka ugu yar ee kor u kaca?"
+    },
+    {
+      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+      "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-28T13:47:51+00:00",
+      "title_so": "Google Cloud wuxuu qeexayaa adeegga MPC ee hay'adda Bitcoin haynta"
+    },
+    {
+      "title": "House Oversight Chair Comer Probes Delaware Plan for AI-Run Companies",
+      "url": "https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-28T13:38:08+00:00",
+      "title_so": "Kormeeraha Guriga Comer Probes ee Qorshaha Delaware ee Shirkadaha AI-Run"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-28T13:35:44+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Cybersecurity’s Black October: How to protect yourself",
+      "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-28T13:30:00+00:00",
+      "title_so": "Cybersecurity's Black October: Sida loo ilaaliyo naftaada"
+    },
+    {
+      "title": "DTCC unit launches tokenization services",
+      "url": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-28T13:19:00+00:00",
+      "title_so": "Unugga DTCC ayaa bilaabay adeegyada tokenization"
+    },
+    {
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-28T13:14:37+00:00",
+      "title_so": "Laf-dhabarka Wall Street DTCC waxay keentaa $30 trillion oo dammaanad ah oo ku dhow blockchain oo leh bangiyada waaweyn"
     },
     {
       "title": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
@@ -23,7 +111,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-28T13:01:02+00:00",
-      "title_so": null
+      "title_so": "Goldman, BlackRock Alumni waxay ururiyeen $4 milyan si ay u dhigaan Amaahda Beeraha iyo Guryaha Onchain"
     },
     {
       "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
@@ -31,7 +119,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-28T12:59:36+00:00",
-      "title_so": null
+      "title_so": "JPMorgan, Coca-Cola, Dell sidoo kale waxay dhahaan 'maya' qorshaha ganacsiga tock-ka ee OKX-ICE"
     },
     {
       "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
@@ -39,7 +127,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-28T12:16:30+00:00",
-      "title_so": null
+      "title_so": "Qiimaha Moody's Ripple's $2.6B RLUSD Stablecoin A2, maalin kadib OCC Bank Ansixinta"
     },
     {
       "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
@@ -47,7 +135,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-28T12:04:56+00:00",
-      "title_so": null
+      "title_so": "Daqiiqada Subaxda: Robinhood way seegtay, Laakin garaaca Crypto iyo silsilada Robinhood ayaa kor u kacaysa"
     },
     {
       "title": "Dissent and more: 3 things to watch for at the Fed meeting",
@@ -55,7 +143,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-28T11:57:26+00:00",
-      "title_so": null
+      "title_so": "Diidmada iyo in ka badan: 3 shay oo la daawado kulanka Fed"
     },
     {
       "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
@@ -63,7 +151,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-28T11:52:14+00:00",
-      "title_so": null
+      "title_so": "Horumarinta XRP Ledger waxay soo jeedinayaan abuurista boorsooyin aan lahayn XRP eber lacag-bixinnada stablecoin"
     },
     {
       "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
@@ -71,15 +159,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-28T11:32:31+00:00",
-      "title_so": null
-    },
-    {
-      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-28T11:30:26+00:00",
-      "title_so": "Waxa aan helaa £4,062 sanadkii waxana aan isku dayaa waxa ugu fiican - waa kan waxa aan ka rabo Miisaaniyadda"
+      "title_so": "Bitcoin ayaa dib uga soo kabsanaysa $81,000 iyadoo isu soo baxa Chip Asia uu ku qulqulayo crypto, pepe ayaa booday 9%"
     },
     {
       "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
@@ -87,55 +167,49 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-28T11:24:07+00:00",
-      "title_so": null
+      "title_so": "Welwelka dejinta ayaa keenaya in Euronext ay joojiso CoinShares' Zcash ETP ka hor inta aan la bilaabin"
     },
     {
-      "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
+      "title": "Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends",
       "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T11:23:34+00:00",
-      "title_so": null
+      "published": "2026-10-28T11:23:34+00:00"
     },
     {
       "title": "Mirae Asset Securities issues tokenized notes on Solana",
       "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-28T11:05:33+00:00",
-      "title_so": null
+      "published": "2026-10-28T11:05:33+00:00"
     },
     {
       "title": "Google to preview crypto custody security system as AI threats grow",
       "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T11:00:00+00:00",
-      "title_so": null
+      "published": "2026-10-28T11:00:00+00:00"
     },
     {
       "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
       "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-28T10:57:29+00:00",
-      "title_so": null
+      "published": "2026-10-28T10:57:29+00:00"
     },
     {
       "title": "You may get the right to find out what your colleagues earn - here's why",
       "url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-28T10:42:39+00:00",
-      "title_so": null
+      "published": "2026-10-28T10:42:39+00:00"
     },
     {
       "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
       "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T10:41:51+00:00",
-      "title_so": null
+      "published": "2026-10-28T10:41:51+00:00"
     },
     {
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
@@ -150,16 +224,14 @@
       "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-28T10:10:31+00:00",
-      "title_so": null
+      "published": "2026-10-28T10:10:31+00:00"
     },
     {
       "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
       "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T10:07:54+00:00",
-      "title_so": null
+      "published": "2026-10-28T10:07:54+00:00"
     },
     {
       "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
@@ -208,14 +280,6 @@
       "category": "Crypto",
       "published": "2026-10-28T07:42:55+00:00",
       "title_so": "Coinbase ayaa diiday nidaamka jebinta, ayuu yidhi iibiyaha xogta macaamiisha kashifay"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-28T06:00:00+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
@@ -302,16 +366,14 @@
       "url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-27T21:26:41+00:00",
-      "title_so": null
+      "published": "2026-10-27T21:26:41+00:00"
     },
     {
       "title": "China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off",
       "url": "https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-27T21:16:02+00:00",
-      "title_so": null
+      "published": "2026-10-27T21:16:02+00:00"
     },
     {
       "title": "Landline switchover could cut people off in emergency, minister warned",
@@ -477,78 +539,6 @@
       "category": "Crypto",
       "published": "2026-10-27T15:59:58+00:00",
       "title_so": "USDC waxay dhaaftay USDT ganacsiga euro stablecoin iyadoo xeerarka EU ay dib u qaabeeyaan suuqa: Kaiko"
-    },
-    {
-      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-27T15:01:27+00:00",
-      "title_so": "Mushaharka ugu yar ayaa lagu wadaa inuu kordho laakiin 18-20 sano jir ma heli doono koror ka sii weyn"
-    },
-    {
-      "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
-      "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-27T14:31:02+00:00",
-      "title_so": "McDonald's McRib Runtii Kor Uma Qaado Qiimaha Bitcoin, Waan Ka xunahay Qof walba"
-    },
-    {
-      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-      "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-27T14:21:10+00:00",
-      "title_so": "Nasdaq-100 wuxuu ku yimid onchain sidii Janus Henderson iyo Centrifuge ay bilaabeen sanduuqa shatiga ugu horreeya"
-    },
-    {
-      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-      "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-27T14:00:00+00:00",
-      "title_so": "CF Benchmarks waxay keentaa kaabayaasha qiimaha Wall Street onchain, oo ay ku jiraan xogta ay isticmaasho BlackRock"
-    },
-    {
-      "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
-      "url": "https://decrypt.co/381936/polymarket-has-investigated-dozens-of-midterm-election-bets-report",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-27T13:52:58+00:00",
-      "title_so": "Polymarket-ka ayaa baadhay 'daraasiin' ee sharadka doorashada xilliga dhexe: Warbixinta"
-    },
-    {
-      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
-      "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-27T13:30:00+00:00",
-      "title_so": "Crypto waxay ka sarreyn kartaa saamiyada AI: Wall Street veteran Jordi Visser"
-    },
-    {
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-27T13:25:54+00:00",
-      "title_so": "Mbappé waan ka xumahay hadalka Mao ee 'sida xun loo xukumay' ka dib fal celintii Shiinaha"
-    },
-    {
-      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-      "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-27T13:13:50+00:00",
-      "title_so": "U guurista macdan qodayaasha Bitcoin ee AI waxay abuuraysaa suuq cusub oo loogu talagalay awoodda xisaabinta ganacsiga"
-    },
-    {
-      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
-      "url": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-27T13:01:10+00:00",
-      "title_so": "Hayes wuxuu faahfaahinayaa FLOP's AI wuxuu xisaabiyaa aragga kala-soocida ka dib markii uu iibiyay altcoins-kiisa"
     }
   ]
 }
