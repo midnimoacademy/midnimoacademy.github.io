@@ -1,6 +1,110 @@
 {
-  "updated_at": "2026-10-28T19:09:19.628195+00:00",
+  "updated_at": "2026-10-28T21:56:24.263618+00:00",
   "items": [
+    {
+      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+      "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-28T21:46:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
+      "url": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-28T21:35:52+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
+      "url": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-28T21:16:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-28T21:13:44+00:00",
+      "title_so": null
+    },
+    {
+      "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+      "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-28T20:16:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "What we now know about the UK economy in four charts",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-28T20:08:45+00:00",
+      "title_so": null
+    },
+    {
+      "title": "What the Budget offers for under 25s - and what it leaves out",
+      "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-28T20:02:38+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-28T19:51:01+00:00",
+      "title_so": "Dharshini David: Healey waqti ayuu is gatay, laakiin su'aalaha waaweyn weli jawaab uma helin"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-28T19:46:45+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
+      "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-28T19:46:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+      "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-28T19:16:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-28T19:15:58+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+      "url": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-28T19:10:40+00:00",
+      "title_so": null
+    },
     {
       "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
       "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
@@ -18,12 +122,12 @@
       "title_so": "Healey waxay u sheegtaa waaxyaha inay sameeyaan 1% dhimis si ay u maalgeliyaan difaaca"
     },
     {
-      "title": "Five ways the Budget will affect you if you are under 25",
-      "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-28T18:55:56+00:00",
-      "title_so": "Shan siyaabood ayay Miisaaniyaddu kuu saamaynaysaa haddii aad ka yar tahay 25 jir"
+      "published": "2026-10-28T18:45:09+00:00",
+      "title_so": null
     },
     {
       "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
@@ -80,14 +184,6 @@
       "category": "Crypto",
       "published": "2026-10-28T17:36:02+00:00",
       "title_so": "AI waxay si deggan u saameyn kartaa go'aamada khubarada, Natiijooyinka Daraasadda Anthropic"
-    },
-    {
-      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-28T17:32:51+00:00",
-      "title_so": "Dharshini David: Healey waqti ayuu is gatay, laakiin su'aalaha waaweyn weli jawaab uma helin"
     },
     {
       "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
@@ -210,14 +306,6 @@
       "title_so": "Kormeeraha Guriga Comer Probes ee Qorshaha Delaware ee Shirkadaha AI-Run"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-28T13:35:44+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
       "title": "Cybersecurity’s Black October: How to protect yourself",
       "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -306,47 +394,52 @@
       "title_so": "Welwelka dejinta ayaa keenaya in Euronext ay joojiso CoinShares' Zcash ETP ka hor inta aan la bilaabin"
     },
     {
-      "title": "Live updates: Bitcoin trading just above $80,000 as Fed delivers hold on rates",
+      "title": "Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates",
       "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-28T11:23:34+00:00",
-      "title_so": "Cusboonaysiinta tooska ah: Ganacsiga Bitcoin wax yar ka sarreeya $80,000 sida Fed ay u bixiso qiimaha"
+      "title_so": null
     },
     {
       "title": "Mirae Asset Securities issues tokenized notes on Solana",
       "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-28T11:05:33+00:00"
+      "published": "2026-10-28T11:05:33+00:00",
+      "title_so": null
     },
     {
       "title": "Google to preview crypto custody security system as AI threats grow",
       "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T11:00:00+00:00"
+      "published": "2026-10-28T11:00:00+00:00",
+      "title_so": null
     },
     {
       "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
       "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-28T10:57:29+00:00"
+      "published": "2026-10-28T10:57:29+00:00",
+      "title_so": null
     },
     {
       "title": "You may get the right to find out what your colleagues earn - here's why",
       "url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-28T10:42:39+00:00"
+      "published": "2026-10-28T10:42:39+00:00",
+      "title_so": null
     },
     {
       "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
       "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T10:41:51+00:00"
+      "published": "2026-10-28T10:41:51+00:00",
+      "title_so": null
     },
     {
       "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
@@ -361,14 +454,16 @@
       "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-28T10:10:31+00:00"
+      "published": "2026-10-28T10:10:31+00:00",
+      "title_so": null
     },
     {
       "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
       "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T10:07:54+00:00"
+      "published": "2026-10-28T10:07:54+00:00",
+      "title_so": null
     },
     {
       "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
@@ -465,87 +560,6 @@
       "category": "Crypto",
       "published": "2026-10-28T02:18:47+00:00",
       "title_so": "Bithumb waxay daaha ka qaadaysa xogta daadatay kadib jebinta nidaamka gudaha: Warbixin"
-    },
-    {
-      "title": "Discord is making public chats searchable on Google: How to opt out",
-      "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-28T00:47:04+00:00",
-      "title_so": "Discord waxay ka dhigaysaa sheekeysiga guud ee Google-ka laga raadin karo: Sida loo baxo"
-    },
-    {
-      "title": "'An annoying buzz': The search for stealthier drones",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-28T00:01:10+00:00",
-      "title_so": "'Buzz caro leh': Raadinta diyaaradaha aan duuliyaha lahayn"
-    },
-    {
-      "title": "China's families are now supporting more old people than kids",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-27T23:16:08+00:00",
-      "title_so": "Qoysaska Shiinaha ayaa hadda taageera dad ka badan kuwa carruurta ah"
-    },
-    {
-      "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-      "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-27T21:28:22+00:00",
-      "title_so": "VanEck waxay soo saartaa ETF kala duwan oo isku darka saamiyada, curaarta iyo soo-gaadhista Bitcoin"
-    },
-    {
-      "title": "Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks",
-      "url": "https://cointelegraph.com/news/intel-ibm-oracle-ionq-object-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-27T21:26:41+00:00"
-    },
-    {
-      "title": "China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off",
-      "url": "https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-27T21:16:02+00:00"
-    },
-    {
-      "title": "Landline switchover could cut people off in emergency, minister warned",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-27T20:54:48+00:00"
-    },
-    {
-      "title": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
-      "url": "https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-27T20:42:11+00:00"
-    },
-    {
-      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-      "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-27T20:41:33+00:00"
-    },
-    {
-      "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
-      "url": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-27T20:33:19+00:00"
-    },
-    {
-      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
-      "url": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-27T20:32:21+00:00"
     }
   ]
 }
