@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-27T21:52:34.528896+00:00",
+  "updated_at": "2026-10-28T01:20:35.894603+00:00",
   "items": [
+    {
+      "title": "Discord is making public chats searchable on Google: How to opt out",
+      "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-28T00:47:04+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-28T00:03:10+00:00",
+      "title_so": "Canshuurta bangiyada, caawinta biilka tamarta iyo kordhinta mushaharka ugu yar - maxaa ku jiri kara Miisaaniyadda?"
+    },
+    {
+      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-28T00:03:05+00:00",
+      "title_so": null
+    },
+    {
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-28T00:01:10+00:00",
+      "title_so": null
+    },
+    {
+      "title": "China's families are now supporting more old people than kids",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-27T23:16:08+00:00",
+      "title_so": null
+    },
     {
       "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
       "url": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -23,6 +63,14 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-27T21:16:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Landline switchover could cut people off in emergency, minister warned",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-27T20:54:48+00:00",
       "title_so": null
     },
     {
@@ -120,14 +168,6 @@
       "category": "Crypto",
       "published": "2026-10-27T18:46:02+00:00",
       "title_so": "Intel, Oracle, IBM Ku biir Diidmada OKX-ICE Tokenized Stock Meesha, oo wadarta guud ka dhigaysa 26"
-    },
-    {
-      "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-27T18:45:56+00:00",
-      "title_so": "Canshuurta bangiyada, caawinta biilka tamarta iyo kordhinta mushaharka ugu yar - maxaa ku jiri kara Miisaaniyadda?"
     },
     {
       "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
@@ -272,14 +312,6 @@
       "category": "Crypto",
       "published": "2026-10-27T13:13:50+00:00",
       "title_so": "U guurista macdan qodayaasha Bitcoin ee AI waxay abuuraysaa suuq cusub oo loogu talagalay awoodda xisaabinta ganacsiga"
-    },
-    {
-      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-27T13:08:26+00:00",
-      "title_so": "Waxaan ahay hooyo keligeed ah £41,000 waxaanan ku xaddidaa dukaankayga toddobaadlaha ah £40 - way adag tahay"
     },
     {
       "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
@@ -528,38 +560,6 @@
       "category": "Crypto",
       "published": "2026-10-26T21:46:02+00:00",
       "title_so": "OpenAI Waxay Bilawday GPT-6.1 Terra, Moodelkeeda AI ee Wanaagsan oo kala badh ah"
-    },
-    {
-      "title": "US OCC calls on community banks to become payment stablecoin issuers",
-      "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-26T21:38:30+00:00",
-      "title_so": "US OCC waxay ugu baaqaysaa bangiyada bulshada inay noqdaan lacag-bixiyeyaal stablecoin ah"
-    },
-    {
-      "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
-      "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-26T21:23:32+00:00",
-      "title_so": "Injective waxay soo bandhigtay suuqa mustaqbalka ee onchain ee daba-galka kharashka kirada Nvidia GPU"
-    },
-    {
-      "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
-      "url": "https://decrypt.co/381871/unitree-stock-jumps-investors-bet-chatbot-ai-robots-brain",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-26T21:16:03+00:00",
-      "title_so": "Kaydka Unitree wuxuu u boodaa sida maalgashadayaashu u sharxayaan Chatbot AI ayaa ugu dambeyntii siin doona Robots maskax"
-    },
-    {
-      "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
-      "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-26T20:36:03+00:00",
-      "title_so": "NBA waxay ku qanacday CFTC ee Suuqyada Saadaasha sida NFL ay ula dagaallanto Maxkamadda dhexdeeda"
     }
   ]
 }
