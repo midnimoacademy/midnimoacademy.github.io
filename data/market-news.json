@@ -1,13 +1,61 @@
 {
-  "updated_at": "2026-10-29T04:03:38.506128+00:00",
+  "updated_at": "2026-10-29T07:21:01.100080+00:00",
   "items": [
+    {
+      "title": "'We need help for small businesses, not punishment'",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwxplv1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-29T06:27:28+00:00",
+      "title_so": "'Waxaan u baahanahay caawimaad ganacsiyada yaryar, ee uma baahnno ciqaab'"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-29T06:00:00+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+      "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-29T05:54:39+00:00",
+      "title_so": "AI waxay heshay hab ay ku burburiso qanjidhada bitcoin ee Windows iyo Macs. Hadda waa mid guud"
+    },
+    {
+      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+      "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-29T05:30:34+00:00",
+      "title_so": "Guuldarada amniga ee shirkadda shahaadada Hindida ayaa qaniineysa Ethereum iyadoo horumariyayaashu ay ku degdegayaan hagaajinta"
+    },
+    {
+      "title": "Utah charges predictions platform Kalshi with illegal gambling",
+      "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-29T05:02:37+00:00",
+      "title_so": "Utah waxay ku soo oogtay madal saadaasha Kalshi khamaar sharci darro ah"
+    },
+    {
+      "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+      "url": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-29T04:39:49+00:00",
+      "title_so": "Talaagadaadu waxay hal maalin yeelan kartaa Ether, soo saar memecoins: kursi CFTC"
+    },
     {
       "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
       "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-29T03:32:43+00:00",
-      "title_so": null
+      "title_so": "Bitcoin ayaa hoos u dhacday $80,000 iyadoo Samsung ay hogaaminayso jitters tignoolajiyada iyo Fed hawkish ah ay miisaamayaan crypto"
     },
     {
       "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
@@ -15,7 +63,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-29T03:21:24+00:00",
-      "title_so": null
+      "title_so": "Mystery Wall Street Journal xayaysiisyadu waxay dhalinaysaa dagaal cusub oo ku saabsan kaydka calaamadaysan"
     },
     {
       "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
@@ -23,7 +71,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-29T03:16:32+00:00",
-      "title_so": null
+      "title_so": "Boorsooyinka Ledger-ka la jabiyay ayaa isticmaalayaasha Singapore waxay ku kaceen $2.7M: Booliiska"
     },
     {
       "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
@@ -31,7 +79,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-29T03:16:19+00:00",
-      "title_so": null
+      "title_so": "Sameeyaha Hello Kitty ayaa jaray xiriirka riwaayadaha basaaska ee Japan ka dib markii Shiinaha ay ka soo horjeesteen"
     },
     {
       "title": "Microsoft profits soar days after announcing thousands of layoffs",
@@ -39,7 +87,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-29T01:27:40+00:00",
-      "title_so": null
+      "title_so": "Microsoft faa'iidada ayaa kor u kacday maalmo kadib markii ay ku dhawaaqday kumanaan shaqo joojin ah"
     },
     {
       "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
@@ -47,7 +95,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-29T01:12:01+00:00",
-      "title_so": null
+      "title_so": "Heerarka Fed's hawkish waxay ku hayaan cadaadiska Bitcoin: Falanqeeyayaasha"
     },
     {
       "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
@@ -55,7 +103,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-29T00:00:25+00:00",
-      "title_so": null
+      "title_so": "Waxa aan qaataa £30,000. Waxaan ka cadhooday ma jirin wax cashuur ah oo laga jaray Miisaaniyadda"
     },
     {
       "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
@@ -63,7 +111,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-29T00:00:15+00:00",
-      "title_so": null
+      "title_so": "'Waxaan la noolahay ruuxa': Guryaha la raafay ee Japan waxay soo jiitaan ugaarsatada gorgortanka ah"
     },
     {
       "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
@@ -71,7 +119,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-28T21:46:02+00:00",
-      "title_so": null
+      "title_so": "Bitcoin Treasury Datavault AI waxay leedahay ma geli karto BTC-deeda, haamaha kaydka"
     },
     {
       "title": "Canadian ‘crypto king’ case to go to jury as criminal trial winds down",
@@ -79,7 +127,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-28T21:35:52+00:00",
-      "title_so": null
+      "title_so": "Kiiska 'crypto king' ee Kanadiyaanka ah in la geeyo xeerbeegtida iyada oo maxkamadaynta dembigu hoos u dhacayso"
     },
     {
       "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
@@ -87,7 +135,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-28T21:16:03+00:00",
-      "title_so": null
+      "title_so": "Chip Maker SK Hynix Boostada Rikoodhka rubuc-qarniga iyadoo Baahida xusuusta AI ay ka badinayso bixinta"
     },
     {
       "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
@@ -95,7 +143,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-28T21:13:44+00:00",
-      "title_so": null
+      "title_so": "Deymaha Bitcoin ay taageerto ayaa imanaya Kanada, laakiin deyn-qaadayaashu wali kama warqabaan kharashka"
     },
     {
       "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
@@ -103,7 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-10-28T20:16:03+00:00",
-      "title_so": null
+      "title_so": "Bilawga Amniga AI ee kor u kaca ayaa kor u qaaday $400M oo ah $3.8B Qiimaha"
     },
     {
       "title": "What we now know about the UK economy in four charts",
@@ -111,7 +159,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-28T20:08:45+00:00",
-      "title_so": null
+      "title_so": "Waxa aan hadda ka ognahay dhaqaalaha UK afar jaantus"
     },
     {
       "title": "What the Budget offers for under 25s - and what it leaves out",
@@ -119,7 +167,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-28T20:02:38+00:00",
-      "title_so": null
+      "title_so": "Waxa ay Miisaaniyaddu bixiso ee ka yar 25 sano - iyo waxa ay ka baxdo"
     },
     {
       "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
@@ -130,44 +178,32 @@
       "title_so": "Dharshini David: Healey waqti ayuu is gatay, laakiin su'aalaha waaweyn weli jawaab uma helin"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-28T19:46:45+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
       "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
       "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-28T19:46:03+00:00",
-      "title_so": null
+      "published": "2026-10-28T19:46:03+00:00"
     },
     {
       "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
       "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-28T19:16:02+00:00",
-      "title_so": null
+      "published": "2026-10-28T19:16:02+00:00"
     },
     {
       "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
       "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-28T19:15:58+00:00",
-      "title_so": null
+      "published": "2026-10-28T19:15:58+00:00"
     },
     {
       "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
       "url": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-28T19:10:40+00:00",
-      "title_so": null
+      "published": "2026-10-28T19:10:40+00:00"
     },
     {
       "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
@@ -178,20 +214,11 @@
       "title_so": "Madaxa CFTC wuxuu soo bandhigay su'aalo ku saabsan bilayska AI laakiin wuxuu ugu yeeray waddo loo maro 'ganacsi madaxbannaan'"
     },
     {
-      "title": "Healey tells departments to make 1% cuts to fund defence",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-28T19:01:34+00:00",
-      "title_so": "Healey waxay u sheegtaa waaxyaha inay sameeyaan 1% dhimis si ay u maalgeliyaan difaaca"
-    },
-    {
       "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
       "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-28T18:45:09+00:00",
-      "title_so": null
+      "published": "2026-10-28T18:45:09+00:00"
     },
     {
       "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
@@ -346,14 +373,6 @@
       "title_so": "JPMorgan, Coca-Cola oo ka mid ah 7 Shirkadood oo Dheeraad ah oo Diidmada OKX-ICE Tokenized Stocks"
     },
     {
-      "title": "How much is the minimum wage going up by?",
-      "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-28T14:53:29+00:00",
-      "title_so": "Waa imisa mushaharka ugu yar ee kor u kaca?"
-    },
-    {
       "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
       "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -486,26 +505,11 @@
       "published": "2026-10-28T10:57:29+00:00"
     },
     {
-      "title": "You may get the right to find out what your colleagues earn - here's why",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-28T10:42:39+00:00"
-    },
-    {
       "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
       "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-28T10:41:51+00:00"
-    },
-    {
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-28T10:31:22+00:00",
-      "title_so": "Rakaabka dalxiiska ee raaxada ayaa ku xayiran Cambodia sababo la xiriira qiimaha shidaalka oo sare u kacay"
     },
     {
       "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
@@ -544,14 +548,6 @@
       "category": "Crypto",
       "published": "2026-10-28T09:15:22+00:00",
       "title_so": "Waa kuwan inta bitcoin iyo S&P 500 ay isu soo bixi karaan ka dib xilliga dhexe"
-    },
-    {
-      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
-      "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-28T09:00:00+00:00",
-      "title_so": "Securitize waxay ku darsataa blockchain Stellar sida calaamadaynta hay'aduhu ay soo ururiso uumiga"
     }
   ]
 }
