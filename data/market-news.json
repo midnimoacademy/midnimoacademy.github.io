@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-10-29T07:21:01.100080+00:00",
+  "updated_at": "2026-10-29T10:06:53.952868+00:00",
   "items": [
     {
-      "title": "'We need help for small businesses, not punishment'",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwxplv1zo?at_medium=RSS&at_campaign=rss",
+      "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+      "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-29T10:04:36+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
+      "url": "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-29T10:00:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-29T06:27:28+00:00",
-      "title_so": "'Waxaan u baahanahay caawimaad ganacsiyada yaryar, ee uma baahnno ciqaab'"
+      "published": "2026-10-29T09:58:05+00:00",
+      "title_so": null
+    },
+    {
+      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-29T09:30:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+      "url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-29T09:00:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-29T07:54:33+00:00",
+      "title_so": "Sameeyaha Hello Kitty ayaa jaray xiriirka riwaayadaha basaaska ee Japan ka dib markii Shiinaha ay ka soo horjeesteen"
+    },
+    {
+      "title": "The chart bitcoin traders should be paying attention to",
+      "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-29T07:44:44+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-29T07:32:20+00:00",
+      "title_so": null
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -74,14 +130,6 @@
       "title_so": "Boorsooyinka Ledger-ka la jabiyay ayaa isticmaalayaasha Singapore waxay ku kaceen $2.7M: Booliiska"
     },
     {
-      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-29T03:16:19+00:00",
-      "title_so": "Sameeyaha Hello Kitty ayaa jaray xiriirka riwaayadaha basaaska ee Japan ka dib markii Shiinaha ay ka soo horjeesteen"
-    },
-    {
       "title": "Microsoft profits soar days after announcing thousands of layoffs",
       "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -104,14 +152,6 @@
       "category": "Economy",
       "published": "2026-10-29T00:00:25+00:00",
       "title_so": "Waxa aan qaataa £30,000. Waxaan ka cadhooday ma jirin wax cashuur ah oo laga jaray Miisaaniyadda"
-    },
-    {
-      "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-29T00:00:15+00:00",
-      "title_so": "'Waxaan la noolahay ruuxa': Guryaha la raafay ee Japan waxay soo jiitaan ugaarsatada gorgortanka ah"
     },
     {
       "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
@@ -182,28 +222,32 @@
       "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-28T19:46:03+00:00"
+      "published": "2026-10-28T19:46:03+00:00",
+      "title_so": null
     },
     {
       "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
       "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-28T19:16:02+00:00"
+      "published": "2026-10-28T19:16:02+00:00",
+      "title_so": null
     },
     {
       "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
       "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-28T19:15:58+00:00"
+      "published": "2026-10-28T19:15:58+00:00",
+      "title_so": null
     },
     {
       "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
       "url": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-28T19:10:40+00:00"
+      "published": "2026-10-28T19:10:40+00:00",
+      "title_so": null
     },
     {
       "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
@@ -218,7 +262,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-10-28T18:45:09+00:00"
+      "published": "2026-10-28T18:45:09+00:00",
+      "title_so": null
     },
     {
       "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
@@ -481,73 +526,40 @@
       "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T11:23:34+00:00"
+      "published": "2026-10-28T11:23:34+00:00",
+      "title_so": null
     },
     {
       "title": "Mirae Asset Securities issues tokenized notes on Solana",
       "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-28T11:05:33+00:00"
+      "published": "2026-10-28T11:05:33+00:00",
+      "title_so": null
     },
     {
       "title": "Google to preview crypto custody security system as AI threats grow",
       "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T11:00:00+00:00"
+      "published": "2026-10-28T11:00:00+00:00",
+      "title_so": null
     },
     {
       "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
       "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-28T10:57:29+00:00"
+      "published": "2026-10-28T10:57:29+00:00",
+      "title_so": null
     },
     {
       "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
       "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T10:41:51+00:00"
-    },
-    {
-      "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
-      "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-28T10:10:31+00:00"
-    },
-    {
-      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-      "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-28T10:07:54+00:00"
-    },
-    {
-      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-28T09:59:25+00:00",
-      "title_so": "Kospi ayaa kor u kacday 7% iyada oo dakhliga SK Hynix uu shidaal ka helay saamiyada AI"
-    },
-    {
-      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-28T09:56:00+00:00",
-      "title_so": "Qiimaha Bitcoin ayaa indhaha ku haya $82K sida istaraatiijiyadda Morgan Stanley uu sheegay in inta badan sixiddu ay dhammaatay"
-    },
-    {
-      "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-28T09:15:22+00:00",
-      "title_so": "Waa kuwan inta bitcoin iyo S&P 500 ay isu soo bixi karaan ka dib xilliga dhexe"
+      "published": "2026-10-28T10:41:51+00:00",
+      "title_so": null
     }
   ]
 }
