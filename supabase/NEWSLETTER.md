@@ -1,0 +1,9 @@
+# Student email delivery
+
+Administrators use /admin-newsletter.html to preview a saved newsletter and explicitly send to students who opted in at /email-preferences.html. Private progress summaries are also started by an administrator, once per student per UTC day; no scheduled sends are configured. Keep the admin page open to process the queue; Resume continues pending records.
+
+newsletter-delivery requires a verified JWT and checks academy_admins before service-role access. BREVO_API_KEY stays in Edge Function Secrets. Consent is checked again before each send. Each request handles one student, and progress queries filter by that student ID. newsletter_runs snapshots content; newsletter_deliveries uniquely identifies each run/student. Atomic pending-to-sending claims prevent parallel duplicate sends. Failed and uncertain sends are not automatically retried. Accepted means provider acceptance only; use Brevo transactional logs to verify delivery and bounces.
+
+newsletter-unsubscribe is public with cryptographically random bearer tokens hashed using SHA-256 in an RLS-protected service-only table. Links use the URL fragment and require an explicit unsubscribe click. Both optional email types are disabled for the matching student; preferences can re-enable either type. No student is subscribed by registration alone.
+
+Schema applied from newsletter-delivery-schema.sql. Verification: syntax checks passed for both functions and page scripts; mocked handler tests passed for auth, admin authorization, empty audience, token validation, scoped unsubscribe, single-recipient progress privacy and acceptance logging. Live invalid-token request rejected. New tables have RLS and no anonymous access. Existing project security-advisor warnings concern pre-existing RPC functions and password protection, not this schema.
