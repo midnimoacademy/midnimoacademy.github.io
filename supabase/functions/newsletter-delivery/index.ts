@@ -72,7 +72,7 @@ Deno.serve(async req=>{
  const unsubscribe="https://midnimoacademy.org/unsubscribe.html#"+unsubscribeToken;
  const html="<h1>Midnimo Academy</h1><h2>"+esc(run.subject)+"</h2><p>"+esc(message).replace(/\n/g,"<br>")+"</p><hr><p>You opted in to these emails. <a href='"+unsubscribe+"'>Unsubscribe from optional academy emails</a> | <a href='https://midnimoacademy.org/email-preferences.html'>Email preferences</a></p>";
  attempted=true;
- const response=await fetch("https://api.brevo.com/v3/smtp/email",{method:"POST",headers:{"api-key":key,"Content-Type":"application/json"},body:JSON.stringify({sender:{email:"freemidnimoacademy@gmail.com",name:"Midnimo Academy"},to:[{email:recipient.data.user.email}],subject:run.subject,htmlContent:html,textContent:message+"\n\nUnsubscribe: "+unsubscribe,tags:["midnimo-"+run.kind],headers:{"IdempotencyKey":item.id}}),signal:AbortSignal.timeout(15000)});
+ const response=await fetch("https://api.brevo.com/v3/smtp/email",{method:"POST",headers:{"api-key":key,"Content-Type":"application/json"},body:JSON.stringify({sender:{email:"noreply@midnimoacademy.org",name:"Midnimo Academy"},replyTo:{email:"freemidnimoacademy@gmail.com",name:"Midnimo Academy"},to:[{email:recipient.data.user.email}],subject:run.subject,htmlContent:html,textContent:message+"\n\nUnsubscribe: "+unsubscribe,tags:["midnimo-"+run.kind],headers:{"IdempotencyKey":item.id}}),signal:AbortSignal.timeout(15000)});
  const result=await response.json();
  checked(await db.from("newsletter_deliveries").update({status:response.ok?"accepted":"failed",message_id:result.messageId||null,error:response.ok?null:"Brevo: "+(result.code||response.status),updated_at:new Date().toISOString()}).eq("id",item.id));
  }catch(error){
