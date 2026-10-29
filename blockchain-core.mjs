@@ -1,0 +1,17 @@
+// Small SHA-256 teaching fallback for local previews without Web Crypto.
+// Production HTTPS uses the browser's Web Crypto implementation.
+export function sha256Software(text){
+ const bytes=new TextEncoder().encode(text),size=Math.ceil((bytes.length+9)/64)*64,data=new Uint8Array(size);data.set(bytes);data[bytes.length]=128;const view=new DataView(data.buffer);view.setUint32(size-8,Math.floor(bytes.length/536870912));view.setUint32(size-4,bytes.length*8);
+ const primes=[];for(let n=2;primes.length<64;n++)if(primes.every(p=>p*p>n||n%p!==0))primes.push(n);
+ const h=primes.slice(0,8).map(p=>Math.floor((Math.sqrt(p)%1)*4294967296)>>>0),k=primes.map(p=>Math.floor((Math.cbrt(p)%1)*4294967296)>>>0),w=new Uint32Array(64),rotr=(x,n)=>(x>>>n)|(x<<(32-n));
+ for(let offset=0;offset<size;offset+=64){for(let t=0;t<16;t++)w[t]=view.getUint32(offset+t*4);for(let t=16;t<64;t++){const a=w[t-15],b=w[t-2],s0=rotr(a,7)^rotr(a,18)^(a>>>3),s1=rotr(b,17)^rotr(b,19)^(b>>>10);w[t]=(w[t-16]+s0+w[t-7]+s1)>>>0}let [a,b,c,d,e,f,g,j]=h;for(let t=0;t<64;t++){const s1=rotr(e,6)^rotr(e,11)^rotr(e,25),ch=(e&f)^((~e)&g),t1=(j+s1+ch+k[t]+w[t])>>>0,s0=rotr(a,2)^rotr(a,13)^rotr(a,22),maj=(a&b)^(a&c)^(b&c),t2=(s0+maj)>>>0;j=g;g=f;f=e;e=(d+t1)>>>0;d=c;c=b;b=a;a=(t1+t2)>>>0}for(const [i,v]of [a,b,c,d,e,f,g,j].entries())h[i]=(h[i]+v)>>>0}
+ return h.map(v=>v.toString(16).padStart(8,'0')).join('');
+}
+export async function digest(text){if(!globalThis.crypto?.subtle)return sha256Software(text);return Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(text))),b=>b.toString(16).padStart(2,'0')).join('')}
+export async function blockHash(block){return digest(JSON.stringify([block.index,block.previousHash,block.data,block.nonce]))}
+export async function mineBlock(index,previousHash,data,difficulty=2){if(!Number.isInteger(difficulty)||difficulty<1||difficulty>3)throw Error('Use difficulty 1–3');const b={index,previousHash,data,nonce:0,hash:''};for(;b.nonce<1000000;b.nonce++){b.hash=await blockHash(b);if(b.hash.startsWith('0'.repeat(difficulty)))return b}throw Error('Try mining again')}
+export async function validateChain(chain,difficulty=2){for(let i=0;i<chain.length;i++){const b=chain[i];if(b.index!==i||b.previousHash!==(i?chain[i-1].hash:'0'.repeat(64))||b.hash!==await blockHash(b)||!b.hash.startsWith('0'.repeat(difficulty)))return {valid:false,index:i}}return {valid:true}}
+export function transaction(balances,from,to,amount,fee=1){if(from===to)throw Error('Choose different accounts');if(!Object.hasOwn(balances,from)||!Object.hasOwn(balances,to))throw Error('Unknown account');if(!Number.isInteger(amount)||amount<=0)throw Error('Use a positive whole number');if(balances[from]<amount+fee)throw Error('Insufficient balance including the fee');return {...balances,[from]:balances[from]-amount-fee,[to]:balances[to]+amount}}
+export function contractCall(state,caller,method,value){if(method==='increment')return {...state,count:state.count+1};if(method==='reset'){if(caller!==state.owner)throw Error('Only owner may reset');if(!Number.isInteger(value)||value<0||value>1000000)throw Error('Reset value must be an integer from 0 to 1,000,000');return {...state,count:value}}throw Error('Unknown contract method')}
+export function grade(questions,answers){return questions.reduce((score,q,i)=>score+(answers[i]===q.answer?1:0),0)}
+export function mayComplete(score,exercise){return Number.isInteger(score)&&score>=2&&score<=3&&exercise===true}
