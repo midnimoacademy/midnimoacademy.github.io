@@ -16,7 +16,7 @@ Deno.serve(async(req)=>{
  if(!key)return reply({error:"BREVO_API_KEY is missing from Secrets."},503);
  const payload=await req.json();
  if(payload.action!=="test")return reply({error:"Only administrator test emails are enabled."},400);
- const res=await fetch("https://api.brevo.com/v3/smtp/email",{method:"POST",headers:{"api-key":key,"Content-Type":"application/json"},body:JSON.stringify({sender:{email:"freemidnimoacademy@gmail.com",name:"Midnimo Academy"},to:[{email:user.email}],subject:"Midnimo Academy email connection test",htmlContent:"<h1>Midnimo Academy</h1><p>Your Brevo email connection is working.</p><p>This is an administrator test. No student emails have been sent.</p>",tags:["midnimo-admin-test"]}),signal:AbortSignal.timeout(15000)});
+ const res=await fetch("https://api.brevo.com/v3/smtp/email",{method:"POST",headers:{"api-key":key,"Content-Type":"application/json"},body:JSON.stringify({sender:{email:"noreply@midnimoacademy.org",name:"Midnimo Academy"},replyTo:{email:"freemidnimoacademy@gmail.com",name:"Midnimo Academy"},to:[{email:user.email}],subject:"Midnimo Academy email connection test",htmlContent:"<h1>Midnimo Academy</h1><p>Your Brevo email connection is working.</p><p>This is an administrator test. No student emails have been sent.</p>",tags:["midnimo-admin-test"]}),signal:AbortSignal.timeout(15000)});
  const result=await res.json();
  if(!res.ok)return reply({error:"Brevo rejected the test. Check sender verification, API permissions and authorised IP settings.",providerCode:result.code||null},502);
  return reply({message:"Brevo accepted the test email. Check your inbox and spam folder.",messageId:result.messageId});
