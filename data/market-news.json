@@ -1,20 +1,52 @@
 {
-  "updated_at": "2026-10-29T01:18:50.187706+00:00",
+  "updated_at": "2026-10-29T04:03:38.506128+00:00",
   "items": [
     {
-      "title": "Bitcoin faces fresh pressure after Fed’s hawkish rate hold: Analysts",
+      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+      "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-29T03:32:43+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+      "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-29T03:21:24+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+      "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-29T03:16:32+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-29T03:16:19+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-29T01:27:40+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
       "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-29T01:12:01+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Microsoft profits surge days after announcing major job cuts",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-29T01:08:04+00:00",
       "title_so": null
     },
     {
@@ -430,32 +462,28 @@
       "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T11:23:34+00:00",
-      "title_so": null
+      "published": "2026-10-28T11:23:34+00:00"
     },
     {
       "title": "Mirae Asset Securities issues tokenized notes on Solana",
       "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-28T11:05:33+00:00",
-      "title_so": null
+      "published": "2026-10-28T11:05:33+00:00"
     },
     {
       "title": "Google to preview crypto custody security system as AI threats grow",
       "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-28T11:00:00+00:00",
-      "title_so": null
+      "published": "2026-10-28T11:00:00+00:00"
     },
     {
       "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
       "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-10-28T10:57:29+00:00",
-      "title_so": null
+      "published": "2026-10-28T10:57:29+00:00"
     },
     {
       "title": "You may get the right to find out what your colleagues earn - here's why",
@@ -524,38 +552,6 @@
       "category": "Crypto",
       "published": "2026-10-28T09:00:00+00:00",
       "title_so": "Securitize waxay ku darsataa blockchain Stellar sida calaamadaynta hay'aduhu ay soo ururiso uumiga"
-    },
-    {
-      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-28T07:57:18+00:00",
-      "title_so": "Qulqulka Bitcoin ETF wuxuu kor ugu kacayaa $176M iyadoo BTC ay dib uga soo kabsaneyso $80K"
-    },
-    {
-      "title": "Coinbase denies systems breach, says vendor exposed customer data",
-      "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-28T07:42:55+00:00",
-      "title_so": "Coinbase ayaa diiday nidaamka jebinta, ayuu yidhi iibiyaha xogta macaamiisha kashifay"
-    },
-    {
-      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-28T05:28:13+00:00",
-      "title_so": "Khasnadda Bitcoin Datavault AI ayaa hoos u dhacday 50% ka dib markii ay shirkaddu sheegtay inaysan geli karin BTC"
-    },
-    {
-      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
-      "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-28T05:10:36+00:00",
-      "title_so": "Bithumb ayaa lagu jabsaday nidaamka shaqaalaha iyadoo shirkadaha maaliyadeed ee Kuuriyada Koonfureed ay wajahayaan weeraro dhanka internetka ah"
     }
   ]
 }
