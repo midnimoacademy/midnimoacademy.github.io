@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-10-30T13:16:33.975621+00:00",
+  "updated_at": "2026-10-30T16:04:08.803519+00:00",
   "items": [
+    {
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-30T15:46:28+00:00",
+      "title_so": "Kaydka teknolojiyadda Mareykanka ayaa u arka hoos u dhac weyn marka loo eego cabsida qiimaha AI"
+    },
+    {
+      "title": "Yorkshire Water boss resigns after firm downgraded",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-30T15:35:30+00:00",
+      "title_so": "Maareeyaha Biyaha Yorkshire ayaa is casilay ka dib markii shirkad hoos loo dhigay"
+    },
+    {
+      "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+      "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-30T14:17:34+00:00",
+      "title_so": "Waa maxay EIP-7702? Horumarka Ethereum ee ka dambeeya $6.4B Binance Hack"
+    },
+    {
+      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+      "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-30T14:13:34+00:00",
+      "title_so": "Falanqeeyayaasha Wall Street waxay ku booriyaan maalgashadayaasha inay iibsadaan kaydka crypto ka dib $ 6.3 bilyan Binance hack"
+    },
     {
       "title": "Live updates: Binance says $6.34B set aside to cover hack losses",
       "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-10-30T13:03:04+00:00",
+      "published": "2026-10-30T14:12:26+00:00",
       "title_so": "Cusboonaysiinta tooska ah: Binance wuxuu leeyahay $6.34B ayaa loo qoondeeyay si loo daboolo khasaaraha jabsiga"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-30T14:07:42+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
+      "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-30T13:30:00+00:00",
+      "title_so": "Dahabka 'dhitaan reexaanta aan dhammaadka lahayn' ma ka dhigi doonaa Bitcoin mid qiimo badan?"
+    },
+    {
+      "title": "Binance working with FBI to recover assets following $6.3B hack",
+      "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-30T13:11:10+00:00",
+      "title_so": "Binance oo la shaqaynaysa FBI si uu u soo ceshado hantida ka dib $6.3B la jabsaday"
     },
     {
       "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
@@ -16,14 +72,6 @@
       "category": "Crypto",
       "published": "2026-10-30T13:00:09+00:00",
       "title_so": "Israa'iil ayaa u gacan galisay eedaymo loo soo jeediyay in uu ka faa'iidaysanayay buundada miyiga ee Maraykanka in ka badan $2.8m xatooyo: Warbixin"
-    },
-    {
-      "title": "Yorkshire Water boss resigns after firm downgraded",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-30T12:57:13+00:00",
-      "title_so": "Maareeyaha Biyaha Yorkshire ayaa is casilay ka dib markii shirkad hoos loo dhigay"
     },
     {
       "title": "Binance says it holds $5B in matching tokens to cover hack losses",
@@ -40,6 +88,14 @@
       "category": "Crypto",
       "published": "2026-10-30T12:31:30+00:00",
       "title_so": "Daqiiqada Subaxda: Binance's $6.4B Hack ayaa hadheeyay Hyperliquid maalinta ugu weyn"
+    },
+    {
+      "title": "What we know about Binance's $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-30T12:27:28+00:00",
+      "title_so": "Waxa aan ka ognahay jabsiga Binance ee $6.3bn"
     },
     {
       "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
@@ -178,12 +234,12 @@
       "title_so": "Trezor wuxuu uga digay iibsadayaasha CryptoBilis inay u guuraan lacagaha la tuhunsan yahay in lagu rakibay"
     },
     {
-      "title": "Live updates: Binance finds more breaches in $6.3 billion hack; AI spending fears hit tech",
+      "title": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
       "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-10-30T08:36:52+00:00",
-      "title_so": "Cusboonaysiinta tooska ah: Binance waxay heshay jebinta badan ee $ 6.3 hack; Kharashaadka AI cabsida ayaa ku dhacday tignoolajiyada"
+      "title_so": "Cusboonaysiinta tooska ah: Bitcoin waxay ku dhacdaa $77,000 iyadoo ka faa'iidaysiga Binance ay ku darayso dhibaatooyinka tignoolajiyada"
     },
     {
       "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
@@ -208,14 +264,6 @@
       "category": "Crypto",
       "published": "2026-10-30T06:22:00+00:00",
       "title_so": "Seeraar, ether iyo XRP selloff waxay tirtiraan $1.5 bilyan oo sharadka crypto leveraged"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T06:00:00+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
@@ -358,7 +406,8 @@
       "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-10-29T21:12:45+00:00"
+      "published": "2026-10-29T21:12:45+00:00",
+      "title_so": "Binance wuxuu lumiyay in ka badan $6 bilyan 'hack crypto-ka ugu wayn taariikhda'"
     },
     {
       "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
@@ -511,54 +560,6 @@
       "category": "Crypto",
       "published": "2026-10-29T16:11:18+00:00",
       "title_so": "Isweydaarsiga Crypto HTX wuxuu ka baxaa UK ka dib markii uu la degay FCA"
-    },
-    {
-      "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
-      "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-29T15:59:48+00:00",
-      "title_so": "Hyperliquid's HYPE wuxuu boodaa 13% iyadoo Milkiilaha NYSE ICE uu u dhaqaaqayo inuu mustaqbalkiisa joogtada ah u keeno Mareykanka"
-    },
-    {
-      "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
-      "url": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-29T15:52:43+00:00",
-      "title_so": "Kalshi waxa uu kor u qaaday $1B oo lagu qiimeeyay $40B iyada oo dakhliga aan ciyaaraha ahayn uu kor u dhaafay $1B"
-    },
-    {
-      "title": "Faisal Islam: This Budget was micro and that was deliberate",
-      "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-29T15:48:44+00:00",
-      "title_so": "Faysal Islaam: Miisaaniyadani waxay ahayd mid yar, taasina waxay ahayd mid ku talagal ah"
-    },
-    {
-      "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-      "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-29T15:39:54+00:00",
-      "title_so": "Qiimaha Bitcoin wuxuu u boodaa $81.5K iyada oo xogta GDP US ay dhaaftay filashooyinka"
-    },
-    {
-      "title": "Bereaved families will not face tax bill over pension delays under new rules",
-      "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-29T15:18:04+00:00",
-      "title_so": "Qoysaska dhintay ma wajihi doonaan biilka canshuurta ee dib u dhigista hawlgabka marka loo eego sharciyada cusub"
-    },
-    {
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-29T15:11:35+00:00",
-      "title_so": "Mushaharkaaga, biilasha tamarta iyo kaydka: Sida miisaaniyadu kuu saamayso"
     }
   ]
 }
