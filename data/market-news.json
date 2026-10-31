@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-10-31T13:08:50.575221+00:00",
+  "updated_at": "2026-10-31T15:51:19.727136+00:00",
   "items": [
+    {
+      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+      "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-31T15:36:01+00:00",
+      "title_so": "Binance ayaa sheegay in 90% hantida la xaday la buuxiyey, bartilmaameedyada Axadda la baxayo"
+    },
+    {
+      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+      "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-31T15:26:46+00:00",
+      "title_so": "Bitcoin ayaa kor u kacday si ka wanaagsan sidii la filayay kadib jabsiga Binance, maamulaha Strive ayaa yidhi"
+    },
+    {
+      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-31T15:24:10+00:00",
+      "title_so": "Binance ayaa sheegay in ay bedeshay 90% crypto la xaday ka dib $6.3 bilyan oo la jebiyey"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-31T15:09:55+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+      "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-10-31T15:01:02+00:00",
+      "title_so": "Hack Binance: Wax kasta oo aad u baahan tahay inaad ka ogaato ku saabsan Heistka ugu Weyn ee Taariikhda"
+    },
+    {
+      "title": "Institutions embrace crypto staking despite shrinking yields",
+      "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-31T15:00:00+00:00",
+      "title_so": "Machadyadu waxay aqbalaan is-weydaarsiga crypto in kasta oo wax-soo-saarka uu sii yaraanayo"
+    },
+    {
+      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-31T14:40:29+00:00",
+      "title_so": "Uber waxay tijaabisaa sida calaamadayntu u gelin karto lacag caddaan ah si ay ula shaqeyso HSBC, Franklin Templeton"
+    },
+    {
+      "title": "Bitcoin turns 18: Has the original rebel grown up?",
+      "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-31T14:27:52+00:00",
+      "title_so": "Bitcoin ayaa 18 jirsatay: jabhadii asalka ahayd miyuu koray?"
+    },
+    {
+      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+      "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-31T14:00:00+00:00",
+      "title_so": "Maaddaama macdan qodayaasha waaweyn ee bitcoin ay ceyrsanayaan faa'iidooyinka AI, shakhsiyaadka waxay helayaan tallaal kale abaalmarinta"
+    },
+    {
+      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+      "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-10-31T13:37:49+00:00",
+      "title_so": "Walaalaha Texas ayaa lagu xukumay 15 sano oo xabsi ah oo lagu soo oogay tuugo hubaysan, afduub"
+    },
     {
       "title": "Why AI Models Cheat: Reward Hacking, Explained",
       "url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
@@ -258,14 +338,6 @@
       "title_so": "Falanqeeyayaasha Wall Street waxay ku booriyaan maalgashadayaasha inay iibsadaan kaydka crypto ka dib $ 6.3 bilyan Binance hack"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T14:07:42+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
       "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
       "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -488,78 +560,6 @@
       "category": "Economy",
       "published": "2026-10-30T06:08:22+00:00",
       "title_so": "Siday Poundland uga soo kortay meherad suuqeed una soo korodhay waddo wayn"
-    },
-    {
-      "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
-      "url": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T05:53:07+00:00",
-      "title_so": "Istaraatiijiyadu waxay indhaha ku haysaa wax badan oo Bitcoin wax ku iibsata iyadoo Saylor uu haysto $30B awoodda deynta"
-    },
-    {
-      "title": "North Korea’s TraderTraitor linked to $6.3B Binance hack",
-      "url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T05:51:41+00:00",
-      "title_so": "Traitor-ka Kuuriyada Waqooyi ayaa ku xidhan $6.3B Binance jabsiga"
-    },
-    {
-      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-      "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T05:45:27+00:00",
-      "title_so": "Soosaarayaasha 'XRP Ledger' waxay adkeeyaan sharciyada qofka qaban kara calaamado 'xaddidan' ah"
-    },
-    {
-      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
-      "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T05:43:07+00:00",
-      "title_so": "Khasaaraha Binance wuxuu qaniinay isweydaarsiga crypto ee ugu weyn Hindiya maadaama ay xannibayso ganacsiga mustaqbalka"
-    },
-    {
-      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-      "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T04:50:42+00:00",
-      "title_so": "Hacker-ka Binance wuxuu u kala qaybiyaa $1.4 bilyan oo bitcoin ah 19 boorso oo aan qofna xannibi karin"
-    },
-    {
-      "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
-      "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T04:00:43+00:00",
-      "title_so": "Standard Chartered waxay arkaysaa xanuun badan ka dib $ 6 bilyan Binance hack waxay u dirtaa bitcoin hoos"
-    },
-    {
-      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
-      "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T03:56:40+00:00",
-      "title_so": "Maalgashadayaasha crypto ee hay'adaha ayaa ku degdegaya inay ka soo jiidaan lacagaha sarrifka ka dib hack Binance"
-    },
-    {
-      "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
-      "url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T03:47:01+00:00",
-      "title_so": "Khasaaraha Binance wuxuu soo dedejin karaa u wareegida DEXs: Standard Chartered"
-    },
-    {
-      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
-      "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T03:36:11+00:00",
-      "title_so": "Cadawga muddada dheer ee Crypto, Kooxda Lazarus ee Waqooyiga Kuuriya, oo laga yaabo inay ka dambeeyaan Binance hack: blockchain sleuths"
     }
   ]
 }
