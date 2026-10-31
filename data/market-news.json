@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-31T04:00:06.017353+00:00",
+  "updated_at": "2026-10-31T07:16:18.584661+00:00",
   "items": [
+    {
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-31T05:01:32+00:00",
+      "title_so": null
+    },
     {
       "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
       "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
@@ -552,14 +560,6 @@
       "category": "Crypto",
       "published": "2026-10-29T22:31:07+00:00",
       "title_so": "Tampered Ledger ayaa laga sheegay Singapore bil ka hor inta aan warku soo bixin: Asia Express"
-    },
-    {
-      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-      "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-29T21:36:24+00:00",
-      "title_so": "Binance wuxuu ku shubay $5.5 Bilyan oo laga shakisan yahay Hack, Tether iyo Goobo lagu xayiray $1.8 Bilyan"
     }
   ]
 }
