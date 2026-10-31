@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-31T15:51:19.727136+00:00",
+  "updated_at": "2026-10-31T19:01:59.561918+00:00",
   "items": [
+    {
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-31T18:00:00+00:00",
+      "title_so": "Warqadda cad ee Bitcoin ayaa 18 jirsatay, ganacsiyada yaryarna waxay wali bixinayaan dammaanad lacageed oo ay kaga jawaabtay"
+    },
+    {
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-31T16:09:30+00:00",
+      "title_so": "IPhone la xaday, $14,000 oo khasaare ah iyo dhibaatada xatooyada crypto ee London"
+    },
+    {
+      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-10-31T16:00:00+00:00",
+      "title_so": "Ganacsatadu waxay mar hore ku dhejiyeen khamaar leveraged Anthropic's IPO iyagoo isticmaalaya qandaraasyada crypto"
+    },
     {
       "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
       "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -536,30 +560,6 @@
       "category": "Crypto",
       "published": "2026-10-30T07:54:07+00:00",
       "title_so": "Hacker-ka Binance wuxuu daadiyaa calaamad yar oo la yaqaan 2017 waxayna burburtay 90%"
-    },
-    {
-      "title": "How video game remakes tap the power of nostalgia",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-30T07:45:00+00:00",
-      "title_so": "Sida ciyaarta fiidyowgu dib u habeyn ugu sameyso awoodda nostalgia"
-    },
-    {
-      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-      "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T06:22:00+00:00",
-      "title_so": "Seeraar, ether iyo XRP selloff waxay tirtiraan $1.5 bilyan oo sharadka crypto leveraged"
-    },
-    {
-      "title": "How Poundland grew from a market stall to a high street giant",
-      "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-30T06:08:22+00:00",
-      "title_so": "Siday Poundland uga soo kortay meherad suuqeed una soo korodhay waddo wayn"
     }
   ]
 }
