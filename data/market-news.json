@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-01T19:02:09.266211+00:00",
+  "updated_at": "2026-11-01T21:51:30.852212+00:00",
   "items": [
+    {
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-01T19:30:00+00:00",
+      "title_so": "Hagaha akhristaha crypto ee doorashada dhexe ee 2026: Gobolka Crypto"
+    },
     {
       "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
       "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-01T17:00:00+00:00",
-      "title_so": null
+      "title_so": "Wakiilada AI waxay dhaafeen xadka kharashka crypto iyadoon la helin ogolaanshaha aadanaha, cilmi-baarayaashu waxay heleen imtixaan cusub"
     },
     {
       "title": "Thousands of jobs at Virgin Media O2 to be cut",
@@ -15,7 +23,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-01T16:57:14+00:00",
-      "title_so": null
+      "title_so": "Kumanaan shaqo oo Virgin Media O2 ah oo la jarayo"
     },
     {
       "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
@@ -23,7 +31,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-01T16:01:02+00:00",
-      "title_so": null
+      "title_so": "Maalgashadayaasha Bitcoin ETF waxay madax u yihiin bixitaannada ka dib Record Binance Hack"
     },
     {
       "title": "The key races to watch for the 2026 election",
@@ -552,14 +560,6 @@
       "category": "Economy",
       "published": "2026-10-30T12:04:02+00:00",
       "title_so": "Qiimaha Google wuxuu hoos u dhacayaa $500bn iyadoo raadinteeda AI ay ku dhufato iibka xayeysiiska"
-    },
-    {
-      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T11:51:26+00:00",
-      "title_so": "Waa kuwan sida ganacsatada waaweyn ee bitcoin ay uga jawaabeen jabsiga Binance ka dib"
     }
   ]
 }
