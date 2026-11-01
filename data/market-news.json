@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-11-01T09:59:02.642219+00:00",
+  "updated_at": "2026-11-01T13:10:30.082865+00:00",
   "items": [
+    {
+      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+      "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-01T13:00:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+      "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-01T10:35:42+00:00",
+      "title_so": null
+    },
     {
       "title": "Binance says phase one of withdrawals opens after $6.3B hack",
       "url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-01T09:38:18+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-01T09:28:06+00:00",
       "title_so": null
     },
     {
@@ -536,30 +560,6 @@
       "category": "Crypto",
       "published": "2026-10-30T10:07:29+00:00",
       "title_so": "Trezor waxa uu uga digay iibsadayaasha CryptoBilis Kadib Warbixinta Qalabaynta Qalabka ee Badbaadada 5"
-    },
-    {
-      "title": "THORChain’s RUNE jumps 13% after Binance’s record $6.3B hack",
-      "url": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T09:52:29+00:00",
-      "title_so": "THORChain's RUNE ayaa booday 13% ka dib rikoorkii Binance ee jabsiga $6.3B"
-    },
-    {
-      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-      "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T09:41:07+00:00",
-      "title_so": "Istaraatiijiyada CFO Andrew Kang ayaa iska casilaya iyadoo shirkaddu ay soo bandhigtay faa'iidada hawlgalka"
-    },
-    {
-      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-30T09:33:51+00:00",
-      "title_so": "Crypto Giant Binance ayaa ku dhufatay $6.3bn jabsiga looga shakisan yahay inuu yahay kii ugu weynaa taariikhda"
     }
   ]
 }
