@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-01T15:51:18.135960+00:00",
+  "updated_at": "2026-11-01T19:02:09.266211+00:00",
   "items": [
+    {
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-01T17:00:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-01T16:57:14+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+      "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-01T16:01:02+00:00",
+      "title_so": null
+    },
     {
       "title": "The key races to watch for the 2026 election",
       "url": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
@@ -536,30 +560,6 @@
       "category": "Crypto",
       "published": "2026-10-30T11:51:26+00:00",
       "title_so": "Waa kuwan sida ganacsatada waaweyn ee bitcoin ay uga jawaabeen jabsiga Binance ka dib"
-    },
-    {
-      "title": "Zcash grants group offers $124M compromise as governance backlash grows",
-      "url": "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T11:36:23+00:00",
-      "title_so": "Kooxda deeqaha Zcash waxay bixisaa $124M tanaasul sida dib-u-dhac dawladeed oo sii kordhaya"
-    },
-    {
-      "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-      "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T11:35:16+00:00",
-      "title_so": "Waa kuwan sida casriyeynta Ethereum ay uga caawisay daadinta qayb ka mid ah khasaaraha Binance ee $ 6"
-    },
-    {
-      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T11:29:23+00:00",
-      "title_so": "Halbeegyada qiimaha Bitcoin waxay tilmaamayaan dib u soo kabashada maadaama $1.6B dareeraha ay raacaan hack Binance"
     }
   ]
 }
