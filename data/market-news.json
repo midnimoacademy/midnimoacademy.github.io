@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-02T04:16:41.974795+00:00",
+  "updated_at": "2026-11-02T07:44:51.390306+00:00",
   "items": [
+    {
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-02T07:42:33+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-02T06:46:41+00:00",
+      "title_so": null
+    },
+    {
+      "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+      "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T05:34:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+      "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-02T05:18:12+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-02T04:42:22+00:00",
+      "title_so": null
+    },
+    {
+      "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+      "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-02T04:41:16+00:00",
+      "title_so": null
+    },
     {
       "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
       "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -8,14 +56,6 @@
       "category": "Crypto",
       "published": "2026-11-02T03:55:50+00:00",
       "title_so": "Bank of Korea wuxuu baarayaa shirkadaha maaliyadeed ee soo-gaadhista khatarta crypto"
-    },
-    {
-      "title": "Binance users withdraw $3.6bn after record crypto hack",
-      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-02T03:32:14+00:00",
-      "title_so": "Isticmaalayaasha Binance waxay la baxaan $3.6bn ka dib rikoodhka jabsiga crypto"
     },
     {
       "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
@@ -42,12 +82,12 @@
       "title_so": "Ha ku qabsan sharciyada cusub ee Iibka Hadda Bixiya"
     },
     {
-      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
       "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-01T23:09:13+00:00",
-      "title_so": "Balaayiin ayaa ka cararaya Binance dib u furista, aasaasaha THORChain wuxuu ka soo horjeedaa xannibaadda qadaadiicda: Hodler's Digest"
+      "title_so": null
     },
     {
       "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
@@ -66,12 +106,12 @@
       "title_so": "Wakiilada AI waxay dhaafeen xadka kharashka crypto iyadoon la helin ogolaanshaha aadanaha, cilmi-baarayaashu waxay heleen imtixaan cusub"
     },
     {
-      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
       "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-01T16:57:14+00:00",
-      "title_so": "Kumanaan shaqo oo Virgin Media O2 ah oo la jarayo"
+      "title_so": null
     },
     {
       "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
@@ -498,14 +538,6 @@
       "title_so": "Binance wuxuu u qoondeeyay $6.34B si uu u daboolo khasaaraha jabsiga, maamulaha ayaa yidhi 'hantidaadu waa badbaado'"
     },
     {
-      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-      "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T16:31:17+00:00",
-      "title_so": "Binance wuxuu daaha ka qaaday jebinta ballaaran ee $6.3 bilyan oo laga faa'iidaysto, bartilmaameedyada ka bixitaanka Axadda ayaa dib loo bilaabayaa"
-    },
-    {
       "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
       "url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
       "source": "Decrypt",
@@ -528,38 +560,6 @@
       "category": "Economy",
       "published": "2026-10-30T16:04:55+00:00",
       "title_so": "Maareeyaha Biyaha Yorkshire ayaa is casilay ka dib markii shirkad hoos loo dhigay"
-    },
-    {
-      "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
-      "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-30T14:17:34+00:00",
-      "title_so": "Waa maxay EIP-7702? Horumarka Ethereum ee ka dambeeya $6.4B Binance Hack"
-    },
-    {
-      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
-      "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T14:13:34+00:00",
-      "title_so": "Falanqeeyayaasha Wall Street waxay ku booriyaan maalgashadayaasha inay iibsadaan kaydka crypto ka dib $ 6.3 bilyan Binance hack"
-    },
-    {
-      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
-      "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T13:30:00+00:00",
-      "title_so": "Dahabka 'dhitaan reexaanta aan dhammaadka lahayn' ma ka dhigi doonaa Bitcoin mid qiimo badan?"
-    },
-    {
-      "title": "FBI and Secret Service join response to Binance’s $6.3B hack",
-      "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T13:11:10+00:00",
-      "title_so": "FBI iyo Adeegga Sirta ayaa ku biiray jawaabta Binance's jabsiga $6.3B"
     }
   ]
 }
