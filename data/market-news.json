@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-11-02T19:14:46.114386+00:00",
+  "updated_at": "2026-11-02T21:57:14.002957+00:00",
   "items": [
     {
-      "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
+      "title": "Big crypto wants the one thing it can’t buy: your vote",
+      "url": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-02T21:38:53+00:00",
+      "title_so": "Crypto Big waxay rabtaa hal shay oo aysan iibsan karin: codkaaga"
+    },
+    {
+      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+      "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T21:16:24+00:00",
+      "title_so": "Baarayaasha Crypto calanka ayaa tuhunsan $106m xatooyo, $786K Solana bot drain"
+    },
+    {
+      "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+      "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-02T21:16:03+00:00",
+      "title_so": "Qarsoodi $106 Milyan tuugada Crypto waxay ku dhufatay Midowga Yurub Maalmo ka dib Hack Binance"
+    },
+    {
+      "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+      "url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-02T20:36:03+00:00",
+      "title_so": "Claude-Lagu Dhisay Linux Ka Faa'iidaysiga Bartilmaameedyada Beegsiga Bug-ka ee Ubuntu Weli Aan La Xidhin"
+    },
+    {
+      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+      "url": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T20:22:23+00:00",
+      "title_so": "Coinbase waxay ku dhufatay 50% dhimis bartilmaameedka qiimaha iyada oo dakhliga ka dambeeya uu sii qoto dheer yahay"
+    },
+    {
+      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-02T19:46:02+00:00",
+      "title_so": "Tom Lee wuxuu ugu wacay hoosta AI Stock Selloff, isagoo tixraacaya sahayda adag iyo adkeysiga Crypto"
+    },
+    {
+      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+      "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T19:27:58+00:00",
+      "title_so": "Khatarta Bitcoin waxay hoos uga dhacday $76K maadaama 7% saliidda dulsaarku ay ku guuldareysatay inay kiciso isu soo baxa qiimaha BTC"
+    },
+    {
+      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
       "url": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-02T19:05:35+00:00",
-      "title_so": "Boorsooyinka Mercado Bitcoin waxay sii wadaan dhaqdhaqaaqa lacagaha ka dib markii la jabsado $46M"
+      "title_so": "Boorsooyinka Mercado Bitcoin waxay muujinayaan wareejinta jabsiga ka dib markii la xaday $46M"
     },
     {
       "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
@@ -166,28 +222,32 @@
       "url": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-02T13:48:28+00:00"
+      "published": "2026-11-02T13:48:28+00:00",
+      "title_so": "Istaraatiijiyadu waxay ku bixisaa saddex laab kharashkeeda Bitcoin ee toddobaadlaha ah dib u soo celinta STRC"
     },
     {
       "title": "Poundland's former owner offers to invest as minister prepares to meet board",
       "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-02T13:40:36+00:00"
+      "published": "2026-11-02T13:40:36+00:00",
+      "title_so": "Mulkiilihii hore ee Poundland waxa uu soo bandhigay in uu maalgashi ku sameeyo iyada oo wasiirku isu diyaarinayo in uu la kulmo guddiga"
     },
     {
       "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
       "url": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-02T13:34:02+00:00"
+      "published": "2026-11-02T13:34:02+00:00",
+      "title_so": "Daqiiqada Subaxda: Khasaaraha Binance wuxuu horseedaa qulqulka tirada badan iyadoo FBI-da ay furayso baaritaanka"
     },
     {
       "title": "AI agent disputes head to ‘Internet Court’ — and a jury of AI agents",
       "url": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-02T13:30:00+00:00"
+      "published": "2026-11-02T13:30:00+00:00",
+      "title_so": "Wakiilka AI wuxuu isku khilaafaa madaxa 'Maxkamadda Internetka' - iyo xeerbeegti wakiilada AI"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -234,7 +294,8 @@
       "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T12:37:24+00:00"
+      "published": "2026-11-02T12:37:24+00:00",
+      "title_so": "XRP Ledger wuxuu dejiyaa inuu hagaajiyo cilladaha u oggolaan kara shuraakayaasha stablecoin inay daabacaan calaamado cusub"
     },
     {
       "title": "Bitcoin's 'volatility curve' has a midterm bump",
@@ -341,53 +402,60 @@
       "title_so": "OKX waxay soo jiidataa $445M soo galitaanka saafiga ah maadaama Binance soo baxay uu ka badan yahay $7B"
     },
     {
-      "title": "Live updates: Bitcoin bounce fades as Binance records $6 billion outflows after starting withdrawals",
+      "title": "Live updates: Bitcoin bounce fades as Binance exploit, AI unwind continue to weigh",
       "url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T08:49:30+00:00"
+      "published": "2026-11-02T08:49:30+00:00",
+      "title_so": "Cusboonaysiinta tooska ah: Bitcoin bounce way libaysaa sida Binance looga faa'iidaysto, AI unwind waxay sii wadaysaa miisaankeeda"
     },
     {
       "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
       "url": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T08:41:28+00:00"
+      "published": "2026-11-02T08:41:28+00:00",
+      "title_so": "Xisbiga Shuuciga ee Shiinaha ayaa ku baaqaya in la xakameeyo musuqmaasuqa isticmaala crypto iyo blockchain"
     },
     {
       "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
       "url": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T08:32:01+00:00"
+      "published": "2026-11-02T08:32:01+00:00",
+      "title_so": "Waa maxay sababta balaayiin looga xado isweydaarsiga crypto way adag tahay in la joojiyo marka loo eego xatooyada bangiga"
     },
     {
       "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
       "url": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-02T07:50:36+00:00"
+      "published": "2026-11-02T07:50:36+00:00",
+      "title_so": "Bitcoin ETF-yada waxay hoos u dhacaan bisha Oktoobar iyagoo $643M ka baxay ka dib jabsiga Binance"
     },
     {
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-02T07:42:33+00:00"
+      "published": "2026-11-02T07:42:33+00:00",
+      "title_so": "Isticmaalayaasha Binance waxay la baxaan $ 3.6bn ka dib jabsiga ugu weyn abid ee crypto"
     },
     {
       "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
       "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T06:46:41+00:00"
+      "published": "2026-11-02T06:46:41+00:00",
+      "title_so": "Bitcoin ETF-yada waxay lumiyeen $643 milyan soo bixitaan Jimcihii, 2026 waa cagaar hadda"
     },
     {
       "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
       "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-02T05:34:02+00:00"
+      "published": "2026-11-02T05:34:02+00:00",
+      "title_so": "Server-ka BTCPay wuxuu ka digayaa xatooyada boorsada kulul ee ku socota software duugoobay"
     },
     {
       "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
@@ -458,14 +526,6 @@
       "title_so": "Hagaha akhristaha crypto ee doorashada dhexe ee 2026: Gobolka Crypto"
     },
     {
-      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-      "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-01T17:00:00+00:00",
-      "title_so": "Wakiilada AI waxay dhaafeen xadka kharashka crypto iyadoon la helin ogolaanshaha aadanaha, cilmi-baarayaashu waxay heleen imtixaan cusub"
-    },
-    {
       "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
       "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -495,54 +555,6 @@
       "category": "Crypto",
       "published": "2026-11-01T13:40:33+00:00",
       "title_so": "DeepSeek horumarinta wakiilka AI ee u baahan wax gelinta bini'aadamka: Warbixin"
-    },
-    {
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-01T13:11:37+00:00",
-      "title_so": "Shirkadda Crypto Binance waxay dabooshaa 90% khasaaraha ka dib $6.3bn la jabsaday"
-    },
-    {
-      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
-      "url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-01T09:38:18+00:00",
-      "title_so": "Binance ayaa sheegay in wejiga koowaad ee ka bixitaanka uu furmayo ka dib markii la jabsaday $6.3B"
-    },
-    {
-      "title": "FBI blames North Korea for record $6.3B Binance hack",
-      "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-01T07:44:38+00:00",
-      "title_so": "FBI-da ayaa Kuuriyada Waqooyi ku eedeysay inay jabsatay lacag dhan $6.3B Binance"
-    },
-    {
-      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-01T00:17:05+00:00",
-      "title_so": "Mar dambe ma dhaqid: Sida xeerarka guriga cusub ee Airbnb u kala qaybiyeen martigaliyayaasha iyo martida"
-    },
-    {
-      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-      "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-31T15:36:01+00:00",
-      "title_so": "Binance ayaa sheegay in 90% hantida la xaday la buuxiyey, bartilmaameedyada Axadda la baxayo"
-    },
-    {
-      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-      "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-31T15:26:46+00:00",
-      "title_so": "Bitcoin ayaa kor u kacday si ka wanaagsan sidii la filayay kadib jabsiga Binance, maamulaha Strive ayaa yidhi"
     }
   ]
 }
