@@ -1,21 +1,125 @@
 {
-  "updated_at": "2026-11-02T10:23:48.230668+00:00",
+  "updated_at": "2026-11-02T13:29:56.431331+00:00",
   "items": [
     {
-      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-      "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+      "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-02T10:14:55+00:00",
-      "title_so": null
+      "published": "2026-11-02T13:21:47+00:00",
+      "title_so": "Binance waxay ku dhufatey kala badh hantideeda SAFU Bitcoin, waxay sii deysaa caddaynta kaydka"
+    },
+    {
+      "title": "Shop freezers in six European countries hit by suspected cyber-attack",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-02T13:19:56+00:00",
+      "title_so": "Qaboojiyayaal ku dukaameystaan ​​lix waddan oo Yurub ah oo lagu tuhunsan yahay weerar dhanka internetka ah"
+    },
+    {
+      "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+      "url": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-02T13:19:36+00:00",
+      "title_so": "Istaraatiijiyadu waxay dib u bilaabaysaa wax iibsiga Bitcoin iyadoo la iibsanayo $66M"
+    },
+    {
+      "title": "FATF targets crypto hubs in review of money laundering controls",
+      "url": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T12:56:07+00:00",
+      "title_so": "FATF waxay bartilmaameed ka dhigtaa xarumaha crypto dib u eegista kontaroolada lacagta la dhaqay"
+    },
+    {
+      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+      "url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T12:40:45+00:00",
+      "title_so": "Hackers-ka Binance ayaa bilaabay inay beddelaan calaamadaha Solana ee la xaday Bitcoin: Chainalysis"
+    },
+    {
+      "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+      "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-02T12:37:24+00:00",
+      "title_so": "XRP Ledger wuxuu dejiyaa inuu hagaajiyo cilladda u oggolaan karta shuraakada stablecoin inay daabacaan calaamado cusub"
+    },
+    {
+      "title": "Bitcoin's 'volatility curve' has a midterm bump",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-02T12:30:17+00:00",
+      "title_so": "Bitcoin's 'qallooca isbedbedelka' ayaa leh barar xilli-dhexe ah"
+    },
+    {
+      "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
+      "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-02T12:24:18+00:00",
+      "title_so": "BTCPay waxay u sheegtaa ganacsatada inay damiyaan adeegayaasha iyada oo ay jirto warbixinada weerarka jeebka kulul"
     },
     {
       "title": "Ryanair says it may freeze workers' pay and raise airfares",
       "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-02T10:04:39+00:00",
-      "title_so": null
+      "published": "2026-11-02T12:22:10+00:00",
+      "title_so": "Ryanair waxa ay sheegtay in laga yaabo in ay hakiso mushaharka shaqaalaha oo ay kordhiso qiimaha diyaarada"
+    },
+    {
+      "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+      "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-02T11:57:45+00:00",
+      "title_so": "Ma jiraan wax caddayn ah oo AI ah oo ku jira haakarisyada Waqooyiga Kuuriya inay u dhaqaaqaan lacagaha Binance ee la xaday"
+    },
+    {
+      "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-02T11:30:00+00:00",
+      "title_so": "Bitcoin waxay u fududaynaysaa $77,900 iyadoo macaamiisha Binance ay jiidayaan $3.6 bilyan ka dib markii dib loo furay"
+    },
+    {
+      "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+      "url": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T11:19:18+00:00",
+      "title_so": "Laga soo bilaabo Uptober ilaa Hacktober: Hababka xilliyeedka Bitcoin miyay noqdeen kuwo duugoobay?"
+    },
+    {
+      "title": "Trezor lifts password ceiling after Coldcard’s $100M wallet thefts",
+      "url": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T10:46:59+00:00",
+      "title_so": "Trezor ayaa kor u qaaday saqafka sirta ah ka dib markii Coldcard ee $100m ee jeebka xatooyada"
+    },
+    {
+      "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+      "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-02T10:36:19+00:00",
+      "title_so": "FBI-da ayaa Kuuriyada Waqooyi ku eedeysay $6B Binance Hack iyadoo Sarifka lacagaha uu dib u furayo ka bixitaannada"
+    },
+    {
+      "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+      "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T10:14:55+00:00",
+      "title_so": "Hong Kong waxay u qaadaa dejin calaamadeysan ilaa 24/7, waxay qorsheyneysaa tijaabooyinka xasilloonida"
     },
     {
       "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
@@ -23,7 +127,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-02T09:41:36+00:00",
-      "title_so": null
+      "title_so": "BTC waxay u socotaa bandhigga dhexe ee Maraykanka: Saddex shay oo lagu ogaado Bitcoin toddobaadkan"
     },
     {
       "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
@@ -31,7 +135,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-02T09:33:20+00:00",
-      "title_so": null
+      "title_so": "Metals.io waxay soo saartaa calaamado ay taageerayaan 25 tan oo naxaas jireed ah oo lagu kaydiyay Jarmalka"
     },
     {
       "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
@@ -39,7 +143,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-02T09:04:49+00:00",
-      "title_so": null
+      "title_so": "Binance hack fallout, US midterms and jobs report: Crypto Week Ahead"
     },
     {
       "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
@@ -47,87 +151,78 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-02T08:56:03+00:00",
-      "title_so": null
+      "title_so": "OKX waxay soo jiidataa $445M soo galitaanka saafiga ah maadaama Binance soo baxay uu ka badan yahay $7B"
     },
     {
-      "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+      "title": "Live updates: Bitcoin posts small rise as Binance records $6 billion outflows after starting withdrawals",
       "url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-02T08:49:30+00:00",
-      "title_so": null
+      "title_so": "Cusboonaysiinta tooska ah: Bitcoin waxay soo dhejisaa koror yar sida Binance u diiwaan gelisay $ 6 bilyan oo bixitaan ka dib marka la bilaabo lacag bixinta"
     },
     {
       "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
       "url": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T08:41:28+00:00",
-      "title_so": null
+      "published": "2026-11-02T08:41:28+00:00"
     },
     {
       "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
       "url": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T08:32:01+00:00",
-      "title_so": null
+      "published": "2026-11-02T08:32:01+00:00"
     },
     {
       "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
       "url": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-02T07:50:36+00:00",
-      "title_so": null
+      "published": "2026-11-02T07:50:36+00:00"
     },
     {
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-02T07:42:33+00:00",
-      "title_so": null
+      "published": "2026-11-02T07:42:33+00:00"
     },
     {
       "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
       "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T06:46:41+00:00",
-      "title_so": null
+      "published": "2026-11-02T06:46:41+00:00"
     },
     {
       "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
       "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-02T05:34:02+00:00",
-      "title_so": null
+      "published": "2026-11-02T05:34:02+00:00"
     },
     {
       "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
       "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T05:18:12+00:00",
-      "title_so": null
+      "published": "2026-11-02T05:18:12+00:00"
     },
     {
       "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
       "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T04:42:22+00:00",
-      "title_so": null
+      "published": "2026-11-02T04:42:22+00:00"
     },
     {
       "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
       "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T04:41:16+00:00",
-      "title_so": null
+      "published": "2026-11-02T04:41:16+00:00"
     },
     {
       "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
@@ -166,8 +261,7 @@
       "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-01T23:09:13+00:00",
-      "title_so": null
+      "published": "2026-11-01T23:09:13+00:00"
     },
     {
       "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
@@ -190,8 +284,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-01T16:57:14+00:00",
-      "title_so": null
+      "published": "2026-11-01T16:57:14+00:00"
     },
     {
       "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
@@ -362,36 +455,12 @@
       "title_so": "Hack Binance: Wax kasta oo aad u baahan tahay inaad ka ogaato ku saabsan Heistka ugu Weyn ee Taariikhda"
     },
     {
-      "title": "Institutions embrace crypto staking despite shrinking yields",
-      "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-31T15:00:00+00:00",
-      "title_so": "Machadyadu waxay aqbalaan is-weydaarsiga crypto in kasta oo wax-soo-saarka uu sii yaraanayo"
-    },
-    {
-      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-      "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-31T14:40:29+00:00",
-      "title_so": "Uber waxay tijaabisaa sida calaamadayntu u gelin karto lacag caddaan ah si ay ula shaqeyso HSBC, Franklin Templeton"
-    },
-    {
       "title": "Bitcoin turns 18: Has the original rebel grown up?",
       "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-10-31T14:27:52+00:00",
       "title_so": "Bitcoin ayaa 18 jirsatay: jabhadii asalka ahayd miyuu koray?"
-    },
-    {
-      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
-      "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-31T14:00:00+00:00",
-      "title_so": "Maaddaama macdan qodayaasha waaweyn ee bitcoin ay ceyrsanayaan faa'iidooyinka AI, shakhsiyaadka waxay helayaan tallaal kale abaalmarinta"
     },
     {
       "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
@@ -408,14 +477,6 @@
       "category": "Crypto",
       "published": "2026-10-31T13:01:03+00:00",
       "title_so": "Waa maxay sababta AI Models khiyaameeyaan: Abaalmarinta jabsiga, la sharraxay"
-    },
-    {
-      "title": "18 years in, what has Bitcoin truly done?",
-      "url": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-31T13:00:00+00:00",
-      "title_so": "18 sano gudahood, maxay Bitcoin runtii samaysay?"
     },
     {
       "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
@@ -488,78 +549,6 @@
       "category": "Crypto",
       "published": "2026-10-30T20:06:03+00:00",
       "title_so": "Ma ka welwelsan tahay Hacks Crypto? Ka iibso Bitcoin Proxies ee Suuqa saamiyada, waxaad dhahdaa Wall Street Firms"
-    },
-    {
-      "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
-      "url": "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-30T19:31:02+00:00",
-      "title_so": "Kaydka Reddit ayaa hoos u dhacay 30% iyadoo Google's AI Search uu u dhufto taraafikada iyo kobaca isticmaalaha"
-    },
-    {
-      "title": "Tether’s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
-      "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T19:01:58+00:00",
-      "title_so": "Kaydka xad-dhaafka ah ee Tether wuxuu ku dhow yahay labanlaab ilaa $8B maadaama faa'iidada Q3 ay gaadhay $1.5B"
-    },
-    {
-      "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
-      "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-30T18:45:03+00:00",
-      "title_so": "Binance Hack: Waa maxay sababta Bitcoin aysan u dhicin sidii ay ku dhacday 2018"
-    },
-    {
-      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
-      "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-30T18:16:02+00:00",
-      "title_so": "Dhulalka Afduubka Crypto $8 Milyan ee Walaalaha Texas Shuruudaha Xabsi 15-Sano ah"
-    },
-    {
-      "title": "City of London chief tops UK Black Powerlist",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-30T18:00:24+00:00",
-      "title_so": "Madaxa magaalada London ayaa ugu sarreeya liiska awoodda madow ee UK"
-    },
-    {
-      "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-      "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-30T17:50:26+00:00",
-      "title_so": "Adeegga sirta ah, FBI-da ayaa ku biirtay Baadhitaanka Hack Binance iyadoo goobaabintu xayirtay $823 Milyan"
-    },
-    {
-      "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
-      "url": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T17:48:27+00:00",
-      "title_so": "Coinbase wuxuu hogaamiyaa iibinta saamiyada crypto ka dib $6.3B Binance hack"
-    },
-    {
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T17:09:31+00:00",
-      "title_so": "Crypto Biz: Khatarta tirada Bitcoin waxay noqotaa dhibaato dhaqaale"
-    },
-    {
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T16:53:46+00:00",
-      "title_so": "Soo koobid: Sida rikoorka Binance ee jabsiga $6.3B u furmay"
     }
   ]
 }
