@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-01T21:51:30.852212+00:00",
+  "updated_at": "2026-11-02T01:27:23.268992+00:00",
   "items": [
+    {
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-02T01:15:25+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+      "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-01T23:59:27+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-01T23:34:49+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-01T23:09:13+00:00",
+      "title_so": null
+    },
     {
       "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
       "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
@@ -290,6 +322,14 @@
       "title_so": "Seeraar oo laga xaday Binance ayaa kor u dhaaftay hantida Tesla waxayna ka badan tahay laba jeer kaydka El Salvador"
     },
     {
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-10-31T02:12:19+00:00",
+      "title_so": null
+    },
+    {
       "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
       "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
       "source": "CoinDesk",
@@ -520,46 +560,6 @@
       "category": "Crypto",
       "published": "2026-10-30T12:41:43+00:00",
       "title_so": "Binance waxa uu sheegay in ay hayso $5B calaamado u dhigma si ay u daboosho khasaaraha jabsiga"
-    },
-    {
-      "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
-      "url": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-30T12:31:30+00:00",
-      "title_so": "Daqiiqada Subaxda: Binance's $6.4B Hack ayaa hadheeyay Hyperliquid maalinta ugu weyn"
-    },
-    {
-      "title": "What we know about Binance's $6.3bn hack",
-      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-30T12:27:28+00:00",
-      "title_so": "Waxa aan ka ognahay jabsiga Binance ee $6.3bn"
-    },
-    {
-      "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
-      "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-30T12:22:04+00:00",
-      "title_so": "TRM iyo Chainalysis waxay ku xidheen $6.4B Binance Hack Khatarta Ganacsiga Waqooyiga Kuuriya"
-    },
-    {
-      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
-      "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-10-30T12:13:02+00:00",
-      "title_so": "Binance waxay u habaysaa $6.34 bilyan si ay u daboosho khasaaraha ka soo gaadhay jabsiga crypto ee rikoodhka ah"
-    },
-    {
-      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-10-30T12:04:02+00:00",
-      "title_so": "Qiimaha Google wuxuu hoos u dhacayaa $500bn iyadoo raadinteeda AI ay ku dhufato iibka xayeysiiska"
     }
   ]
 }
