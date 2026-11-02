@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-02T01:27:23.268992+00:00",
+  "updated_at": "2026-11-02T04:16:41.974795+00:00",
   "items": [
+    {
+      "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
+      "url": "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T03:55:50+00:00",
+      "title_so": "Bank of Korea wuxuu baarayaa shirkadaha maaliyadeed ee soo-gaadhista khatarta crypto"
+    },
     {
       "title": "Binance users withdraw $3.6bn after record crypto hack",
       "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-02T01:15:25+00:00",
-      "title_so": null
+      "published": "2026-11-02T03:32:14+00:00",
+      "title_so": "Isticmaalayaasha Binance waxay la baxaan $3.6bn ka dib rikoodhka jabsiga crypto"
+    },
+    {
+      "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+      "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T01:51:48+00:00",
+      "title_so": "THORChain waxay joojisaa isweydaarsiga ka dib xannibaadda dib u habeynta bug, hoos u dhigista haakariska Binance"
     },
     {
       "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
@@ -15,7 +31,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-01T23:59:27+00:00",
-      "title_so": null
+      "title_so": "Shabakadda Binance ayaa kor u kacday ilaa $5.8B iyadoo ka bixitaanku uu dib u bilaabmayo jabsiga rikoodhka ka dib"
     },
     {
       "title": "Don't get caught out by new Buy Now Pay Later rules",
@@ -23,7 +39,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-01T23:34:49+00:00",
-      "title_so": null
+      "title_so": "Ha ku qabsan sharciyada cusub ee Iibka Hadda Bixiya"
     },
     {
       "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler’s Digest",
@@ -31,7 +47,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-01T23:09:13+00:00",
-      "title_so": null
+      "title_so": "Balaayiin ayaa ka cararaya Binance dib u furista, aasaasaha THORChain wuxuu ka soo horjeedaa xannibaadda qadaadiicda: Hodler's Digest"
     },
     {
       "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
@@ -327,7 +343,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-10-31T02:12:19+00:00",
-      "title_so": null
+      "title_so": "Waa maxay sababta budhcadayaasha 'elite' ee Kuuriyada Waqooyi ay u yihiin tuhmanaha ugu weyn ee jabsiga weyn ee Binance"
     },
     {
       "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
@@ -544,22 +560,6 @@
       "category": "Crypto",
       "published": "2026-10-30T13:11:10+00:00",
       "title_so": "FBI iyo Adeegga Sirta ayaa ku biiray jawaabta Binance's jabsiga $6.3B"
-    },
-    {
-      "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
-      "url": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-10-30T13:00:09+00:00",
-      "title_so": "Israa'iil ayaa u gacan galisay eedaymo loo soo jeediyay in uu ka faa'iidaysanayay buundada miyiga ee Maraykanka in ka badan $2.8m xatooyo: Warbixin"
-    },
-    {
-      "title": "Binance says it holds $5B in matching tokens to cover hack losses",
-      "url": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-10-30T12:41:43+00:00",
-      "title_so": "Binance waxa uu sheegay in ay hayso $5B calaamado u dhigma si ay u daboosho khasaaraha jabsiga"
     }
   ]
 }
