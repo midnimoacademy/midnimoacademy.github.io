@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-02T21:57:14.002957+00:00",
+  "updated_at": "2026-11-03T01:25:03.384224+00:00",
   "items": [
+    {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-03T01:23:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-03T00:41:36+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Apple unsure when more foldable iPhones will be available after selling out",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-03T00:29:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+      "url": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-02T23:10:25+00:00",
+      "title_so": null
+    },
+    {
+      "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+      "url": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T23:07:07+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T22:36:09+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "New Jersey drops Coinbase staking order ahead of crypto’s midterm test",
+      "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T22:22:30+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
+      "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-02T22:16:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+      "url": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-02T21:54:41+00:00",
+      "title_so": null
+    },
     {
       "title": "Big crypto wants the one thing it can’t buy: your vote",
       "url": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
@@ -250,14 +322,6 @@
       "title_so": "Wakiilka AI wuxuu isku khilaafaa madaxa 'Maxkamadda Internetka' - iyo xeerbeegti wakiilada AI"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-02T13:29:29+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
       "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
       "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -462,21 +526,24 @@
       "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T05:18:12+00:00"
+      "published": "2026-11-02T05:18:12+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
       "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T04:42:22+00:00"
+      "published": "2026-11-02T04:42:22+00:00",
+      "title_so": null
     },
     {
       "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
       "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-02T04:41:16+00:00"
+      "published": "2026-11-02T04:41:16+00:00",
+      "title_so": null
     },
     {
       "title": "Bank of Korea probes financial firms’ exposure to crypto risks",
@@ -493,68 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-02T01:51:48+00:00",
       "title_so": "THORChain waxay joojisaa isweydaarsiga ka dib xannibaadda dib u habeynta bug, hoos u dhigista haakariska Binance"
-    },
-    {
-      "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-      "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-01T23:59:27+00:00",
-      "title_so": "Shabakadda Binance ayaa kor u kacday ilaa $5.8B iyadoo ka bixitaanku uu dib u bilaabmayo jabsiga rikoodhka ka dib"
-    },
-    {
-      "title": "Don't get caught out by new Buy Now Pay Later rules",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-01T23:34:49+00:00",
-      "title_so": "Ha ku qabsan sharciyada cusub ee Iibka Hadda Bixiya"
-    },
-    {
-      "title": "THORChain founder rejects freeze request, CZ thanks Secret Service: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-01T23:09:13+00:00"
-    },
-    {
-      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-01T19:30:00+00:00",
-      "title_so": "Hagaha akhristaha crypto ee doorashada dhexe ee 2026: Gobolka Crypto"
-    },
-    {
-      "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-      "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-01T16:57:14+00:00"
-    },
-    {
-      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-      "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-01T16:01:02+00:00",
-      "title_so": "Maalgashadayaasha Bitcoin ETF waxay madax u yihiin bixitaannada ka dib Record Binance Hack"
-    },
-    {
-      "title": "How to Run an AI Model Locally—And Why You Might Want To",
-      "url": "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-01T14:01:02+00:00",
-      "title_so": "Sida loo socodsiiyo moodalka AI gudaha-iyo sababta aad u rabto"
-    },
-    {
-      "title": "DeepSeek developing AI agent requiring less human input: Report",
-      "url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-01T13:40:33+00:00",
-      "title_so": "DeepSeek horumarinta wakiilka AI ee u baahan wax gelinta bini'aadamka: Warbixin"
     }
   ]
 }
