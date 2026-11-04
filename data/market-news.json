@@ -1,12 +1,76 @@
 {
-  "updated_at": "2026-11-04T07:37:46.320272+00:00",
+  "updated_at": "2026-11-04T10:24:48.101778+00:00",
   "items": [
+    {
+      "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+      "url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-04T10:18:50+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
+      "url": "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-04T10:03:33+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T09:38:07+00:00",
+      "title_so": null
+    },
     {
       "title": "Poundland supplier 'will lose millions' if retailer collapses",
       "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-04T07:31:21+00:00",
+      "published": "2026-11-04T09:28:54+00:00",
+      "title_so": null
+    },
+    {
+      "title": "US midterm elections 2026 as it happened: Democrats win control of Congress",
+      "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T09:27:34+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+      "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-04T09:22:58+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
+      "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T09:15:55+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
+      "url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-04T08:04:04+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Democrats win US House to secure control of Congress in midterms",
+      "url": "https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T07:50:27+00:00",
       "title_so": null
     },
     {
@@ -18,15 +82,7 @@
       "title_so": null
     },
     {
-      "title": "US midterm election 2026 live: Democrats sweep Congress, flipping House and Senate",
-      "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T06:40:13+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
+      "title": "Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades",
       "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
       "source": "CoinDesk",
       "category": "Crypto",
@@ -118,56 +174,49 @@
       "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-04T00:45:16+00:00",
-      "title_so": null
+      "published": "2026-11-04T00:45:16+00:00"
     },
     {
       "title": "Canva announces major job cuts after 'our hardest year yet'",
       "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-04T00:09:35+00:00",
-      "title_so": null
+      "published": "2026-11-04T00:09:35+00:00"
     },
     {
       "title": "Graduates are managing AI - but are they learning much else?",
       "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-04T00:04:35+00:00",
-      "title_so": null
+      "published": "2026-11-04T00:04:35+00:00"
     },
     {
-      "title": "Live updates: Crypto's election gamble falters as Democratic victories usher in a 'blue wave'",
+      "title": "Live updates: Rep. Garcia vows to investigate Trump after 'blue wave' defeats crypto election gamble",
       "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T00:00:00+00:00",
-      "title_so": null
+      "published": "2026-11-04T00:00:00+00:00"
     },
     {
       "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
       "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-03T23:56:09+00:00",
-      "title_so": null
+      "published": "2026-11-03T23:56:09+00:00"
     },
     {
       "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
       "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-03T23:48:32+00:00",
-      "title_so": null
+      "published": "2026-11-03T23:48:32+00:00"
     },
     {
       "title": "What voters said about their views on crypto",
       "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-03T23:19:44+00:00",
-      "title_so": null
+      "published": "2026-11-03T23:19:44+00:00"
     },
     {
       "title": "What happens if North Korea steals Wall Street's tokenized assets next",
@@ -471,13 +520,6 @@
       "published": "2026-11-03T12:15:29+00:00"
     },
     {
-      "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
-      "url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-03T12:01:05+00:00"
-    },
-    {
       "title": "Drivers may get compensation offers before car finance saga ends",
       "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -491,48 +533,6 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-03T11:32:02+00:00"
-    },
-    {
-      "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
-      "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-03T11:28:00+00:00"
-    },
-    {
-      "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
-      "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-03T11:22:10+00:00"
-    },
-    {
-      "title": "'Quiet quitting' could be hitting the economy - here's why",
-      "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-03T11:15:51+00:00"
-    },
-    {
-      "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
-      "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-03T11:12:12+00:00"
-    },
-    {
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-03T11:10:37+00:00"
-    },
-    {
-      "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
-      "url": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-03T10:49:26+00:00"
     }
   ]
 }
