@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-11-04T01:25:42.901647+00:00",
+  "updated_at": "2026-11-04T04:13:25.875996+00:00",
   "items": [
     {
-      "title": "US midterms election 2026 live: Democratic Senate odds climb above 90%",
+      "title": "US midterms election 2026 live: Democrat flips South Carolina Senate seat in major upset",
       "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-04T01:20:56+00:00",
+      "published": "2026-11-04T04:04:04+00:00",
+      "title_so": null
+    },
+    {
+      "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
+      "url": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T03:35:30+00:00",
+      "title_so": null
+    },
+    {
+      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-04T01:36:06+00:00",
       "title_so": null
     },
     {
@@ -42,7 +58,7 @@
       "title_so": null
     },
     {
-      "title": "Live updates: 2026 U.S. midterm elections and results as first polls close",
+      "title": "Live updates: Crypto's big election gamble faces voters as Democrats gain ground",
       "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
       "source": "CoinDesk",
       "category": "Crypto",
@@ -166,16 +182,14 @@
       "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-03T19:38:19+00:00",
-      "title_so": null
+      "published": "2026-11-03T19:38:19+00:00"
     },
     {
       "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
       "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-03T19:16:02+00:00",
-      "title_so": null
+      "published": "2026-11-03T19:16:02+00:00"
     },
     {
       "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
@@ -525,21 +539,6 @@
       "category": "Economy",
       "published": "2026-11-03T08:33:20+00:00",
       "title_so": "Kuuriyada Waqooyi ayaa beenisay inay ka dambeysay jabsiga rikoorka ah ee $6.3bn ee Binance"
-    },
-    {
-      "title": "Kraken restricts accounts linked to suspected $133M EU crypto theft",
-      "url": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-03T08:18:22+00:00"
-    },
-    {
-      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
-      "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-03T07:50:14+00:00",
-      "title_so": "Laga soo bilaabo mootooyinka ilaa shaambo - dadku waxay boqolaal ka badbaadiyaan quusitaanka qashinka"
     }
   ]
 }
