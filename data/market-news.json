@@ -1,8 +1,88 @@
 {
-  "updated_at": "2026-11-04T16:11:06.548116+00:00",
+  "updated_at": "2026-11-04T19:18:32.315219+00:00",
   "items": [
     {
-      "title": "Wall Street cuts Bitcoin miner price targets as newly blue Texas threatens data center boom",
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-04T19:07:49+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+      "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T18:47:56+00:00",
+      "title_so": null
+    },
+    {
+      "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
+      "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-04T18:46:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+      "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-04T18:16:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
+      "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T18:02:42+00:00",
+      "title_so": null
+    },
+    {
+      "title": "What Is x402? How AI Agents Pay With Crypto",
+      "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-04T17:59:09+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+      "url": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-04T17:06:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+      "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-04T16:49:31+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+      "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-04T16:29:36+00:00",
+      "title_so": null
+    },
+    {
+      "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
+      "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-04T16:11:29+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
       "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
       "source": "CoinDesk",
       "category": "Crypto",
@@ -15,14 +95,6 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-04T15:51:37+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-04T15:45:11+00:00",
       "title_so": null
     },
     {
@@ -230,72 +302,63 @@
       "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T09:22:58+00:00",
-      "title_so": null
+      "published": "2026-11-04T09:22:58+00:00"
     },
     {
       "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
       "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-04T09:15:55+00:00",
-      "title_so": null
+      "published": "2026-11-04T09:15:55+00:00"
     },
     {
       "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
       "url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T08:04:04+00:00",
-      "title_so": null
+      "published": "2026-11-04T08:04:04+00:00"
     },
     {
       "title": "Democrats win US House to secure control of Congress in midterms",
       "url": "https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-04T07:50:27+00:00",
-      "title_so": null
+      "published": "2026-11-04T07:50:27+00:00"
     },
     {
       "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
       "url": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-04T07:25:47+00:00",
-      "title_so": null
+      "published": "2026-11-04T07:25:47+00:00"
     },
     {
       "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
       "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T06:16:40+00:00",
-      "title_so": null
+      "published": "2026-11-04T06:16:40+00:00"
     },
     {
       "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
       "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T06:06:04+00:00",
-      "title_so": null
+      "published": "2026-11-04T06:06:04+00:00"
     },
     {
       "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
       "url": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-04T05:46:33+00:00",
-      "title_so": null
+      "published": "2026-11-04T05:46:33+00:00"
     },
     {
       "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
       "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T05:14:12+00:00",
-      "title_so": null
+      "published": "2026-11-04T05:14:12+00:00"
     },
     {
       "title": "South Korea's ruling party wants to delay its crypto tax again",
@@ -465,77 +528,6 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-03T19:16:02+00:00"
-    },
-    {
-      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
-      "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-03T18:16:03+00:00",
-      "title_so": "Sarrifka Bitcoin ee ugu weyn Brazil ayaa sheegay in ay soo celin doonto isticmaalayaasha kadib $40 milyan oo la jabsaday"
-    },
-    {
-      "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
-      "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-03T17:46:15+00:00",
-      "title_so": "Elon Musk's Tesla iyo SpaceX waxay ka xannibeen kaydkooda goobta OKX-ICE Tokenized"
-    },
-    {
-      "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
-      "url": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-03T17:30:54+00:00",
-      "title_so": "Shan Siyood Oo Kuuriyada Waqooyi U Jebisa Shirkadaha Crypto—iyo Sida Binance Loo jabsaday"
-    },
-    {
-      "title": "Epidemic of Hacked Freezers Spreads Across Europe",
-      "url": "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-03T17:04:46+00:00",
-      "title_so": "Faafidda Qaboojiyaha La Jabsado Oo Ku Fidaya Yurub Oo Dhan"
-    },
-    {
-      "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-      "url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-03T16:55:10+00:00",
-      "title_so": "Justin Sun ayaa doonaya in cunaqabatayn lagu soo rogo xiriirka ka dhexeeya Trump Liberty Financial xiriirka Imaaraadka Carabta"
-    },
-    {
-      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
-      "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-03T16:49:56+00:00",
-      "title_so": "Madaxweynaha Kuuriyada Koonfureed ayaa sheegay in wadanku uu u baahan yahay ‘Czarsecurity Cybersecurity’ kadib markii la jabsaday $6.3 bilyan Binance"
-    },
-    {
-      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
-      "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-03T16:47:01+00:00",
-      "title_so": "Wall Street waxay dishay isu soo baxyadii duurjoogta ahaa ee Bitcoin: 10x's Markus Thielen"
-    },
-    {
-      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
-      "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-03T16:44:06+00:00",
-      "title_so": "Binance wuxuu raadraacaa $6.3B jabsiga wareysiyada shaqada ee been abuurka ah, aaladda AI dhiban"
-    },
-    {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-03T16:19:29+00:00"
     }
   ]
 }
