@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-11-05T07:38:58.747673+00:00",
+  "updated_at": "2026-11-05T10:21:43.274090+00:00",
   "items": [
+    {
+      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-05T10:04:51+00:00",
+      "title_so": "Khamriga iyo baaskiilka elektaroonigga ah ee khatarta ah ayaa la kulma ganaaxyo goobta jooga iyada oo la xakameynayo"
+    },
+    {
+      "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-05T09:46:32+00:00",
+      "title_so": "Iibsadaha labaad ayaa dalab samatabbixin ah u diray Poundland iyadoo tafaariiqle uu soo dumay"
+    },
+    {
+      "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T09:35:29+00:00",
+      "title_so": "Kuuriyada Koonfureed waxay doonaysaa dib u dhigista cashuurta 4aad ee crypto, bartilmaameedyada 2029 bilawga"
+    },
+    {
+      "title": "France budget rejection sidelines stablecoin tax, wallet reporting",
+      "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T09:04:42+00:00",
+      "title_so": "Diidmada miisaaniyada Faransiiska ayaa dhinac ka ah cashuurta statscoin, ka warbixinta jeebka"
+    },
+    {
+      "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+      "url": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T08:35:37+00:00",
+      "title_so": "Hong Kong waxay soo saartaa sharci u baahan is-weydaarsiga crypto si loogu sheego macaamilka macaamilka maamulka canshuuraha"
+    },
+    {
+      "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
+      "url": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T08:26:26+00:00",
+      "title_so": "OpenAI waxay leedahay AI waxay u jabin kartaa Linux cabir ahaan. Waa kan waxa ay ka dhigan tahay crypto"
+    },
+    {
+      "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+      "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T08:22:30+00:00",
+      "title_so": "Bitcoin, Ether ETFs waxay sawiraan $128M sida dib u soo celinta crypto ka dib xilliga dhexe"
+    },
     {
       "title": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses",
       "url": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -34,12 +90,12 @@
       "title_so": "Binance, Polymarket waxay raadisaa fargeeto adag oo Polygon ah si ay ugu soo ceshato $6.8M ee crypto la xaday"
     },
     {
-      "title": "Democrats won on affordability. Can they deliver it?",
+      "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
       "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-05T06:01:05+00:00",
-      "title_so": "Dimuqraadiyiintu waxay ku guulaysteen awood. Ma geyn karaan?"
+      "title_so": "Cunto, shidaal iyo canshuur - Dimuqraadiyiinta wax ma sameyn karaan si ay u yareeyaan qiimaha cadaadiska nolosha?"
     },
     {
       "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
@@ -504,62 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-04T09:27:34+00:00",
       "title_so": "Doorashooyinka xilliga dhexe ee Maraykanka 2026 sidii ay u dhacday: Dimuqraadiyiintu waxay ku guulaysteen talada Congresska"
-    },
-    {
-      "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
-      "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T09:22:58+00:00",
-      "title_so": "Morgan Stanley ayaa sheegay in ay ka mid tahay bangiyada ugu horeeya ee calaamadeeya hantida dhabta ah ee aduunka"
-    },
-    {
-      "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
-      "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T09:15:55+00:00",
-      "title_so": "Khabiirada Binance waxay dhaqaaqaan 81% ee Solana la xado, lacagaha dariiqa loo maro THORChain"
-    },
-    {
-      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
-      "url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T08:04:04+00:00",
-      "title_so": "Guddiga deeqda Zcash ayaa hoos u dhigay qorshaha lagu jiheynayo 98,000 ZEC abaalmarinta macdanta mustaqbalka"
-    },
-    {
-      "title": "Democrats win US House to secure control of Congress in midterms",
-      "url": "https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T07:50:27+00:00",
-      "title_so": "Dimuqraadiyiinta ayaa ku guulaysta Aqalka Maraykanka si ay u xaqiijiyaan maamulka Koongareeska xilliga dhexe"
-    },
-    {
-      "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
-      "url": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T07:25:47+00:00",
-      "title_so": "Bitcoin ayaa ka soo kabsatay 7-toddobaad hoose oo ka hooseeya $76K sida Dimuqraadiyiintu ay u xaaqayaan Congresska"
-    },
-    {
-      "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
-      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T06:16:40+00:00",
-      "title_so": "Bitcoin ayaa kor u kacday ilaa $78,300 soo laabashada qaabaysan ee V-ka iyadoo hubanti la'aanta doorashada dhexe ay sii yaraanayso"
-    },
-    {
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T06:06:04+00:00",
-      "title_so": "Jack Dorsey's Block wuxuu wajahayaa $ 764 milyan DOJ iyadoo faa'iidada bitcoin ay hoos u dhacday 50%"
     }
   ]
 }
