@@ -1,6 +1,173 @@
 {
-  "updated_at": "2026-11-05T10:21:43.274090+00:00",
+  "updated_at": "2026-11-05T13:31:51.445055+00:00",
   "items": [
+    {
+      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+      "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T13:29:40+00:00",
+      "title_so": "Google ayaa laga yaabaa inay saami ku yeelato mashruuca macdanta ee TeraWulf ee $ 19 ee AI haddii Anthropic"
+    },
+    {
+      "title": "Faisal Islam: How high will interest rates go?",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-05T13:17:10+00:00",
+      "title_so": "Feysal Islaam: Intee in le'eg ayuu dulsaarku gaari doonaa?"
+    },
+    {
+      "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
+      "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T13:14:05+00:00",
+      "title_so": "Daqiiqada Subaxda: Dimuqraadiyiinta Sweep Pumps Crypto sida Sharciga caddayntu dib u soo noqonayo"
+    },
+    {
+      "title": "Three ways the interest rate rise could affect you",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-05T13:08:30+00:00",
+      "title_so": "Saddex dariiqo ayuu kor u kaca dulsaarka kugu saameyn karaa"
+    },
+    {
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-05T13:04:36+00:00",
+      "title_so": "Heerarka dulsaarka ayaa kor u kacay ilaa 4% korodhkii ugu horreeyay muddo saddex sano ah"
+    },
+    {
+      "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
+      "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T13:01:02+00:00",
+      "title_so": "Stablecoins Go Mainstream sida Samsung Wallet ugu darto USDC on Solana"
+    },
+    {
+      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+      "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T12:55:03+00:00",
+      "title_so": "Binance waxay jaraysaa gelitaanka SignalPlus ka dib digniinta amniga, waxay ku boorinaysaa isticmaalayaasha inay hubiyaan xisaabaadka"
+    },
+    {
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T12:50:57+00:00",
+      "title_so": "Bangiga dhexe ee Ukraine wuxuu ka soo horjeedaa biilka crypto, isagoo tixraacaya welwelka madaxbannaanida lacagta"
+    },
+    {
+      "title": "Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says",
+      "url": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T12:39:36+00:00",
+      "title_so": "Ganacsiga memecoin ee Trump ayaa meesha ka saaray Sharciga CAD, Scaramucci ayaa leh"
+    },
+    {
+      "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T12:27:04+00:00",
+      "title_so": "Bitcoin waa adkeysi, laakiin kasbashada ayaa maqan oo dalabka ayaa weli kacsan"
+    },
+    {
+      "title": "Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform",
+      "url": "https://decrypt.co/382599/binance-cuts-off-signalplus-api-keys-over-potential-security-issue-at-trading-platform",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T12:23:24+00:00",
+      "title_so": "Binance wuxuu gooyaa SignalPlus API furayaasha 'Arrinta Amniga Suuragal ah' ee Platform Trading"
+    },
+    {
+      "title": "Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto",
+      "url": "https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T12:00:01+00:00",
+      "title_so": "Nin Canadian ah ayaa loo gacan galiyay Mareykanka si uu u afduubo kombuyuutarrada sare ee jaamacadda ee Crypto"
+    },
+    {
+      "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T11:49:23+00:00",
+      "title_so": "Macdanta Bitcoin ayaa si xad dhaaf ah loo iibiyaa ka dib 35% bishii Oktoobar, ayuu yidhi VanEck"
+    },
+    {
+      "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+      "url": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T11:45:54+00:00",
+      "title_so": "Xidhiidhka Trump ee Bitcoin ee Maraykanka ayaa u wareegaya $126 milyan oo faa'iido ah laakiin waxa ay seegtay qiyaasaha dakhliga"
+    },
+    {
+      "title": "Thailand to block Bitget in December over unlicensed crypto trading",
+      "url": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T11:33:20+00:00",
+      "title_so": "Thailand waxay xannibaysaa Bitget bisha Diseembar ganacsiga crypto ee aan shatiga loo haysan"
+    },
+    {
+      "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T11:30:00+00:00",
+      "title_so": "Bitcoin waxay haysaa in ka badan $80,000 kadib boodi arbacadii sida isu soo baxyada duritaanka ee liiska ETF ee saamiyada"
+    },
+    {
+      "title": "Welsh aviation firm AerFin bought in £475m deal",
+      "url": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-05T11:01:06+00:00",
+      "title_so": "Shirkadda duulista hawada ee Wales ee AerFin ayaa ku iibsatay £475m"
+    },
+    {
+      "title": "Live updates: Bitcoin edges lower as markets cool following yesterday's rally",
+      "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T10:57:11+00:00",
+      "title_so": "Cusboonaysiinta tooska ah: Cidhifyada Bitcoin ayaa hoos u dhacaya iyadoo suuqyadu qabow yihiin ka dib isu soo bax shalay"
+    },
+    {
+      "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+      "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T10:44:54+00:00",
+      "title_so": "Khadka Mercado Bitcoin ayaa sii socday saacado ka dib markii la isweydaarsaday sheegay in weerarka uu ku jiro, warbixin ayaa heshay"
+    },
+    {
+      "title": "Arkansas Sues Kalshi, Joining a Growing List of States Targeting Prediction Markets",
+      "url": "https://decrypt.co/382588/arkansas-sues-kalshi-joining-a-growing-list-of-states-targeting-prediction-markets",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T10:28:58+00:00",
+      "title_so": "Arkansas waxay dacwoonaysaa Kalshi, Ku biirista Liistada Koraysa ee Dawladaha Bartilmaameedka Suuqyada Saadaasha"
+    },
+    {
+      "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
+      "url": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T10:28:26+00:00"
+    },
     {
       "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
       "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
@@ -16,6 +183,13 @@
       "category": "Economy",
       "published": "2026-11-05T09:46:32+00:00",
       "title_so": "Iibsadaha labaad ayaa dalab samatabbixin ah u diray Poundland iyadoo tafaariiqle uu soo dumay"
+    },
+    {
+      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T09:36:32+00:00"
     },
     {
       "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
@@ -168,14 +342,6 @@
       "category": "Economy",
       "published": "2026-11-05T00:59:22+00:00",
       "title_so": "Dukaanka ugu da'da weyn Australia David Jones ayaa laablaabmay ka dib 188 sano"
-    },
-    {
-      "title": "Interest rates expected to rise for first time in over three years",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-05T00:00:09+00:00",
-      "title_so": "Heerarka dulsaarka ayaa la filayaa inay kor u kacaan markii ugu horreysay muddo saddex sano ah"
     },
     {
       "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
@@ -392,174 +558,6 @@
       "category": "Crypto",
       "published": "2026-11-04T15:29:23+00:00",
       "title_so": "Bitcoin ayaa garaacday $80.5k iyadoo saamiyada Mareykanka ay isu soo bax ku sameynayaan natiijooyinka doorashada xilliga dhexe"
-    },
-    {
-      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T15:27:20+00:00",
-      "title_so": "Crypto Long & Short: ICE waxay sharad ku leedahay rabitaanka cuntada tafaariiqda ee natiijooyinka degdega ah"
-    },
-    {
-      "title": "The election changes Washington. The work on crypto continues",
-      "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T14:25:12+00:00",
-      "title_so": "Doorashada ayaa isbedeleysa Washington. Shaqada crypto ayaa sii socota"
-    },
-    {
-      "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
-      "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T14:00:53+00:00",
-      "title_so": "Cusboonaysiinta tooska ah: Bitcoin ayaa kor u kacday $80,000 iyada oo saamiyadu heleen ka dib Wave Blue"
-    },
-    {
-      "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
-      "url": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T13:44:52+00:00",
-      "title_so": "Faransiiska ayaa taageeray ka warbixinta is-xakamaynta crypto qiimihiisu yahay 100k yuuro ama ka badan"
-    },
-    {
-      "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
-      "url": "https://decrypt.co/382497/morning-minute-cftc-clears-stock-perps-gets-sued-the-same-day",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T13:25:01+00:00",
-      "title_so": "Daqiiqada Subaxda: CFTC waxay nadiifisaa saamiyada saamiyada, waxaana la dacweynayaa isla maalintaas"
-    },
-    {
-      "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
-      "url": "https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T13:13:24+00:00",
-      "title_so": "Seeraar waxay kaxaysataa midterms-ka dhexe sida khubaradu sheegeen in dimuquraadigu xaaqidda 'qiimuhu kujiro'"
-    },
-    {
-      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-      "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T13:00:00+00:00",
-      "title_so": "Maareeyaha hantida caalamiga ah Schroders ayaa Solana u keenaya sanduuqa curaarta suuqa ee soo ifbaxaya"
-    },
-    {
-      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-      "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T12:49:56+00:00",
-      "title_so": "THORChain's RUNE ayaa booday 10% iyadoo budhcadayaasha Kuuriyada Waqooyi ay dib u bilaabeen dhaqidda bililiqada Binance"
-    },
-    {
-      "title": "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter",
-      "url": "https://decrypt.co/382493/usdc-issuer-circle-quietly-cuts-5-of-staff-in-profitable-quarter",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T12:44:00+00:00",
-      "title_so": "Goobo Bixiyaha USDC waxay si degan u gooysaa 5% shaqaalaha rubuci faa'iidada leh"
-    },
-    {
-      "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
-      "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T12:33:54+00:00",
-      "title_so": "Goobo ayaa garaacday rajada laga filayo dakhliga xooggan, laakiin waxay dhimaysaa 5% xooggeeda shaqadeeda"
-    },
-    {
-      "title": "Here's how analysts are reacting to the new blue Congress",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T12:14:11+00:00",
-      "title_so": "Waa kan sida ay falanqeeyayaashu uga falcelinayaan Congress-ka buluugga ah ee cusub"
-    },
-    {
-      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-      "url": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T12:12:15+00:00",
-      "title_so": "Canton's CC wuxuu kor u kacay 4% iyadoo shaqaalaha SEC ay u arkaan 'badeeco dhijitaal ah'"
-    },
-    {
-      "title": "Midterms Blue Wave Makes $917K for One Polymarket Trader, If Alaska Doesn’t Flip",
-      "url": "https://decrypt.co/382489/midterms-blue-wave-makes-917k-for-one-polymarket-trader-if-alaska-doesnt-flip",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T11:48:50+00:00",
-      "title_so": "Midterms Blue Wave waxay u samaysaa $917K Hal Ganacsade Polymarket ah, Haddii Alaska aysan Rogin"
-    },
-    {
-      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
-      "url": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T11:11:57+00:00",
-      "title_so": "Khasaaraha Binance wuxuu noqon karaa 'dib u dhac ku meel gaar ah' ee crypto, Grayscale's Pandl ayaa leh"
-    },
-    {
-      "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T10:38:58+00:00",
-      "title_so": "Bitcoin ayaa dib uga soo kabanaysa dip-ka dhexe sida DeFi ay hogaamiso guulaha"
-    },
-    {
-      "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
-      "url": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T10:35:01+00:00",
-      "title_so": "Xaakimku wuxuu amray in Bitcoin Wallet lagu soo celiyo qoyska lagu xukumay dilaa Canadian"
-    },
-    {
-      "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
-      "url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T10:30:42+00:00",
-      "title_so": "Justin Sun waxa uu raadinayaa $264,000 oo cunaqabatayn, sababo la xidhiidha shaacinta Imaaraatka ee Xoriyadda Adduunka"
-    },
-    {
-      "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
-      "url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T10:18:50+00:00",
-      "title_so": "ZachXBT waxay u magacawday bangiga Faransiiska Crédit Mutuel Arkéa inuu yahay dhibane looga shakisan yahay xatooyo crypto $ 133 milyan"
-    },
-    {
-      "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
-      "url": "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T10:03:33+00:00",
-      "title_so": "Elon Musk wuxuu sabbeeyaa xarumaha xogta meel bannaan sida dimuquraadigu xaaqid cadaadis saaray ganacsiga AI"
-    },
-    {
-      "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T09:38:07+00:00",
-      "title_so": "Bitcoin ETFs waxay luminayaan $1.16B sida Bitwise ugu yeertay iibinta 'muddada gaaban'"
-    },
-    {
-      "title": "US midterm elections 2026 as it happened: Democrats win control of Congress",
-      "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T09:27:34+00:00",
-      "title_so": "Doorashooyinka xilliga dhexe ee Maraykanka 2026 sidii ay u dhacday: Dimuqraadiyiintu waxay ku guulaysteen talada Congresska"
     }
   ]
 }
