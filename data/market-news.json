@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-11-05T19:15:52.419174+00:00",
+  "updated_at": "2026-11-05T22:02:14.529679+00:00",
   "items": [
+    {
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-05T21:56:00+00:00",
+      "title_so": "Kaydka teknoolojiyadda waaweyn ayaa hoos u dhacaya iyadoo xilli-dhexe ee Mareykanka ay ku darsanayaan cabsida hoos u dhaca AI"
+    },
+    {
+      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+      "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T21:39:19+00:00",
+      "title_so": "Xulafada Crypto French Hill ayaa ku guulaysata doorashada laakiin waxay qarka u saaran tahay inay lumiso kursiga aqalka"
+    },
+    {
+      "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
+      "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T21:36:03+00:00",
+      "title_so": "OpenAI Waxay Balanqaadaysaa inay Cagta Saari Doonto Biilka Awooda AI Kadib Kacdoonka Codbixiyayaasha. Yaa Dhaqan galinaya?"
+    },
+    {
+      "title": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
+      "url": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T20:46:02+00:00",
+      "title_so": "DOJ Waxay abuurtaa 'Super Intelligence' Task Force si ay uga ilaaliso xadgudubka AI"
+    },
+    {
+      "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+      "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T20:16:03+00:00",
+      "title_so": "Mercado Bitcoin waxay sheegtay in jabsigeeda ay ku jirtay, laakiin xogta Blockchain waxay sheegaysaa sheeko ka duwan"
+    },
+    {
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
+      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T19:46:03+00:00",
+      "title_so": "Kordhinta Zcash waxay ku xidhi kartaa $ 16 milyan ee Crypto weligeed"
+    },
+    {
+      "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
+      "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T19:16:03+00:00",
+      "title_so": "OpenAI Waxaa La Helay 948 Cilladaha Amniga Linux — Oo La Ogaaday Sida Looga Faa'iidaysto"
+    },
     {
       "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
       "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -18,12 +74,12 @@
       "title_so": "Waaxda Caddaaladda ee Mareykanka ayaa uruurisa xoog si ay uga gaashaanto khataraha AI ee ajnabiga ah"
     },
     {
-      "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
+      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
       "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-05T18:48:40+00:00",
-      "title_so": "Bitcoin, kaydka loo yaqaan 'crypto stocks' ayaa lagu qabtay hoos u dhaca ganacsiga AI, laakiin ganacsadaha Wintermute wuxuu arkay 'galaas badhkii oo buuxa'"
+      "title_so": "Bitcion waxay hoos ugu dhacday $76,000 iyadoo burburka ganacsiga AI uu hoos u dhigayo saamiyada"
     },
     {
       "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
@@ -58,14 +114,6 @@
       "title_so": "S&P 500 Burburinta, Wall Street Cabsida Wareegtada, Hal maalin uun ka dib markii uu Trump u Dabaal degay Heerarka Sare"
     },
     {
-      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-05T17:57:57+00:00",
-      "title_so": "Saamiyada Musk's SpaceX ayaa hoos u dhacaya marka saamiyada tignoolajiyada iyo AI ay hoos u dhacaan"
-    },
-    {
       "title": "Paraguay president resigns after collapse of Ueno digital bank",
       "url": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -98,12 +146,12 @@
       "title_so": "Solana Shaybaadhka Leap wuxuu bilaabay App-ka moobilka ee lagu kala iibsanayo kaydka Tokenized iyo Crypto"
     },
     {
-      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
       "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-05T16:58:21+00:00",
-      "title_so": "Waa maxay TraderTraitor, kooxda jabsiga ee ka dambeysa $ 6.3 bilyan Binance heist"
+      "title_so": "Waa maxay TraderTraitor, kooxda jabsiga ee ka dambeysa $ 6.3 bilyan Binance heist?"
     },
     {
       "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
@@ -330,12 +378,12 @@
       "title_so": "Shirkadda duulista hawada ee Wales ee AerFin ayaa ku iibsatay £475m"
     },
     {
-      "title": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
+      "title": "Live updates: Bitcoin drops more than 5% as stocks close out worst day since April 2025",
       "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-05T10:57:11+00:00",
-      "title_so": "Cusboonaysiinta tooska ah: Bitcoin ayaa hoos u dhacaysa iyadoo Nasdaq ay hoos ugu dhacday 4% iibka argagaxa leh"
+      "title_so": "Cusbooneysiinta tooska ah: Bitcoin ayaa hoos u dhacday in ka badan 5% iyadoo kaydka uu xirmay maalintii ugu xumaa tan iyo Abriil 2025"
     },
     {
       "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
@@ -512,54 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-05T01:51:21+00:00",
       "title_so": "Hindiya waxay uga digtay tuugada AI ku shaqeeya inay beegsadaan isweydaarsiga crypto 'xawaaraha mashiinka'"
-    },
-    {
-      "title": "Australia's oldest department store David Jones folds after 188 years",
-      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-05T00:59:22+00:00",
-      "title_so": "Dukaanka ugu da'da weyn Australia David Jones ayaa laablaabmay ka dib 188 sano"
-    },
-    {
-      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
-      "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T23:20:17+00:00",
-      "title_so": "Mercado Bitcoin ayaa sheegtay in dib u furista wejigeeda ay bilaabaneyso Isniinta, ay dabooli doonto khasaaraha"
-    },
-    {
-      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T22:55:00+00:00",
-      "title_so": "Tokenization iyo stablecoins ayaa laga yaabaa in ay cimilada dimuqraadiyiintu xaaqaan maadaama sharciyada crypto ee ballaadhan ay la kulmaan hubaal la'aan"
-    },
-    {
-      "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
-      "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T22:46:03+00:00",
-      "title_so": "Waa maxay sababta fargeeto jilicsan ee Xiga ee Seeraar uu u dareemi karo sida Socodka Layliska"
-    },
-    {
-      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
-      "url": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T22:31:58+00:00",
-      "title_so": "Aasaasaha BitMart ayaa sheegay in kooxda amniga 'ay aad u liidato' ka dib markii la jabsaday cusub"
-    },
-    {
-      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
-      "url": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T22:17:33+00:00",
-      "title_so": "Crypto PACs waxay isha ku haysaa 2028 'khariidad cusub' iyadoo Dimuqraadiyiintu ay qaataan Congresska"
     }
   ]
 }
