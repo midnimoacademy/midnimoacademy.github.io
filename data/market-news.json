@@ -1,29 +1,109 @@
 {
-  "updated_at": "2026-11-04T22:02:25.866046+00:00",
+  "updated_at": "2026-11-05T01:28:43.104982+00:00",
   "items": [
     {
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "title": "Australia's oldest department store David Jones collapses after 188 years",
+      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-04T21:41:15+00:00",
-      "title_so": null
+      "published": "2026-11-05T00:59:22+00:00",
+      "title_so": "Dukaanka ugu da'da weyn Australia David Jones ayaa dumay ka dib 188 sano"
+    },
+    {
+      "title": "Interest rates expected to rise for first time in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-05T00:00:09+00:00",
+      "title_so": "Heerarka dulsaarka ayaa la filayaa inay kor u kacaan markii ugu horreysay muddo saddex sano ah"
     },
     {
       "title": "Pound rises to its highest level since the Brexit referendum",
       "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-04T21:35:50+00:00",
-      "title_so": null
+      "published": "2026-11-04T23:30:28+00:00",
+      "title_so": "Pound wuxuu kor u kacayaa heerkiisii ​​ugu sarreeyay tan iyo aftidii Brexit"
     },
     {
-      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike: Part 1",
+      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+      "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T23:20:17+00:00",
+      "title_so": "Mercado Bitcoin ayaa sheegtay in dib u furista wejigeeda ay bilaabaneyso Isniinta, ay dabooli doonto khasaaraha"
+    },
+    {
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-04T22:55:00+00:00",
+      "title_so": "Tokenization iyo stablecoins ayaa laga yaabaa in ay cimilada dimuqraadiyiintu xaaqaan maadaama sharciyada crypto ee ballaadhan ay la kulmaan hubaal la'aan"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T22:54:23+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-04T22:51:42+00:00",
+      "title_so": "Crypto's Washington waxay rajaynaysaa inay baaba'do, laakiin Grayscale iyo BlackRock waxay arkayaan koboc hor leh"
+    },
+    {
+      "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+      "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-04T22:46:03+00:00",
+      "title_so": "Waa maxay sababta fargeeto jilicsan ee Xiga ee Seeraar uu u dareemi karo sida Socodka Layliska"
+    },
+    {
+      "title": "BitMart founder says security team ‘severely understaffed’ after new hack",
+      "url": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T22:31:58+00:00",
+      "title_so": "Aasaasaha BitMart ayaa sheegay in kooxda amniga 'ay aad u liidato' ka dib markii la jabsaday cusub"
+    },
+    {
+      "title": "Crypto PACs eye 2028 ‘new map’ as Democrats take Congress",
+      "url": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-04T22:17:33+00:00",
+      "title_so": "Crypto PACs waxay isha ku haysaa 2028 'khariidad cusub' iyadoo Dimuqraadiyiintu ay qaataan Congresska"
+    },
+    {
+      "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+      "url": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-04T22:16:05+00:00",
+      "title_so": "ChatGPT waxay helaysaa GIF Sameeyaha oo ay ku shaqeyso OpenAI's Sawirada Aan La Shaacin 2.6 Model"
+    },
+    {
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-04T21:41:15+00:00",
+      "title_so": "Malaayiin Elon Musk ayaa ku guul darreystay in ay gaarsiiyaan guulihii Jamhuuriga xilli dhexe"
+    },
+    {
+      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
       "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-04T21:30:00+00:00",
-      "title_so": null
+      "title_so": "Sidee Aussie Bitcoiners uga fogaan kartaa 2027 naxdinta CGT ee socodka"
     },
     {
       "title": "Google Tells Schools They Can Reject AI—But They'll Lose Search, Too",
@@ -31,7 +111,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-04T21:16:03+00:00",
-      "title_so": null
+      "title_so": "Google wuxuu u sheegaa dugsiyada inay diidi karaan AI-laakin waxay lumin doonaan raadinta, sidoo kale"
     },
     {
       "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
@@ -39,15 +119,15 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-04T20:46:03+00:00",
-      "title_so": null
+      "title_so": "Coinbase ayaa sheegay in 99% macaamiisha Crypto ay ka baxsan yihiin oo ay ka baxsan yihiin gaadhista hackers"
     },
     {
-      "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
+      "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
       "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-04T20:29:12+00:00",
-      "title_so": null
+      "title_so": "Awoodda Crypto ee super PAC waxaa soo food saartay dib u dhac qaali ah iyadoo Dimuqraadiyiintu ay xaaqeen Congress-ka"
     },
     {
       "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
@@ -55,7 +135,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-04T19:57:18+00:00",
-      "title_so": null
+      "title_so": "Xakamaynta Baanka Maraykanku wuxuu soo saaraa qaab-dhismeedka AI ee ugu horreeya sida bangiyada la dagaallama wakiilada Rogue"
     },
     {
       "title": "Poundland owner in crunch talks as retailer's collapse looms",
@@ -63,7 +143,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-04T19:44:46+00:00",
-      "title_so": null
+      "title_so": "Mulkiilaha Poundland oo ku jira wadahadalo murugo leh iyadoo burburka tafaariiqda uu soo socdo"
     },
     {
       "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
@@ -71,7 +151,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-04T19:38:53+00:00",
-      "title_so": null
+      "title_so": "Kellogg's waxa uu qirtay snap, crackle iyo pop in ay ka aamusan tahay ka dib markii ay buuq ka dhalatay beddelka cuntada ee Rice Krispies"
     },
     {
       "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
@@ -79,7 +159,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-04T19:15:39+00:00",
-      "title_so": null
+      "title_so": "Calaamadaha ku xiran Trump waxay horseedaan khasaarooyin crypto ka dib markii Dimuqraadiyiinta ay xaaqeen xilliyada dhexe ee Mareykanka"
     },
     {
       "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
@@ -87,79 +167,70 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-04T18:47:56+00:00",
-      "title_so": null
+      "title_so": "Saamiyada Riot ayaa kor u kacaya $28B AI kiraynta iyada oo Hut 8 uu quusayo dakhligii seegay"
     },
     {
       "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
       "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T18:46:03+00:00",
-      "title_so": null
+      "published": "2026-11-04T18:46:03+00:00"
     },
     {
       "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
       "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T18:16:02+00:00",
-      "title_so": null
+      "published": "2026-11-04T18:16:02+00:00"
     },
     {
       "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
       "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-04T18:02:42+00:00",
-      "title_so": null
+      "published": "2026-11-04T18:02:42+00:00"
     },
     {
       "title": "What Is x402? How AI Agents Pay With Crypto",
       "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T17:59:09+00:00",
-      "title_so": null
+      "published": "2026-11-04T17:59:09+00:00"
     },
     {
       "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
       "url": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T17:06:03+00:00",
-      "title_so": null
+      "published": "2026-11-04T17:06:03+00:00"
     },
     {
       "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
       "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T16:49:31+00:00",
-      "title_so": null
+      "published": "2026-11-04T16:49:31+00:00"
     },
     {
       "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
       "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T16:29:36+00:00",
-      "title_so": null
+      "published": "2026-11-04T16:29:36+00:00"
     },
     {
       "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
       "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T16:11:29+00:00",
-      "title_so": null
+      "published": "2026-11-04T16:11:29+00:00"
     },
     {
       "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
       "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T16:08:14+00:00",
-      "title_so": null
+      "published": "2026-11-04T16:08:14+00:00"
     },
     {
       "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
@@ -195,14 +266,6 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-04T14:00:53+00:00"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T13:47:43+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
@@ -464,69 +527,6 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-04T00:04:35+00:00"
-    },
-    {
-      "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
-      "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-      "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-03T23:56:09+00:00"
-    },
-    {
-      "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
-      "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-03T23:48:32+00:00"
-    },
-    {
-      "title": "What voters said about their views on crypto",
-      "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-03T23:19:44+00:00"
-    },
-    {
-      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
-      "url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-03T23:00:07+00:00"
-    },
-    {
-      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
-      "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-03T22:46:02+00:00"
-    },
-    {
-      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
-      "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-03T22:14:44+00:00"
-    },
-    {
-      "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
-      "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-03T21:50:17+00:00"
-    },
-    {
-      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
-      "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-03T21:47:20+00:00"
     }
   ]
 }
