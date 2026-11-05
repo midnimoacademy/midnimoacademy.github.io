@@ -1,6 +1,142 @@
 {
-  "updated_at": "2026-11-05T16:21:26.530974+00:00",
+  "updated_at": "2026-11-05T19:15:52.419174+00:00",
   "items": [
+    {
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T19:02:19+00:00",
+      "title_so": "Binance, Deribit waxay burinaysaa furayaasha SignalPlus API ka dib markii ay kooxaha beenta ahi casuumaan weerarka"
+    },
+    {
+      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+      "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T18:59:45+00:00",
+      "title_so": "Waaxda Caddaaladda ee Mareykanka ayaa uruurisa xoog si ay uga gaashaanto khataraha AI ee ajnabiga ah"
+    },
+    {
+      "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T18:48:40+00:00",
+      "title_so": "Bitcoin, kaydka loo yaqaan 'crypto stocks' ayaa lagu qabtay hoos u dhaca ganacsiga AI, laakiin ganacsadaha Wintermute wuxuu arkay 'galaas badhkii oo buuxa'"
+    },
+    {
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T18:32:45+00:00",
+      "title_so": "Fed, OCC waxay hubisaa bangiyada Mareykanka ka dib jabsiga Binance iyadoo khubaradu ay calaamadeynayaan khatarta amniga"
+    },
+    {
+      "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
+      "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T18:25:31+00:00",
+      "title_so": "Bitcoin Maraykan ee uu Trump-Taageero waxay isu beddeshaa faa'iido iyadoo Seeraar Rise ay kor u qaadayso buugaagta"
+    },
+    {
+      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+      "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T18:09:38+00:00",
+      "title_so": "Maamulaha hantida ugu weyn Yurub Amundi ayaa calaamadeeyay sanduuqa tusaha sinnaanta ee Ethereum"
+    },
+    {
+      "title": "S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
+      "url": "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T18:05:21+00:00",
+      "title_so": "S&P 500 Burburinta, Wall Street Cabsida Wareegtada, Hal maalin uun ka dib markii uu Trump u Dabaal degay Heerarka Sare"
+    },
+    {
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-05T17:57:57+00:00",
+      "title_so": "Saamiyada Musk's SpaceX ayaa hoos u dhacaya marka saamiyada tignoolajiyada iyo AI ay hoos u dhacaan"
+    },
+    {
+      "title": "Paraguay president resigns after collapse of Ueno digital bank",
+      "url": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T17:40:25+00:00",
+      "title_so": "Madaxweynaha Paraguay ayaa is casilay kadib markii uu burburay bangiga dhijitaalka ah ee Ueno"
+    },
+    {
+      "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
+      "url": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T17:31:10+00:00",
+      "title_so": "Istuudiyaha Hollywood-ka ayaa si deggan uga mamnuucaya shaqaalaha sharadka Suuqyada Saadaasha: Warbixin"
+    },
+    {
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-05T17:09:55+00:00",
+      "title_so": "Heerarka dulsaarka ayaa kor u kacay ilaa 4% korodhkii ugu horreeyay muddo saddex sano ah"
+    },
+    {
+      "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
+      "url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T17:01:03+00:00",
+      "title_so": "Solana Shaybaadhka Leap wuxuu bilaabay App-ka moobilka ee lagu kala iibsanayo kaydka Tokenized iyo Crypto"
+    },
+    {
+      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+      "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T16:58:21+00:00",
+      "title_so": "Waa maxay TraderTraitor, kooxda jabsiga ee ka dambeysa $ 6.3 bilyan Binance heist"
+    },
+    {
+      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+      "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T16:49:08+00:00",
+      "title_so": "Standard Chartered iyo SBI dib u ceymiska crypto Soter sida maalgelinta ay gaarto $23.5 milyan"
+    },
+    {
+      "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T16:48:41+00:00",
+      "title_so": "Bitcoin ayaa burburtay 6% ilaa 7-toddobaad hoose iyadoo saamiyada Maraykanku ay tirtirayaan faa'iidooyinka doorashada"
+    },
+    {
+      "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
+      "url": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T16:37:20+00:00",
+      "title_so": "Dimuqraadiyiinta si ay u riixaan biilka qaabdhismeedka suuqa Crypto Broader ka dib markii ay xaaqeen Dhexdhexaadinta US: Warbixinta"
+    },
+    {
+      "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
+      "url": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-05T16:29:11+00:00",
+      "title_so": "Bitcoin waxay tirtirtaa isu soo baxa doorashada iyadoo AI Stocks Plunge, $ 428 milyan ee Crypto Longs la tirtiro"
+    },
     {
       "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
       "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
@@ -8,14 +144,6 @@
       "category": "Crypto",
       "published": "2026-11-05T16:13:32+00:00",
       "title_so": "Lacagta loo yaqaan 'Crypto for Advisors': Meesha maalgashadayaasha ay saamiga crypto qaabeeyaan inta ay le'eg tahay abaalmarinta ay hayaan"
-    },
-    {
-      "title": "Interest rates hiked to 4% in first increase in over three years",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-05T16:08:54+00:00",
-      "title_so": "Heerarka dulsaarka ayaa kor u kacay ilaa 4% korodhkii ugu horreeyay muddo saddex sano ah"
     },
     {
       "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
@@ -410,14 +538,6 @@
       "title_so": "Tokenization iyo stablecoins ayaa laga yaabaa in ay cimilada dimuqraadiyiintu xaaqaan maadaama sharciyada crypto ee ballaadhan ay la kulmaan hubaal la'aan"
     },
     {
-      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
-      "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T22:51:42+00:00",
-      "title_so": "Crypto's Washington waxay rajaynaysaa inay baaba'do, laakiin Grayscale iyo BlackRock waxay arkayaan koboc hor leh"
-    },
-    {
       "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
       "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
       "source": "Decrypt",
@@ -440,126 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-04T22:17:33+00:00",
       "title_so": "Crypto PACs waxay isha ku haysaa 2028 'khariidad cusub' iyadoo Dimuqraadiyiintu ay qaataan Congresska"
-    },
-    {
-      "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
-      "url": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T22:16:05+00:00",
-      "title_so": "ChatGPT waxay helaysaa GIF Sameeyaha oo ay ku shaqeyso OpenAI's Sawirada Aan La Shaacin 2.6 Model"
-    },
-    {
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-04T21:41:15+00:00",
-      "title_so": "Malaayiin Elon Musk ayaa ku guul darreystay in ay gaarsiiyaan guulihii Jamhuuriga xilli dhexe"
-    },
-    {
-      "title": "How Aussie Bitcoiners can avoid 2027’s shock CGT hike",
-      "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T21:30:00+00:00",
-      "title_so": "Sidee Aussie Bitcoiners uga fogaan kartaa 2027 naxdinta CGT ee socodka"
-    },
-    {
-      "title": "Google Tells Schools They Can Reject AI—But They'll Lose Search, Too",
-      "url": "https://decrypt.co/382572/google-schools-reject-ai-but-lose-search",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T21:16:03+00:00",
-      "title_so": "Google wuxuu u sheegaa dugsiyada inay diidi karaan AI-laakin waxay lumin doonaan raadinta, sidoo kale"
-    },
-    {
-      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
-      "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T20:46:03+00:00",
-      "title_so": "Coinbase ayaa sheegay in 99% macaamiisha Crypto ay ka baxsan yihiin oo ay ka baxsan yihiin gaadhista hackers"
-    },
-    {
-      "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-04T20:29:12+00:00",
-      "title_so": "Awoodda Crypto ee super PAC waxaa soo food saartay dib u dhac qaali ah iyadoo Dimuqraadiyiintu ay xaaqeen Congress-ka"
-    },
-    {
-      "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
-      "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T19:57:18+00:00",
-      "title_so": "Xakamaynta Baanka Maraykanku wuxuu soo saaraa qaab-dhismeedka AI ee ugu horreeya sida bangiyada la dagaallama wakiilada Rogue"
-    },
-    {
-      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-04T19:38:53+00:00",
-      "title_so": "Kellogg's waxa uu qirtay snap, crackle iyo pop in ay ka aamusan tahay ka dib markii ay buuq ka dhalatay beddelka cuntada ee Rice Krispies"
-    },
-    {
-      "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
-      "url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T19:15:39+00:00",
-      "title_so": "Calaamadaha ku xiran Trump waxay horseedaan khasaarooyin crypto ka dib markii Dimuqraadiyiinta ay xaaqeen xilliyada dhexe ee Mareykanka"
-    },
-    {
-      "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
-      "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T18:47:56+00:00",
-      "title_so": "Saamiyada Riot ayaa kor u kacaya $28B AI kiraynta iyada oo Hut 8 uu quusayo dakhligii seegay"
-    },
-    {
-      "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
-      "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T18:46:03+00:00",
-      "title_so": "Cod-bixiyayaasha Maraykanku waxay dib u celiyaan xannibaadaha Xarunta xogta AI ee ugu yaraan 29 bulsho"
-    },
-    {
-      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
-      "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T18:16:02+00:00",
-      "title_so": "Canton Coin waxay helaysaa SEC nod iyadoo Wall Street Tokenization ay kor u kacday"
-    },
-    {
-      "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
-      "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-04T18:02:42+00:00",
-      "title_so": "Circle's ARC token waxay kor u qaadaysaa dakhliga maadaama waxsoosaarka hoose uu miisaankiisu yahay dakhliga USDC"
-    },
-    {
-      "title": "What Is x402? How AI Agents Pay With Crypto",
-      "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T17:59:09+00:00",
-      "title_so": "Waa maxay x402? Sida Wakiilada AI ay ugu bixiyaan Crypto"
-    },
-    {
-      "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
-      "url": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-04T17:06:03+00:00",
-      "title_so": "Tiknoolajiyada, Kaydka AI ayaa Kala Qaybsan Ka Dib Markii Dimuqraadiyadda la xaaqay: Microsoft Jumps, Tesla iyo Nvidia Tank"
     }
   ]
 }
