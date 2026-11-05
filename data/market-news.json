@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-05T01:28:43.104982+00:00",
+  "updated_at": "2026-11-05T04:13:58.082626+00:00",
   "items": [
     {
-      "title": "Australia's oldest department store David Jones collapses after 188 years",
+      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+      "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-05T04:11:33+00:00",
+      "title_so": "Warbaahinta Trump waxay u rartay $342 milyan oo bitcoin ah Crypto.com, xogta blockchain waxay muujineysaa"
+    },
+    {
+      "title": "India warns AI-powered hackers targeting crypto exchanges at ‘machine speed’",
+      "url": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-05T01:51:21+00:00",
+      "title_so": "Hindiya waxay uga digtay tuugada AI ku shaqeeya inay beegsadaan isweydaarsiga crypto 'xawaaraha mashiinka'"
+    },
+    {
+      "title": "Australia's oldest department store David Jones folds after 188 years",
       "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-05T00:59:22+00:00",
-      "title_so": "Dukaanka ugu da'da weyn Australia David Jones ayaa dumay ka dib 188 sano"
+      "title_so": "Dukaanka ugu da'da weyn Australia David Jones ayaa laablaabmay ka dib 188 sano"
     },
     {
       "title": "Interest rates expected to rise for first time in over three years",
@@ -174,105 +190,120 @@
       "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T18:46:03+00:00"
+      "published": "2026-11-04T18:46:03+00:00",
+      "title_so": "Cod-bixiyayaasha Maraykanku waxay dib u celiyaan xannibaadaha Xarunta xogta AI ee ugu yaraan 29 bulsho"
     },
     {
       "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
       "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T18:16:02+00:00"
+      "published": "2026-11-04T18:16:02+00:00",
+      "title_so": "Canton Coin waxay helaysaa SEC nod iyadoo Wall Street Tokenization ay kor u kacday"
     },
     {
       "title": "Circle’s ARC token sale lifts earnings as lower yields weigh on USDC income",
       "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-04T18:02:42+00:00"
+      "published": "2026-11-04T18:02:42+00:00",
+      "title_so": "Circle's ARC token waxay kor u qaadaysaa dakhliga maadaama waxsoosaarka hoose uu miisaankiisu yahay dakhliga USDC"
     },
     {
       "title": "What Is x402? How AI Agents Pay With Crypto",
       "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T17:59:09+00:00"
+      "published": "2026-11-04T17:59:09+00:00",
+      "title_so": "Waa maxay x402? Sida Wakiilada AI ay ugu bixiyaan Crypto"
     },
     {
       "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
       "url": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T17:06:03+00:00"
+      "published": "2026-11-04T17:06:03+00:00",
+      "title_so": "Tiknoolajiyada, Kaydka AI ayaa Kala Qaybsan Ka Dib Markii Dimuqraadiyadda la xaaqay: Microsoft Jumps, Tesla iyo Nvidia Tank"
     },
     {
       "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
       "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T16:49:31+00:00"
+      "published": "2026-11-04T16:49:31+00:00",
+      "title_so": "Bitcoin ayaa dib u soo ceshatay ka dib markii Dimuqraadiyeynta Dhexdhexaadka ah la xaaqayo, laakiin Crypto ayaa wajaheysa dagaal adag Washington"
     },
     {
       "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
       "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T16:29:36+00:00"
+      "published": "2026-11-04T16:29:36+00:00",
+      "title_so": "Tuubooyinka Wall Street waxay ku socdaan Onchain sida Morgan Stanley Tokenizes Securities"
     },
     {
       "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
       "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T16:11:29+00:00"
+      "published": "2026-11-04T16:11:29+00:00",
+      "title_so": "Xaaqidda Dimuqraadiga Mareykanka waxay noqon kartaa ciddiyihii ugu dambeeyay ee 'Sharciga Cad ee naxashka'"
     },
     {
       "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
       "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T16:08:14+00:00"
+      "published": "2026-11-04T16:08:14+00:00",
+      "title_so": "Wall Street waxay dib uga fakaraysaa kororka xarunta xogta AI iyadoo doorashada Texas ay kor u qaadayso khataro cusub"
     },
     {
       "title": "Crédit Mutuel Arkéa Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
       "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-04T15:30:31+00:00"
+      "published": "2026-11-04T15:30:31+00:00",
+      "title_so": "Crédit Mutuel Arkéa wuxuu xaqiijiyay weerarka internetka ka dib markii ZachXBT ay ku xirtay xatooyada Crypto $ 133m"
     },
     {
       "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
       "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-04T15:29:23+00:00"
+      "published": "2026-11-04T15:29:23+00:00",
+      "title_so": "Bitcoin ayaa garaacday $80.5k iyadoo saamiyada Mareykanka ay isu soo bax ku sameynayaan natiijooyinka doorashada xilliga dhexe"
     },
     {
       "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
       "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T15:27:20+00:00"
+      "published": "2026-11-04T15:27:20+00:00",
+      "title_so": "Crypto Long & Short: ICE waxay sharad ku leedahay rabitaanka cuntada tafaariiqda ee natiijooyinka degdega ah"
     },
     {
       "title": "The election changes Washington. The work on crypto continues",
       "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T14:25:12+00:00"
+      "published": "2026-11-04T14:25:12+00:00",
+      "title_so": "Doorashada ayaa isbedeleysa Washington. Shaqada crypto ayaa sii socota"
     },
     {
       "title": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
       "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T14:00:53+00:00"
+      "published": "2026-11-04T14:00:53+00:00",
+      "title_so": "Cusboonaysiinta tooska ah: Bitcoin ayaa kor u kacday $80,000 iyada oo saamiyadu heleen ka dib Wave Blue"
     },
     {
       "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
       "url": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-04T13:44:52+00:00"
+      "published": "2026-11-04T13:44:52+00:00",
+      "title_so": "Faransiiska ayaa taageeray ka warbixinta is-xakamaynta crypto qiimihiisu yahay 100k yuuro ama ka badan"
     },
     {
       "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
@@ -319,7 +350,8 @@
       "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T12:33:54+00:00"
+      "published": "2026-11-04T12:33:54+00:00",
+      "title_so": "Goobo ayaa garaacday rajada laga filayo dakhliga xooggan, laakiin waxay dhimaysaa 5% xooggeeda shaqadeeda"
     },
     {
       "title": "Here's how analysts are reacting to the new blue Congress",
@@ -414,7 +446,8 @@
       "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-04T09:22:58+00:00"
+      "published": "2026-11-04T09:22:58+00:00",
+      "title_so": "Morgan Stanley ayaa sheegay in ay ka mid tahay bangiyada ugu horeeya ee calaamadeeya hantida dhabta ah ee aduunka"
     },
     {
       "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
@@ -513,20 +546,6 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-04T00:45:16+00:00"
-    },
-    {
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
-      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-04T00:09:35+00:00"
-    },
-    {
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-04T00:04:35+00:00"
     }
   ]
 }
