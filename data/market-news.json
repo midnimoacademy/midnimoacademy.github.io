@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-11-06T04:13:04.069343+00:00",
+  "updated_at": "2026-11-06T07:36:02.527255+00:00",
   "items": [
     {
       "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
       "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-06T02:57:24+00:00",
+      "published": "2026-11-06T07:27:26+00:00",
       "title_so": "Kaydka teknoolojiyadda caalamiga ah ayaa hoos u dhacaya iyadoo xilli-dhexe ee Mareykanka ay ku darayaan cabsida hoos u dhaca AI"
+    },
+    {
+      "title": "Chainalysis says breach exposed password hashes and live tokens",
+      "url": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-06T06:54:34+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-06T06:04:41+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
+      "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-06T05:14:48+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+      "url": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-06T05:07:00+00:00",
+      "title_so": null
     },
     {
       "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
@@ -56,14 +88,6 @@
       "category": "Crypto",
       "published": "2026-11-05T23:06:02+00:00",
       "title_so": "Claude Wuxuu Helay Maaliyad Shaqsiyeed - Anthony Pompliano Wuxuu Ku Eedeeyay Anthropic inuu Koobiyay Bilowgiisii"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-05T23:03:41+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
@@ -536,30 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-05T08:26:26+00:00",
       "title_so": "OpenAI waxay leedahay AI waxay u jabin kartaa Linux cabir ahaan. Waa kan waxa ay ka dhigan tahay crypto"
-    },
-    {
-      "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
-      "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-05T08:22:30+00:00",
-      "title_so": "Bitcoin, Ether ETFs waxay sawiraan $128M sida dib u soo celinta crypto ka dib xilliga dhexe"
-    },
-    {
-      "title": "Crédit Mutuel Arkéa resumes operations after attack, assesses losses",
-      "url": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-05T07:23:06+00:00",
-      "title_so": "Crédit Mutuel Arkéa waxa uu dib u bilaabay shaqadiisa weerarka kadib, waxa uu qiimeeyaa khasaaraha"
-    },
-    {
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-05T06:58:03+00:00",
-      "title_so": "Mulkiilaha Poundland oo ku jira wadahadalo murugo leh iyadoo burburka tafaariiqda uu soo socdo"
     }
   ]
 }
