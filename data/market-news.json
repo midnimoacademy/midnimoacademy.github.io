@@ -1,21 +1,109 @@
 {
-  "updated_at": "2026-11-06T13:27:08.603947+00:00",
+  "updated_at": "2026-11-06T16:04:56.110533+00:00",
   "items": [
     {
-      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "title": "Could the US midterms put a pin in the AI bubble?",
+      "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-06T13:25:50+00:00",
-      "title_so": null
+      "published": "2026-11-06T15:39:30+00:00",
+      "title_so": "Midterms-ka Mareykanka ma gelin karaa pin xumbada AI?"
+    },
+    {
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-06T15:26:38+00:00",
+      "title_so": "Warshadaha crypto waxay heleen habab cusub oo ay ku koraan. Inaad lacag ka samaystaan ​​waa sheeko kale"
     },
     {
       "title": "PM tells firms to publish salaries in job adverts ahead of new law",
       "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-06T13:19:07+00:00",
-      "title_so": null
+      "published": "2026-11-06T15:25:43+00:00",
+      "title_so": "PM wuxuu u sheegayaa shirkadaha inay soo daabacaan mushaaraadka xayaysiisyada shaqada ka hor sharciga cusub"
+    },
+    {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-06T15:04:46+00:00",
+      "title_so": "Kaydka AI ayaa kor u kaca ka dib markii trillions laga tirtiray qiyamka suuqa"
+    },
+    {
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-06T14:33:49+00:00",
+      "title_so": "Tayland waxay u dhaqaaqday inay xannibto Bitget maadaama iibsiga maxalliga ah ee sarrifka crypto uu wajahayo hubaal la'aan"
+    },
+    {
+      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+      "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-06T14:30:00+00:00",
+      "title_so": "Maxay Dimuqraadiyiinta 'Xaqidda xilliga dhexe ee Mareykanka uga dhigan tahay Sharciga CAD"
+    },
+    {
+      "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+      "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-06T14:04:18+00:00",
+      "title_so": "$3.1B ee lagu xaday Binance Crypto wali waa la dhaqay: Elliptic"
+    },
+    {
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-06T13:57:14+00:00",
+      "title_so": "Nigeria waxay dejisay xeerar cusub oo shatiga crypto, waxayna mamnuucday algorithmic stablecoins"
+    },
+    {
+      "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+      "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-06T13:53:04+00:00",
+      "title_so": "Tesla si uu hoos ugu dhigo wax soo saarka Cybertruck sida Elon Musk Pivots ee Robotaxis iyo AI"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-06T13:33:00+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+      "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-06T13:31:54+00:00",
+      "title_so": "Maraykanku wuxuu ku daray 165,000 shaqo bishii Oktoobar, taasoo ka soo baxday qiyaas 65,000 ah"
+    },
+    {
+      "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+      "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-06T13:29:20+00:00",
+      "title_so": "Daqiiqada Subaxda: Bitcoin waxay tirtirtaa isu soo baxa doorashada sida Crater Stocks AI"
+    },
+    {
+      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+      "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-06T13:23:08+00:00",
+      "title_so": "Ethereum devs kuma fargeeto Glamsterdam Hoodi ilaa khataraha qandaraasyada caqliga leh la xalliyo"
     },
     {
       "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
@@ -23,7 +111,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-06T12:30:00+00:00",
-      "title_so": null
+      "title_so": "In ka badan $1 bilyan oo khamaar ganacsi ah ayaa la baabi'iyay halka qulqulka ETF uu soo jeedinayo wax caawinaad ah suuqa booska"
     },
     {
       "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
@@ -31,15 +119,15 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-06T12:15:28+00:00",
-      "title_so": null
+      "title_so": "Dhacdada Solana ee Shanghai ayaa la hakiyay dallacaad aan la ogolayn: Warbixin"
     },
     {
-      "title": "Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data",
+      "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
       "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-06T11:58:40+00:00",
-      "title_so": null
+      "title_so": "Cusboonaysiinta tooska ah: Bitcoin waxay ku haysaa kala duwanaansho cidhiidhi ah, kaydka ayaa soo booda ka dib warbixinta shaqooyinka Oktoobar ee xooggan"
     },
     {
       "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
@@ -47,7 +135,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-06T11:49:35+00:00",
-      "title_so": null
+      "title_so": "Bitcoin ayaa sii socota ka dib iibinta AI ay hogaamineyso iyadoo indhuhu u jeestaan ​​tirooyinka shaqooyinka ugu dambeeyay ee Mareykanka"
     },
     {
       "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
@@ -55,7 +143,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-06T11:26:30+00:00",
-      "title_so": null
+      "title_so": "Hackers-ka Binance waxay heleen 8 toddobaad kahor ka faa'iidaysiga $6.3B, qiyaasaha Isbahaysiga Amniga"
     },
     {
       "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
@@ -63,7 +151,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-06T11:16:53+00:00",
-      "title_so": null
+      "title_so": "Bitcoin waxa ay haysataa $75K iyada oo sharciga AI uu ka baqayo in KOSPI la joojiyo ka dib 8% shil"
     },
     {
       "title": "Greece approves 10% tax on crypto gains starting in 2027",
@@ -71,7 +159,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-06T11:05:36+00:00",
-      "title_so": null
+      "title_so": "Giriiga ayaa oggolaaday 10% canshuurta faa'iidooyinka crypto laga bilaabo 2027"
     },
     {
       "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
@@ -79,87 +167,77 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-06T10:57:06+00:00",
-      "title_so": null
+      "title_so": "Wakiilkii hore ee FBI-da ayaa qirtay dambiga ah inuu xaday $2.5m ee Crypto 35 baaritaan"
     },
     {
       "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
       "url": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T10:47:33+00:00",
-      "title_so": null
+      "published": "2026-11-06T10:47:33+00:00"
     },
     {
       "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
       "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T10:40:57+00:00",
-      "title_so": null
+      "published": "2026-11-06T10:40:57+00:00"
     },
     {
       "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
       "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-06T10:13:27+00:00",
-      "title_so": null
+      "published": "2026-11-06T10:13:27+00:00"
     },
     {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-06T09:57:04+00:00",
-      "title_so": null
+      "published": "2026-11-06T09:57:04+00:00"
     },
     {
       "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
       "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-06T09:53:27+00:00",
-      "title_so": null
+      "published": "2026-11-06T09:53:27+00:00"
     },
     {
       "title": "How does it affect me if share prices fall?",
       "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-06T09:21:50+00:00",
-      "title_so": null
+      "published": "2026-11-06T09:21:50+00:00"
     },
     {
       "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
       "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T09:00:36+00:00",
-      "title_so": null
+      "published": "2026-11-06T09:00:36+00:00"
     },
     {
       "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
       "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-06T08:47:42+00:00",
-      "title_so": null
+      "published": "2026-11-06T08:47:42+00:00"
     },
     {
       "title": "Hyperliquid Strategies seeks futures registration for perps",
       "url": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T08:42:54+00:00",
-      "title_so": null
+      "published": "2026-11-06T08:42:54+00:00"
     },
     {
       "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
       "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T08:19:18+00:00",
-      "title_so": null
+      "published": "2026-11-06T08:19:18+00:00"
     },
     {
       "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
@@ -174,14 +252,6 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-06T06:54:34+00:00"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-06T06:04:41+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
@@ -475,86 +545,6 @@
       "category": "Crypto",
       "published": "2026-11-05T14:00:00+00:00",
       "title_so": "Payward waalidka Kraken iyo macaamiisheeda waxay iibsadaan calaamadaha AAVE ee riixitaanka maalgashiga DeFi"
-    },
-    {
-      "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
-      "url": "https://decrypt.co/382606/sam-altman-says-its-fucking-annoying-his-ram-comments-were-taken-out-of-context",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-05T13:37:25+00:00",
-      "title_so": "Sam Altman wuxuu yidhi waa 'wax laga xumaado' faallooyinkiisa RAM ayaa laga saaray macnaha guud."
-    },
-    {
-      "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
-      "url": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-05T13:34:57+00:00",
-      "title_so": "Blockchain waa 'xalka saxda ah' ee kalsoonida wakiilka AI, ayuu yiri madaxa VeChain"
-    },
-    {
-      "title": "Can decentralized phone networks power the AI revolution?",
-      "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-05T13:30:00+00:00",
-      "title_so": "Shabakadaha telefoonada ee la baahsanaa ma awood u yeelan karaan kacaanka AI?"
-    },
-    {
-      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-      "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-05T13:29:40+00:00",
-      "title_so": "Google ayaa laga yaabaa inay saami ku yeelato mashruuca macdanta ee TeraWulf ee $ 19 ee AI haddii Anthropic"
-    },
-    {
-      "title": "Faisal Islam: How high will interest rates go?",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-05T13:17:10+00:00",
-      "title_so": "Feysal Islaam: Intee in le'eg ayuu dulsaarku gaari doonaa?"
-    },
-    {
-      "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
-      "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-05T13:14:05+00:00",
-      "title_so": "Daqiiqada Subaxda: Dimuqraadiyiinta Sweep Pumps Crypto sida Sharciga caddayntu dib u soo noqonayo"
-    },
-    {
-      "title": "Three ways the interest rate rise could affect you",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-05T13:08:30+00:00",
-      "title_so": "Saddex dariiqo ayuu kor u kaca dulsaarka kugu saameyn karaa"
-    },
-    {
-      "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
-      "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-05T13:01:02+00:00",
-      "title_so": "Stablecoins Go Mainstream sida Samsung Wallet ugu darto USDC on Solana"
-    },
-    {
-      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
-      "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-05T12:55:03+00:00",
-      "title_so": "Binance waxay jaraysaa gelitaanka SignalPlus ka dib digniinta amniga, waxay ku boorinaysaa isticmaalayaasha inay hubiyaan xisaabaadka"
-    },
-    {
-      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-      "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-05T12:50:57+00:00",
-      "title_so": "Bangiga dhexe ee Ukraine wuxuu ka soo horjeedaa biilka crypto, isagoo tixraacaya welwelka madaxbannaanida lacagta"
     }
   ]
 }
