@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-06T21:56:55.118380+00:00",
+  "updated_at": "2026-11-07T01:22:29.438346+00:00",
   "items": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-06T22:00:15+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
     {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
@@ -174,7 +182,8 @@
       "url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-06T16:28:58+00:00"
+      "published": "2026-11-06T16:28:58+00:00",
+      "title_so": null
     },
     {
       "title": "The crypto industry has found new ways to grow. Making money from them is another story",
@@ -233,14 +242,6 @@
       "title_so": "Tesla si uu hoos ugu dhigo wax soo saarka Cybertruck sida Elon Musk Pivots ee Robotaxis iyo AI"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-06T13:33:00+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
       "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
       "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
       "source": "CoinDesk",
@@ -285,7 +286,8 @@
       "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-06T11:58:40+00:00"
+      "published": "2026-11-06T11:58:40+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
@@ -300,7 +302,8 @@
       "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T11:26:30+00:00"
+      "published": "2026-11-06T11:26:30+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
@@ -331,91 +334,104 @@
       "url": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T10:47:33+00:00"
+      "published": "2026-11-06T10:47:33+00:00",
+      "title_so": null
     },
     {
       "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
       "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T10:40:57+00:00"
+      "published": "2026-11-06T10:40:57+00:00",
+      "title_so": null
     },
     {
       "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
       "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-06T10:13:27+00:00"
+      "published": "2026-11-06T10:13:27+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
       "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-06T09:53:27+00:00"
+      "published": "2026-11-06T09:53:27+00:00",
+      "title_so": null
     },
     {
       "title": "How does it affect me if share prices fall?",
       "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-06T09:21:50+00:00"
+      "published": "2026-11-06T09:21:50+00:00",
+      "title_so": null
     },
     {
       "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
       "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T09:00:36+00:00"
+      "published": "2026-11-06T09:00:36+00:00",
+      "title_so": null
     },
     {
       "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
       "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-06T08:47:42+00:00"
+      "published": "2026-11-06T08:47:42+00:00",
+      "title_so": null
     },
     {
       "title": "Hyperliquid Strategies seeks futures registration for perps",
       "url": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T08:42:54+00:00"
+      "published": "2026-11-06T08:42:54+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
       "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T08:19:18+00:00"
+      "published": "2026-11-06T08:19:18+00:00",
+      "title_so": null
     },
     {
       "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
       "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-06T08:04:52+00:00"
+      "published": "2026-11-06T08:04:52+00:00",
+      "title_so": null
     },
     {
       "title": "Chainalysis says breach exposed password hashes and live tokens",
       "url": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T06:54:34+00:00"
+      "published": "2026-11-06T06:54:34+00:00",
+      "title_so": null
     },
     {
       "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
       "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-06T05:14:48+00:00"
+      "published": "2026-11-06T05:14:48+00:00",
+      "title_so": null
     },
     {
       "title": "Crypto exchanges tout cold storage ratios after Binance attack",
       "url": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-06T05:07:00+00:00"
+      "published": "2026-11-06T05:07:00+00:00",
+      "title_so": null
     },
     {
       "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
@@ -430,7 +446,8 @@
       "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-06T01:30:00+00:00"
+      "published": "2026-11-06T01:30:00+00:00",
+      "title_so": null
     },
     {
       "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
