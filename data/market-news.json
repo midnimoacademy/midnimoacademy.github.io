@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-07T15:53:51.000633+00:00",
+  "updated_at": "2026-11-07T19:04:07.879177+00:00",
   "items": [
+    {
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-07T17:36:46+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-07T17:01:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-07T16:51:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+      "url": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-07T16:01:02+00:00",
+      "title_so": null
+    },
     {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -528,38 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-05T20:46:02+00:00",
       "title_so": "DOJ Waxay abuurtaa 'Super Intelligence' Task Force si ay uga ilaaliso xadgudubka AI"
-    },
-    {
-      "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
-      "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-05T20:16:03+00:00",
-      "title_so": "Mercado Bitcoin waxay sheegtay in jabsigeeda ay ku jirtay, laakiin xogta Blockchain waxay sheegaysaa sheeko ka duwan"
-    },
-    {
-      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
-      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-05T19:46:03+00:00",
-      "title_so": "Kordhinta Zcash waxay ku xidhi kartaa $ 16 milyan ee Crypto weligeed"
-    },
-    {
-      "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-      "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-05T19:16:03+00:00",
-      "title_so": "OpenAI Waxaa La Helay 948 Cilladaha Amniga Linux — Oo La Ogaaday Sida Looga Faa'iidaysto"
-    },
-    {
-      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
-      "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-05T18:59:45+00:00",
-      "title_so": "Waaxda Caddaaladda ee Mareykanka ayaa uruurisa xoog si ay uga gaashaanto khataraha AI ee ajnabiga ah"
     }
   ]
 }
