@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-07T19:04:07.879177+00:00",
+  "updated_at": "2026-11-07T21:52:38.575658+00:00",
   "items": [
+    {
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-07T19:13:16+00:00",
+      "title_so": "Isticmaalayaasha Binance ee qaar ka mid ah wadamada Yurub ayaa loo sheegay inay jiidaan crypto ka hor inta aan la bilaabin khidmadaha, iyada oo xisaabaadka la xirayo dhamaadka sanadka"
+    },
     {
       "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
       "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-07T17:36:46+00:00",
-      "title_so": null
+      "title_so": "Khasnadda Mareykanka ayaa u dhaqaaqday si ay u jarto isweydaarsiga crypto MEXC in ka badan $16 bilyan oo lagu eedeeyay qulqulka sharci darrada ah"
     },
     {
       "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
@@ -15,7 +23,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-07T17:01:03+00:00",
-      "title_so": null
+      "title_so": "Apple waxay dhamaystiraysaa Dejinta: Todoba saamile oo cajiib ah ayaa ka baxa goobta OKX-ICE"
     },
     {
       "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
@@ -23,7 +31,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-07T16:51:00+00:00",
-      "title_so": null
+      "title_so": "Jebinta Gnosis Pay waxay daaha ka qaadaysaa lambarrada kaadhka, ciwaannada guriga iyo boorsooyinka crypto ee ku xidhan"
     },
     {
       "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
@@ -31,7 +39,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-07T16:01:02+00:00",
-      "title_so": null
+      "title_so": "Kaydka AI Chip ayaa soo booda ka dib marinka caalamiga ah -laakin xumbo ma bilaabayaa inay dilaacdo?"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -47,7 +55,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-07T14:16:00+00:00",
-      "title_so": null
+      "title_so": "Wakiilkii hore ee sirdoonka FBI-da ayaa xaday ku dhawaad ​​$2.5M oo crypto ah"
     },
     {
       "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
@@ -55,7 +63,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-07T14:01:02+00:00",
-      "title_so": null
+      "title_so": "Sony Axing Game Discs-yada waxay ku yeelan doonaan saameeyn aad u weyn ciyaartoyda dakhligoodu hooseeyo, khubarada ayaa leh"
     },
     {
       "title": "Bitcoin holders have received eCash — What can you do with it?",
@@ -63,7 +71,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-07T13:30:00+00:00",
-      "title_so": null
+      "title_so": "Dadka haysta Bitcoin waxay heleen eCash - maxaad ku samayn kartaa?"
     },
     {
       "title": "US sanctions Canadian money-exchange firms over Iran ties",
@@ -552,14 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-05T21:36:03+00:00",
       "title_so": "OpenAI Waxay Balanqaadaysaa inay Cagta Saari Doonto Biilka Awooda AI Kadib Kacdoonka Codbixiyayaasha. Yaa Dhaqan galinaya?"
-    },
-    {
-      "title": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
-      "url": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-05T20:46:02+00:00",
-      "title_so": "DOJ Waxay abuurtaa 'Super Intelligence' Task Force si ay uga ilaaliso xadgudubka AI"
     }
   ]
 }
