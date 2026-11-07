@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-07T13:13:39.225210+00:00",
+  "updated_at": "2026-11-07T15:53:51.000633+00:00",
   "items": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-07T14:22:00+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-07T14:16:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+      "url": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-07T14:01:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-07T13:30:00+00:00",
+      "title_so": null
+    },
     {
       "title": "US sanctions Canadian money-exchange firms over Iran ties",
       "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -24,14 +56,6 @@
       "category": "Crypto",
       "published": "2026-11-07T07:45:24+00:00",
       "title_so": "Nvidia waxaa laga yaabaa inay wajahdo cadaawad kale ka dib doorashada Washington: Warbixin"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-06T22:00:15+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
@@ -434,28 +458,12 @@
       "title_so": "Maaliyadeed Xorriyadda Adduunka ee uu Trump taageero ayaa qorshaynaya dib-u-soo-celinta dib-u-soo-celinta 66% sanad-ilaa-taariikheedka"
     },
     {
-      "title": "Chainalysis says breach exposed password hashes and live tokens",
-      "url": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-06T06:54:34+00:00",
-      "title_so": "Chainalysis wuxuu leeyahay jebinta furaha sirta ah ee hashes iyo calaamado nool"
-    },
-    {
       "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
       "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-06T05:14:48+00:00",
       "title_so": "Zcash's NU7 cusboonaysiinta ayaa si toos ah u socota, iyada oo dedejinaysa lacag bixinta gaarka ah"
-    },
-    {
-      "title": "Crypto exchanges tout cold storage ratios after Binance attack",
-      "url": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-06T05:07:00+00:00",
-      "title_so": "Crypto waxay beddeshaa saamiga kaydinta qabow ka dib weerarka Binance"
     },
     {
       "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
@@ -552,14 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-05T18:59:45+00:00",
       "title_so": "Waaxda Caddaaladda ee Mareykanka ayaa uruurisa xoog si ay uga gaashaanto khataraha AI ee ajnabiga ah"
-    },
-    {
-      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-05T18:48:40+00:00",
-      "title_so": "Bitcoin ayaa hoos ugu dhacday $76,000 iyadoo burburka ganacsiga AI uu hoos u dhigayo saamiyada"
     }
   ]
 }
