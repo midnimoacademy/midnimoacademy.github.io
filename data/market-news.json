@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T19:03:28.802824+00:00",
+  "updated_at": "2026-11-08T21:52:53.279712+00:00",
   "items": [
+    {
+      "title": "What the election results mean for crypto: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-08T19:30:00+00:00",
+      "title_so": "Maxay natiijada doorashada uga dhigan tahay crypto: State of Crypto"
+    },
+    {
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-08T19:16:42+00:00",
+      "title_so": "Kobaca Stablecoin ayaa istaagay. Kor u kaca lacag bixinta ma dhicin"
+    },
     {
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
       "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
@@ -544,22 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-06T05:14:48+00:00",
       "title_so": "Zcash's NU7 cusboonaysiinta ayaa si toos ah u socota, iyada oo dedejinaysa lacag bixinta gaarka ah"
-    },
-    {
-      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-      "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-06T02:24:23+00:00",
-      "title_so": "Shirkadda Khasnadaha Hyperliquid oo raadinaysa hab-maamulka Maraykanka sidii madal mustaqbalka gudaha ah"
-    },
-    {
-      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-06T01:30:00+00:00",
-      "title_so": "Horumarinta Bitcoin waxay soo jeedinaysaa 'miinada' si ay uga dhigaan tuugada quantum lumin BTC iyaga u gaar ah"
     }
   ]
 }
