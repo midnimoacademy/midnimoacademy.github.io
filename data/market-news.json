@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-08T13:13:10.978574+00:00",
+  "updated_at": "2026-11-08T15:53:28.803344+00:00",
   "items": [
+    {
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-08T15:37:25+00:00",
+      "title_so": "Dawladdu waxay si dhab ah u eegaysaa ka mamnuucida 16 ka yar ee Vinted iyo eBay"
+    },
+    {
+      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+      "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-08T14:01:03+00:00",
+      "title_so": "Fikirka Soo-saare Seeraar wuxuu ka dhigi doonaa Weerarada Quantum sharad lumis ah"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-08T13:33:00+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
     {
       "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
       "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -16,14 +40,6 @@
       "category": "Crypto",
       "published": "2026-11-08T12:55:59+00:00",
       "title_so": "Guryahan Finland waxay helayaan kulayl bilaash ah macdanta bitcoin (ilaa inta BTC ay ka sarreyso $70,000)"
-    },
-    {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-08T11:25:32+00:00",
-      "title_so": "Dawladdu waxay si dhab ah u eegaysaa ka mamnuucida 16 ka yar ee Vinted iyo eBay"
     },
     {
       "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
@@ -42,12 +58,12 @@
       "title_so": "Madaxa maaliyadda ee Binance Kaiser Ng inuu ka tago shirkadda, warbixin ayaa tiri"
     },
     {
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
       "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-07T23:02:35+00:00",
-      "title_so": "Labubu hype wuxuu u muuqday mid aan la joojin karin, hadda mania bahalkii qalafsanaa ayaa dhimanaya"
+      "title_so": "Wuxuu ku qaatay $50,000 Labubus laakiin hadda waali wuu dhimanayaa"
     },
     {
       "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
@@ -88,14 +104,6 @@
       "category": "Crypto",
       "published": "2026-11-07T16:01:02+00:00",
       "title_so": "Kaydka AI Chip ayaa soo booda ka dib marinka caalamiga ah -laakin xumbo ma bilaabayaa inay dilaacdo?"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-07T14:22:00+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
@@ -552,14 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-06T01:30:00+00:00",
       "title_so": "Horumarinta Bitcoin waxay soo jeedinaysaa 'miinada' si ay uga dhigaan tuugada quantum lumin BTC iyaga u gaar ah"
-    },
-    {
-      "title": "The engine parts that 'fight the laws of the universe'",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-06T00:06:06+00:00",
-      "title_so": "Qaybaha matoorka ee 'la dagaallama sharciyada caalamka'"
     }
   ]
 }
