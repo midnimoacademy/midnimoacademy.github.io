@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-08T21:52:53.279712+00:00",
+  "updated_at": "2026-11-09T01:30:02.057151+00:00",
   "items": [
+    {
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-09T00:50:06+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Doing these things now will help you save money at Christmas",
+      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-09T00:09:14+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-08T22:59:06+00:00",
+      "title_so": null
+    },
     {
       "title": "What the election results mean for crypto: State of Crypto",
       "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
@@ -506,14 +530,6 @@
       "title_so": "GOPAX waxay joojisaa ganacsiga crypto, ka bixista si dhammaan hantida loogu wareejiyo kaydinta qabow"
     },
     {
-      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
-      "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-06T10:40:57+00:00",
-      "title_so": "Khatarta Binance's $6.3B waxay ka tagtaa su'aalo ku saabsan ilaalinta boorsada kulul"
-    },
-    {
       "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
       "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
       "source": "Decrypt",
@@ -544,22 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-06T08:47:42+00:00",
       "title_so": "Giriiga waxa uu ansixiyaa 10% canshuurta faa'iidooyinka crypto iyo 15% canshuurta dakhliga DeFi"
-    },
-    {
-      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-06T08:04:52+00:00",
-      "title_so": "Maaliyadeed Xorriyadda Adduunka ee uu Trump taageero ayaa qorshaynaya dib-u-soo-celinta dib-u-soo-celinta 66% sanad-ilaa-taariikheedka"
-    },
-    {
-      "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
-      "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-06T05:14:48+00:00",
-      "title_so": "Zcash's NU7 cusboonaysiinta ayaa si toos ah u socota, iyada oo dedejinaysa lacag bixinta gaarka ah"
     }
   ]
 }
