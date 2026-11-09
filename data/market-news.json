@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-09T01:30:02.057151+00:00",
+  "updated_at": "2026-11-09T04:18:34.907059+00:00",
   "items": [
+    {
+      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-09T04:03:08+00:00",
+      "title_so": "buundada tBTC qayb ahaan dib ayay u bilaabataa iyadoo $120M Aave kaydka uu yahay mid barafaysan"
+    },
+    {
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-09T03:21:49+00:00",
+      "title_so": "Bitcoin ayaa hoos u dhacda, ka dibna soo booda sida Nvidia khiyaamada fadeexada iyo wadahadalada Iran ee fashilmay waxay kiciyaan isbeddel"
+    },
     {
       "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
       "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-09T00:50:06+00:00",
-      "title_so": null
+      "title_so": "Nvidia waxay bilowday baaritaan ku saabsan xiriirka maamulaha guud ee la tuhunsan yahay inuu yahay basaaska Shiinaha"
     },
     {
       "title": "Doing these things now will help you save money at Christmas",
@@ -15,7 +31,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-09T00:09:14+00:00",
-      "title_so": null
+      "title_so": "Hadda oo aad waxyaalahan samayso waxay kaa caawin doontaa inaad lacag kaydsato xilliga kirismaska"
     },
     {
       "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
@@ -23,7 +39,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-08T22:59:06+00:00",
-      "title_so": null
+      "title_so": "Vitalik 'pivots' ETH si uu u kaydiyo qiimaha, crypto ayaa ku dhibtoonaya ka dib xilliga dhexe ee Mareykanka: Hodler's Digest"
     },
     {
       "title": "What the election results mean for crypto: State of Crypto",
@@ -522,14 +538,6 @@
       "title_so": "Wakiilkii hore ee FBI-da ayaa qirtay dambiga ah inuu xaday $2.5m ee Crypto 35 baaritaan"
     },
     {
-      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
-      "url": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-06T10:47:33+00:00",
-      "title_so": "GOPAX waxay joojisaa ganacsiga crypto, ka bixista si dhammaan hantida loogu wareejiyo kaydinta qabow"
-    },
-    {
       "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
       "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
       "source": "Decrypt",
@@ -552,14 +560,6 @@
       "category": "Economy",
       "published": "2026-11-06T09:21:50+00:00",
       "title_so": "Sidee ayay ii saamaynaysaa haddii qiimaha saamiyadu hoos u dhacaan?"
-    },
-    {
-      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-06T08:47:42+00:00",
-      "title_so": "Giriiga waxa uu ansixiyaa 10% canshuurta faa'iidooyinka crypto iyo 15% canshuurta dakhliga DeFi"
     }
   ]
 }
