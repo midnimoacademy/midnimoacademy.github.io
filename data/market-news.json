@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-11-09T04:18:34.907059+00:00",
+  "updated_at": "2026-11-09T07:47:46.798423+00:00",
   "items": [
+    {
+      "title": "Government's EV targets expected to be reduced this week",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-09T07:20:17+00:00",
+      "title_so": "Bartilmaameedyada EV ee dawladda ayaa la filayaa in la dhimo toddobaadkan"
+    },
+    {
+      "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+      "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-09T06:54:41+00:00",
+      "title_so": "SpaceX waxay soo jeedinaysaa $24 bilyan oo kombuyuutar sare oo Texas ah oo qiimihiisu yahay 17 jeer kaydka bitcoin"
+    },
+    {
+      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+      "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-09T06:36:45+00:00",
+      "title_so": "Solana waxay u dhaqaaqday inay tirtirto qaabka wax kala iibsiga ee loo adeegsaday jabsiga Drift ee $270 milyan"
+    },
+    {
+      "title": "Jensen Huang: Why a personal scandal for the face of the AI boom has provoked a national security scare",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-09T06:01:52+00:00",
+      "title_so": "Jensen Huang: Waa maxay sababta fadeexad shakhsiyeed ee wejiga AI ee kor u kaca ay kicisay cabsi amniga qaranka"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-09T05:44:53+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+      "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-09T05:36:08+00:00",
+      "title_so": "Zcash devs waxay soo jeedinaysaa xannibaad kale oo waqti goyn ah maalmo ka dib cusboonaysiinta NU7"
+    },
+    {
+      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-09T05:16:54+00:00",
+      "title_so": "Laba soo jeedin oo Ethereum ah oo iska soo horjeeda ayaa ujeedadoodu tahay inay joojiyaan Glamsterdam jebinta qandaraasyadii hore"
+    },
+    {
+      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-09T04:54:39+00:00",
+      "title_so": "Barkadda macdanta bitcoin ee Binance waxay heshaa hal baloog usbuuc gudihii marka xidhidhisku soo dhawaado"
+    },
     {
       "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
       "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -72,14 +136,6 @@
       "category": "Crypto",
       "published": "2026-11-08T14:01:03+00:00",
       "title_so": "Fikirka Soo-saare Seeraar wuxuu ka dhigi doonaa Weerarada Quantum sharad lumis ah"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-08T13:33:00+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
@@ -504,62 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-06T11:49:35+00:00",
       "title_so": "Bitcoin ayaa sii socota ka dib iibinta AI ay hogaamineyso iyadoo indhuhu u jeestaan ​​tirooyinka shaqooyinka ugu dambeeyay ee Mareykanka"
-    },
-    {
-      "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
-      "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-06T11:26:30+00:00",
-      "title_so": "Hackers-ka Binance waxa ay haysteen 8-usbuuc daaqada soo galitaanka ka hor inta aysan $6.3B ka faa'iidaysan: SEAL"
-    },
-    {
-      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-      "url": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-06T11:16:53+00:00",
-      "title_so": "Bitcoin waxa ay haysataa $75K iyada oo sharciga AI uu ka baqayo in KOSPI la joojiyo ka dib 8% shil"
-    },
-    {
-      "title": "Greece approves 10% tax on crypto gains starting in 2027",
-      "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-06T11:05:36+00:00",
-      "title_so": "Giriiga ayaa oggolaaday 10% canshuurta faa'iidooyinka crypto laga bilaabo 2027"
-    },
-    {
-      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-      "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-06T10:57:06+00:00",
-      "title_so": "Wakiilkii hore ee FBI-da ayaa qirtay dambiga ah inuu xaday $2.5m ee Crypto 35 baaritaan"
-    },
-    {
-      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
-      "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-06T10:13:27+00:00",
-      "title_so": "Casriyeynta NU7 ee Zcash ayaa toos u socota, dib u warshadaynta 60% ee khidmadaha si loo maalgeliyo abaalmarinta xannibaadda mustaqbalka"
-    },
-    {
-      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-06T09:53:27+00:00",
-      "title_so": "Bitcoin waxay dib u soo ceshataa $ 76,000 heerka ETF-yada waxay daadiyeen $ 430 milyan ka dib markii tikniyoolajiyadda"
-    },
-    {
-      "title": "How does it affect me if share prices fall?",
-      "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-06T09:21:50+00:00",
-      "title_so": "Sidee ayay ii saamaynaysaa haddii qiimaha saamiyadu hoos u dhacaan?"
     }
   ]
 }
