@@ -1,21 +1,77 @@
 {
-  "updated_at": "2026-11-10T07:30:54.466959+00:00",
+  "updated_at": "2026-11-10T10:12:24.749194+00:00",
   "items": [
+    {
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "url": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-10T09:59:17+00:00",
+      "title_so": "Jeebka crypto ee ku koray gudaha Telegram ayaa iskii u soo baxay"
+    },
+    {
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-10T09:57:49+00:00",
+      "title_so": "Kim Kardashian's Skims waxa ay soo celisaa $148 kalandarka imaanshaha ka dib dib u dhac"
+    },
+    {
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-10T09:23:55+00:00",
+      "title_so": "Faysal Islaam: Waxa uu ii sheegay madaxa shirkadda Tignoolajiyada Maraykanka ee Nvidia oo ku saabsan Shiinaha iyo amniga qaranka"
+    },
+    {
+      "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+      "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-10T09:14:30+00:00",
+      "title_so": "Coinbase, Kalshi, Kraken waalidku waxay ku celiyeen CFTC dagaal sharci ah oo ku saabsan kaydka mustaqbalka"
+    },
+    {
+      "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+      "url": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-10T09:05:16+00:00",
+      "title_so": "Faa'iidada BitGo Q3 waxay ku dhowdahay inay labanlaabto faa'iidooyinka crypto iyadoo dakhligu hoos u dhacay 51%"
+    },
+    {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-10T08:23:21+00:00",
+      "title_so": "Trump ayaa sheegay in FBI-du ay baaritaan ku sameyneyso arrinta madaxa Nvidia ee lagu eedeeyay basaaska Shiinaha"
+    },
+    {
+      "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+      "url": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-10T08:02:05+00:00",
+      "title_so": "BlackRock Bitcoin ETF ka baxa ayaa ku dhuftey $1.66B in ka badan todoba kulan oo ganacsi"
+    },
+    {
+      "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+      "url": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-10T07:49:14+00:00",
+      "title_so": "Securitize waxay ogolaatay inay iibsato River One si ay ugu fidiso amaahinta hantida ay taageerto"
+    },
     {
       "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
       "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-10T07:01:06+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
-      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-10T06:01:44+00:00",
-      "title_so": null
+      "title_so": "Jeebka Ethereum ee 11-jirka ah wuxuu dhaqaaqay $4.6 milyan wuxuuna meesha ka saaray khiyaano lagu sameeyay daqiiqado gudahood."
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -31,7 +87,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-10T05:22:39+00:00",
-      "title_so": null
+      "title_so": "Australiya waxay tixgelisaa ciqaabaha dembiilayaasha AI da'da ah ka dib jabsiga OpenAI"
     },
     {
       "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
@@ -39,7 +95,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-10T05:18:31+00:00",
-      "title_so": null
+      "title_so": "Macdanta Bitcoin MARA waxay iibisay 13,597 BTC $ 1.1 bilyan lix toddobaad gudahood, waxay qorsheyneysaa inay iibiso wax badan"
     },
     {
       "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
@@ -47,7 +103,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-10T05:05:58+00:00",
-      "title_so": null
+      "title_so": "Isweydaarsiga Crypto waxay u baahan yihiin koofiyadaha dollarka adag ee boorsooyinka kulul, ayuu yidhi CertiK"
     },
     {
       "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
@@ -55,15 +111,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-10T04:51:20+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-10T03:58:13+00:00",
-      "title_so": "Trump ayaa sheegay in FBI-du ay baaritaan ku sameyneyso arrinta madaxa Nvidia ee lagu eedeeyay basaaska Shiinaha"
+      "title_so": "Ledger-ka XRP waxa uu qeexayaa xisaabaadka aan tirada lahayn, iyada oo aan wax lacag ah oo dheeraad ah laga qaadin isticmaalayaasha"
     },
     {
       "title": "Californians reject wealth tax for billionaires",
@@ -71,7 +119,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-10T03:34:46+00:00",
-      "title_so": null
+      "title_so": "Californians waxay diidaan canshuurta hantida bilyaneerada"
     },
     {
       "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
@@ -79,7 +127,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-10T03:22:26+00:00",
-      "title_so": null
+      "title_so": "Bitcoin ayaa wajaheysa tijaabada CPI ee Mareykanka iyadoo falanqeeyayaasha ay ka digayaan gargaarka sicir bararka inaysan ku filneyn"
     },
     {
       "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
@@ -87,7 +135,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-10T03:04:54+00:00",
-      "title_so": null
+      "title_so": "OpenAI waxay ku dhistaa beddelka dilaaga ah si ay u joojiso wakiilada damiirka ah 35 sekan gudahood"
     },
     {
       "title": "Qantas to outsource 850 local jobs with most roles moving to India",
@@ -95,7 +143,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-10T01:55:22+00:00",
-      "title_so": null
+      "title_so": "Qantas si ay u soo saarto 850 shaqooyin maxalli ah oo doorarka badankood u guuraan Hindiya"
     },
     {
       "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
@@ -103,7 +151,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-10T00:42:39+00:00",
-      "title_so": null
+      "title_so": "HIVE, MARA anigaa ka badan Seeraar laakiin kasbashada wax ka yar marka qiimaha crypto hoos u dhaco"
     },
     {
       "title": "I took Vinted to court to get my money back",
@@ -111,7 +159,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-10T00:27:37+00:00",
-      "title_so": null
+      "title_so": "Vinted ayaan maxkamada geeyay si aan lacagtaydii dib ugu soo celiyo"
     },
     {
       "title": "The superpower battle over energy – and what it means for your bills",
@@ -119,7 +167,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-10T00:08:28+00:00",
-      "title_so": null
+      "title_so": "Awoodda sare ee dagaalka tamarta - iyo waxa ay uga dhigan tahay biilashaada"
     },
     {
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -512,54 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-09T09:50:21+00:00",
       "title_so": "Guddiga Nvidia ayaa baaray Jensen Huang ka dib markii la sheegay inuu bartilmaameed u ahaa dadaalka basaaska Shiinaha"
-    },
-    {
-      "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-09T09:33:27+00:00",
-      "title_so": "Sicir bararka Maraykanka, dakhliga shirkadda: Crypto Week Hor"
-    },
-    {
-      "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
-      "url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-09T09:00:17+00:00",
-      "title_so": "Binance, Tether iyo Trump shirkadaha crypto waxay wajahaan kama dambaysta diiwaannada Senate-ka"
-    },
-    {
-      "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-09T08:17:35+00:00",
-      "title_so": "Bitcoin ETFs waxay daadisay $1.3B qulqulka toddobaadlaha ee ugu weyn tan iyo dabayaaqadii June"
-    },
-    {
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-09T07:10:11+00:00",
-      "title_so": "Maxaan ka ognahay arrinta maamulaha Nvidia ee la tuhunsan yahay basaaska Shiinaha?"
-    },
-    {
-      "title": "SpaceX proposes a $24 billion Texas supercomputer and a gas plant",
-      "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-09T06:54:41+00:00",
-      "title_so": "SpaceX waxay soo jeedinaysaa $24 bilyan oo kombuyuutar sare oo Texas ah iyo warshad gaas ah"
-    },
-    {
-      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
-      "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-09T06:36:45+00:00",
-      "title_so": "Solana waxay u dhaqaaqday inay tirtirto qaabka wax kala iibsiga ee loo adeegsaday jabsiga Drift ee $270 milyan"
     }
   ]
 }
