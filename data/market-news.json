@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-09T22:02:20.973985+00:00",
+  "updated_at": "2026-11-10T01:24:38.802397+00:00",
   "items": [
+    {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-10T01:22:10+00:00",
+      "title_so": "Trump ayaa sheegay in FBI-du ay baaritaan ku sameyneyso arrinta madaxa Nvidia ee lagu eedeeyay basaaska Shiinaha"
+    },
+    {
+      "title": "HIVE’s Bitcoin output jumps 49%, but mining revenue still falls",
+      "url": "https://cointelegraph.com/news/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-10T00:42:39+00:00",
+      "title_so": "Wax soo saarka Bitcoin ee HIVE ayaa kor u kacay 49%, laakiin dakhliga macdanta ayaa weli hoos u dhacaya"
+    },
+    {
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-09T23:51:22+00:00",
+      "title_so": "Waxa aan ilaa hadda ka ognahay arrinta Jensen Huang uu la leeyahay basaaska Shiinaha ee looga shakisan yahay"
+    },
+    {
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-09T22:56:27+00:00",
+      "title_so": "Securitize waxay ku riixdaa $6 tiriliyan oo hanti ah oo ay taageerto suuqa maaliyadda iyada oo la soo wareego River One"
+    },
+    {
+      "title": "Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them",
+      "url": "https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-09T22:36:02+00:00",
+      "title_so": "Anthropic's Claude Fable 5.2 iyo Mythos 5.0 waa wax cajiib ah, laakiin u diyaargarow inaad iibiso kelyaha si aad u bixiso"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-09T22:06:26+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
     {
       "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
       "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
@@ -174,7 +222,8 @@
       "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-09T16:19:45+00:00"
+      "published": "2026-11-09T16:19:45+00:00",
+      "title_so": "Block Seeraar ayaa hadda ku dhowaa rikoor wax kala iibsiga 2015, laakiin wuxuu bixiyay kaliya $180 khidmadaha"
     },
     {
       "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
@@ -183,14 +232,6 @@
       "category": "Crypto",
       "published": "2026-11-09T15:49:22+00:00",
       "title_so": "NYSE Waxay Taabataa Avalanche si ay u dejiso Platform-ka Saamiyada la Qorsheeyay"
-    },
-    {
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-09T15:46:20+00:00",
-      "title_so": "Waxa aan ilaa hadda ka ognahay arrinta Jensen Huang uu la leeyahay basaaska Shiinaha ee looga shakisan yahay"
     },
     {
       "title": "Google’s AI chip push adds more pressure on Nvidia",
@@ -223,14 +264,6 @@
       "category": "Crypto",
       "published": "2026-11-09T13:40:06+00:00",
       "title_so": "NYSE waxay doorataa Avalanche si ay u dejiso kaydka calaamadaysan iyada oo ay jirto tartanka blockchain ee Wall Street"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-09T13:36:56+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
@@ -341,21 +374,24 @@
       "url": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-09T11:14:08+00:00"
+      "published": "2026-11-09T11:14:08+00:00",
+      "title_so": "Robinhood waxay u fureysaa IPO-yada US maalgashadayaasha tafaariiqda ee UK"
     },
     {
       "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
       "url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-09T10:52:49+00:00"
+      "published": "2026-11-09T10:52:49+00:00",
+      "title_so": "Horumarinta Zcash waxay rabaan 20-ilbiriqsi maalmo uun ka dib markii la cusboonaysiiyay xawaaraha weyn"
     },
     {
       "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
       "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-09T10:51:48+00:00"
+      "published": "2026-11-09T10:51:48+00:00",
+      "title_so": "Wararka tooska ah: Qiimaha Crypto ayaa siinaya dhulka xitaa sida kaydka iyo kor u kaca dahabka, saliida hoos u dhacaya"
     },
     {
       "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
@@ -418,7 +454,8 @@
       "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-09T06:54:41+00:00"
+      "published": "2026-11-09T06:54:41+00:00",
+      "title_so": "SpaceX waxay soo jeedinaysaa $24 bilyan oo kombuyuutar sare oo Texas ah iyo warshad gaas ah"
     },
     {
       "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
@@ -465,7 +502,8 @@
       "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-09T03:21:49+00:00"
+      "published": "2026-11-09T03:21:49+00:00",
+      "title_so": "Bitcoin ayaa hoos u dhacday iyada oo Nvidia khiyaamaysay fadeexad iyo wadahadaladii Iran ee fashilmay ay kiciyeen isbeddel"
     },
     {
       "title": "Doing these things now will help you save money at Christmas",
@@ -522,38 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-08T12:57:51+00:00",
       "title_so": "Emayllada Binance France waxay ku dhawaaqeen xidhitaanka akoonnada isticmaaleyaasheeda Disembar 31"
-    },
-    {
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-08T12:55:59+00:00",
-      "title_so": "Guryahan Finland waxay helayaan kulayl bilaash ah macdanta bitcoin (ilaa inta BTC ay ka sarreyso $70,000)"
-    },
-    {
-      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
-      "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-08T09:48:48+00:00",
-      "title_so": "Mudaaharaadayaasha Amsterdam waxay jabiyeen goobta dhismaha xarunta xogta Microsoft: Warbixin"
-    },
-    {
-      "title": "Binance’s finance chief Kaiser Ng to leave company, report says",
-      "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-08T08:12:56+00:00",
-      "title_so": "Madaxa maaliyadda ee Binance Kaiser Ng inuu ka tago shirkadda, warbixin ayaa tiri"
-    },
-    {
-      "title": "He spent $50,000 on Labubus but now the craze is dying",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-07T23:02:35+00:00",
-      "title_so": "Wuxuu ku qaatay $50,000 Labubus laakiin hadda waali wuu dhimanayaa"
     }
   ]
 }
