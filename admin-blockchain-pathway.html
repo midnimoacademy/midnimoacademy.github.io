@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Blockchain Pathway Administration | Midnimo Academy</title><link rel="stylesheet" href="/blockchain-pathway.css"></head>
+<body>
+<header><nav class="wrap"><a class="brand" href="/admin-hub.html">MIDNIMO ACADEMY</a><a href="/admin-hub.html">Admin Hub</a><a href="/blockchain-pathway.html">Student pathway</a></nav></header>
+<section class="hero"><div class="wrap"><p class="eyebrow">ADMINISTRATION</p><h1>Blockchain pathway</h1><p>Monitor learning, review projects and manage lesson readings.</p></div></section>
+<main class="wrap">
+<p id="status" class="notice" role="status">Checking administrator access…</p>
+<p id="signin" hidden><a href="/student.html?next=admin">Sign in as administrator</a></p>
+<div id="workspace" hidden>
+<section class="panel"><h2>Enrolments and completion</h2><p id="stats"></p>
+<label>Search enrolled learners<input id="search" type="search"></label><div id="roster"></div></section>
+<section class="panel" id="student-panel" hidden><h2 id="student-heading" tabindex="-1">Learner record</h2><div id="student"></div>
+<form id="unlock" class="record"><h3>Exceptional unlock</h3><p>Access only. The learner must still earn completion, and Advanced requires all Intermediate completions.</p>
+<label>Lesson<select id="unlock-lesson" required></select></label><label>Reason<input id="reason" required minlength="10" maxlength="1000"></label>
+<button>Grant access and record reason</button><p id="unlock-result" role="status"></p></form><div id="audit"></div></section>
+<section class="panel"><h2>Manage lesson readings</h2><p>Edits retain existing progress. Quiz keys and assessment rules are managed separately.</p>
+<form id="edit"><label>Lesson<select id="edit-lesson" required></select></label><label>Section<select id="edit-section"><option value="theory">Theory</option><option value="example">Example</option><option value="review">Review</option></select></label>
+<label>Somali reading<textarea id="reading" required minlength="80" maxlength="12000"></textarea></label><button>Save reading</button><p id="edit-result" role="status"></p></form>
+</section></div></main>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.57.0/dist/umd/supabase.min.js"></script>
+<script type="module" src="/admin-blockchain-pathway.mjs"></script>
+</body></html>

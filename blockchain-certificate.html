@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="so">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Certificate Verification | Midnimo Academy</title><link rel="stylesheet" href="/blockchain-pathway.css"></head>
+<body>
+<header><nav class="wrap"><a class="brand" href="/">MIDNIMO ACADEMY</a><a href="/blockchain-hub.html">Blockchain Hub</a></nav></header>
+<main class="wrap"><section class="panel"><h1>Xaqiijinta shahaadada</h1><p>Reference-ku wuxuu xaqiijiyaa heerka iyo taariikhda. Magaca waxaa lagu muujiyaa shahaadada ku jirta akoonka ardayga.</p>
+<form id="verify"><label>Verification reference<input id="reference" required maxlength="36" autocomplete="off" spellcheck="false"></label><button type="submit">Xaqiiji</button></form>
+<p id="result" role="status"></p></section></main>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.57.0/dist/umd/supabase.min.js"></script>
+<script type="module">
+import {$,client,formatDate,rpc} from '/blockchain-pathway-ui.mjs';
+const db = client();
+$('reference').value = new URLSearchParams(location.search).get('ref') || '';
+$('verify').onsubmit = async event => {
+  event.preventDefault();
+  const reference = $('reference').value.trim();
+  if (!/^[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$/i.test(reference)) {
+    $('result').textContent = 'Geli verification reference sax ah.';
+    return;
+  }
+  $('result').textContent = 'Waxaan hubinaynaa…';
+  try {
+    const record = await rpc(db,'verify',{p_reference:reference});
+    $('result').textContent = record
+      ? 'Shahaado sax ah · Blockchain Development · '+record.level+' · '+formatDate(record.completed_at)
+      : 'Reference-kan lama helin.';
+  } catch {
+    $('result').textContent = 'Xaqiijintu hadda ma shaqaynayso. Mar kale isku day.';
+  }
+};
+if ($('reference').value) $('verify').requestSubmit();
+</script></body></html>
