@@ -1,21 +1,45 @@
 {
-  "updated_at": "2026-11-10T01:24:38.802397+00:00",
+  "updated_at": "2026-11-10T04:09:57.512192+00:00",
   "items": [
     {
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
       "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-10T01:22:10+00:00",
+      "published": "2026-11-10T03:58:13+00:00",
       "title_so": "Trump ayaa sheegay in FBI-du ay baaritaan ku sameyneyso arrinta madaxa Nvidia ee lagu eedeeyay basaaska Shiinaha"
     },
     {
-      "title": "HIVE’s Bitcoin output jumps 49%, but mining revenue still falls",
-      "url": "https://cointelegraph.com/news/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-10T03:22:26+00:00",
+      "title_so": null
+    },
+    {
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-10T03:04:54+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-10T01:55:22+00:00",
+      "title_so": null
+    },
+    {
+      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "url": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-10T00:42:39+00:00",
-      "title_so": "Wax soo saarka Bitcoin ee HIVE ayaa kor u kacay 49%, laakiin dakhliga macdanta ayaa weli hoos u dhacaya"
+      "title_so": null
     },
     {
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -536,30 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-08T19:16:42+00:00",
       "title_so": "Kobaca Stablecoin ayaa istaagay. Kor u kaca lacag bixinta ma dhicin"
-    },
-    {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-08T15:37:25+00:00",
-      "title_so": "Dawladdu waxay si dhab ah u eegaysaa ka mamnuucida 16 ka yar ee Vinted iyo eBay"
-    },
-    {
-      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-      "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-08T14:01:03+00:00",
-      "title_so": "Fikirka Soo-saare Seeraar wuxuu ka dhigi doonaa Weerarada Quantum sharad lumis ah"
-    },
-    {
-      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
-      "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-08T12:57:51+00:00",
-      "title_so": "Emayllada Binance France waxay ku dhawaaqeen xidhitaanka akoonnada isticmaaleyaasheeda Disembar 31"
     }
   ]
 }
