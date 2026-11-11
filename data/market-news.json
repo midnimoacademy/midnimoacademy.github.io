@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-11T19:20:09.855894+00:00",
+  "updated_at": "2026-11-11T22:19:06.124232+00:00",
   "items": [
+    {
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-11T22:08:56+00:00",
+      "title_so": "Poundland ayaa u qoondaysay waqti dheeri ah si ay u xaqiijiso heshiiska samatabbixinta iyadoo wadahadalada degdega ah ay socdaan"
+    },
+    {
+      "title": "Uncalled US House races could send more crypto allies to Congress",
+      "url": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-11T22:05:17+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+      "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-11T21:46:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-11T21:42:20+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-11T21:36:01+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-11T21:16:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+      "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-11T20:43:19+00:00",
+      "title_so": null
+    },
+    {
+      "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
+      "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-11T20:16:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
+      "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-11T19:36:02+00:00",
+      "title_so": null
+    },
     {
       "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
       "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
@@ -8,14 +80,6 @@
       "category": "Crypto",
       "published": "2026-11-11T19:06:02+00:00",
       "title_so": "Deutsche Bank wuxuu ku nool yahay haynta Crypto ka dib dhismo shan sano ah"
-    },
-    {
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-11T18:48:19+00:00",
-      "title_so": "Poundland ayaa u qoondaysay waqti dheeri ah si ay u xaqiijiso heshiiska samatabbixinta iyadoo wadahadalada degdega ah ay socdaan"
     },
     {
       "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
@@ -174,84 +238,96 @@
       "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-11T12:21:24+00:00"
+      "published": "2026-11-11T12:21:24+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
       "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-11T12:19:30+00:00"
+      "published": "2026-11-11T12:19:30+00:00",
+      "title_so": null
     },
     {
       "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
       "url": "https://decrypt.co/382991/nvidia-sheds-430b-in-two-days-as-jensen-huang-faces-calls-to-resign",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-11T12:15:46+00:00"
+      "published": "2026-11-11T12:15:46+00:00",
+      "title_so": null
     },
     {
       "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
       "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-11T11:56:23+00:00"
+      "published": "2026-11-11T11:56:23+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
       "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-11T11:37:04+00:00"
+      "published": "2026-11-11T11:37:04+00:00",
+      "title_so": null
     },
     {
       "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
       "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-11T11:30:36+00:00"
+      "published": "2026-11-11T11:30:36+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
       "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-11T11:05:26+00:00"
+      "published": "2026-11-11T11:05:26+00:00",
+      "title_so": null
     },
     {
       "title": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
       "url": "https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-11T10:53:11+00:00"
+      "published": "2026-11-11T10:53:11+00:00",
+      "title_so": null
     },
     {
       "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
       "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-11T10:51:34+00:00"
+      "published": "2026-11-11T10:51:34+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
       "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-11T10:45:49+00:00"
+      "published": "2026-11-11T10:45:49+00:00",
+      "title_so": null
     },
     {
       "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
       "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-11T10:20:53+00:00"
+      "published": "2026-11-11T10:20:53+00:00",
+      "title_so": null
     },
     {
       "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
       "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-11T10:00:00+00:00"
+      "published": "2026-11-11T10:00:00+00:00",
+      "title_so": null
     },
     {
       "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
@@ -339,13 +415,6 @@
       "published": "2026-11-10T23:49:51+00:00"
     },
     {
-      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
-      "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-10T23:08:28+00:00"
-    },
-    {
       "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -366,22 +435,6 @@
       "category": "Crypto",
       "published": "2026-11-10T21:36:03+00:00",
       "title_so": "Warbaahinta Trump ayaa soo bandhigtay faa'iido dhan $410 milyan. Faa'iidada Bitcoin waxay samaysay kor u qaadis culus"
-    },
-    {
-      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
-      "url": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-10T21:34:40+00:00",
-      "title_so": "Shirkadaha aaminka ah ee loo yaqaan 'crypto Trust' ma kula tartami karaan bangiyada degsiimooyinka ka soo jeeda Mareykanka?"
-    },
-    {
-      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
-      "url": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-10T21:24:36+00:00",
-      "title_so": "Across Protocol wuxuu uga digayaa isticmaalayaasha inay iska ilaaliyaan abka iyadoo ay jiraan warbixino sheegaya boorsooyinka la shubay"
     },
     {
       "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
@@ -494,46 +547,6 @@
       "category": "Economy",
       "published": "2026-11-10T15:10:20+00:00",
       "title_so": "Iibinta cuntada qasacadaysan iyo biyaha dhalada ah ayaa booday ka dib bilawgii ololaha 'Diyaar u noqo'"
-    },
-    {
-      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
-      "url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-10T15:01:02+00:00",
-      "title_so": "Jupiter-ka Solana wuxuu ku balaadhinayaa wax ka baayacmushtar isagoo wata koojooyin calaamo ah, khasnadaha wax-soosaarka iyo faylalka cusub"
-    },
-    {
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-10T14:45:46+00:00",
-      "title_so": "Sicir bararka Mareykanka ayaa ka sarreeya sidii la filayay bishii Oktoobar - waa kuwan waxa ku dhacaya qiimaha"
-    },
-    {
-      "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
-      "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-10T14:32:48+00:00",
-      "title_so": "Koontada Lacagta Decrypt waxay ku helaysaa wareejinta qarsoodiga ah ee Solana Privacy Firm Helius"
-    },
-    {
-      "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
-      "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-10T14:06:02+00:00",
-      "title_so": "Anthropic wuxuu dejiyaa Qiimaha IPO ee $70 ilaa $78, Shirkadda qiimeeya ilaa $1.4 Trillion"
-    },
-    {
-      "title": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
-      "url": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-10T14:01:02+00:00",
-      "title_so": "Moody's Taps Chainlink si ay u soo dirto qiimeynta deynta guud ahaan Blockchains-ka badan"
     }
   ]
 }
