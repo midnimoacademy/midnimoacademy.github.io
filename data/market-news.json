@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-11T04:16:12.379614+00:00",
+  "updated_at": "2026-11-11T07:36:01.031858+00:00",
   "items": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-11T06:00:00+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+      "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-11T05:52:14+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Across Protocol restores website after hackers hijack domain",
+      "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-11T04:42:30+00:00",
+      "title_so": null
+    },
     {
       "title": "Crypto ally Tom Emmer elected House GOP minority whip",
       "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -72,14 +96,6 @@
       "category": "Crypto",
       "published": "2026-11-10T22:46:02+00:00",
       "title_so": null
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-10T22:04:47+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
@@ -544,22 +560,6 @@
       "category": "Economy",
       "published": "2026-11-10T05:22:39+00:00",
       "title_so": "Australiya waxay tixgelisaa ciqaabaha dembiilayaasha AI da'da ah ka dib jabsiga OpenAI"
-    },
-    {
-      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-10T05:18:31+00:00",
-      "title_so": "Macdanta Bitcoin MARA waxay iibisay 13,597 BTC $ 1.1 bilyan lix toddobaad gudahood, waxay qorsheyneysaa inay iibiso wax badan"
-    },
-    {
-      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-      "url": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-10T05:05:58+00:00",
-      "title_so": "Isweydaarsiga Crypto waxay u baahan yihiin koofiyadaha dollarka adag ee boorsooyinka kulul, ayuu yidhi CertiK"
     }
   ]
 }
