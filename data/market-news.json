@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-11T01:25:18.697965+00:00",
+  "updated_at": "2026-11-11T04:16:12.379614+00:00",
   "items": [
+    {
+      "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+      "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-11T03:07:45+00:00",
+      "title_so": null
+    },
     {
       "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
       "url": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -552,14 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-10T05:05:58+00:00",
       "title_so": "Isweydaarsiga Crypto waxay u baahan yihiin koofiyadaha dollarka adag ee boorsooyinka kulul, ayuu yidhi CertiK"
-    },
-    {
-      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-      "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-10T04:51:20+00:00",
-      "title_so": "Ledger-ka XRP waxa uu qeexayaa xisaabaadka aan tirada lahayn, iyada oo aan wax lacag ah oo dheeraad ah laga qaadin isticmaalayaasha"
     }
   ]
 }
