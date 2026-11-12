@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T01:33:40.957545+00:00",
+  "updated_at": "2026-11-12T04:14:54.489320+00:00",
   "items": [
+    {
+      "title": "Bitcoin listless, Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+      "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T04:03:47+00:00",
+      "title_so": null
+    },
+    {
+      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T04:01:14+00:00",
+      "title_so": null
+    },
     {
       "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
       "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
@@ -26,7 +42,7 @@
       "title_so": null
     },
     {
-      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
       "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
@@ -318,16 +334,14 @@
       "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-11T11:37:04+00:00",
-      "title_so": null
+      "published": "2026-11-11T11:37:04+00:00"
     },
     {
       "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
       "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-11T11:30:36+00:00",
-      "title_so": null
+      "published": "2026-11-11T11:30:36+00:00"
     },
     {
       "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
@@ -405,14 +419,6 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-11T07:52:05+00:00"
-    },
-    {
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-11T07:44:24+00:00",
-      "title_so": "Waxa aan ilaa hadda ka ognahay arrinta Jensen Huang uu la leeyahay basaaska Shiinaha ee looga shakisan yahay"
     },
     {
       "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
@@ -537,14 +543,6 @@
       "category": "Economy",
       "published": "2026-11-10T17:04:55+00:00",
       "title_so": "Kim Kardashian's Skims waxa ay soo celisaa $148 kalandarka imaanshaha ka dib dib u dhac"
-    },
-    {
-      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
-      "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-10T16:27:57+00:00",
-      "title_so": "Bitcoin waxay u dhacdaa sida Kulul ee Sicir Bararka Maraykanka Shidaalka Cabsida Heerka Fed ee Weyn"
     }
   ]
 }
