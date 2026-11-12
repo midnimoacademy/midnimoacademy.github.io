@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-12T19:16:15.435896+00:00",
+  "updated_at": "2026-11-12T22:02:45.051935+00:00",
   "items": [
+    {
+      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+      "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T21:52:04+00:00",
+      "title_so": "Istaraatiijiyadu waxay daadisaa 5% dhexda ka saarista index MSCI, iibka Bitcoin"
+    },
+    {
+      "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+      "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T21:26:03+00:00",
+      "title_so": "Istaraatiijiyad Lagu Sameeyay $19.5 Bilyan oo Faa'iido. Haddaba waa maxay sababta MSCI ay uga saarayso Tusmooyinka saamiyada?"
+    },
+    {
+      "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+      "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T21:07:49+00:00",
+      "title_so": "Kalshi wuxuu soo afjaray qandaraaskii la-talinta Donald Trump Jr. ee ku saabsan 1789 Capital's Polymarket-ka maalgashiga"
+    },
+    {
+      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+      "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T20:58:06+00:00",
+      "title_so": "Waaxda Caddaaladda Mareykanka, kooxaha ganacsiga iyo shirkadaha DeFi waxay ka horyimaadaan canshuurta loo yaqaan 'crypto Illinois'"
+    },
+    {
+      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+      "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T20:36:03+00:00",
+      "title_so": "Waa maxay sababta Waddada Iska-caabbinta Quantum-ku ay kor ugu socoto kuwa sameeya jeebka Bitcoin"
+    },
+    {
+      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+      "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T20:07:41+00:00",
+      "title_so": "DTCC waxay u qorshaysaa Balaadhinta Solana sida Sharciyada Jeebka ay xaddidayso gelitaanka"
+    },
     {
       "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
       "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
@@ -342,7 +390,8 @@
       "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-12T10:30:29+00:00"
+      "published": "2026-11-12T10:30:29+00:00",
+      "title_so": "Ethlabs waxay tuurtay soo jeedinta booska Hegotá ee riixitaanka diyaargarowga tirada 2027"
     },
     {
       "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
@@ -365,7 +414,8 @@
       "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-12T09:15:04+00:00"
+      "published": "2026-11-12T09:15:04+00:00",
+      "title_so": "Cusboonaysiinta tooska ah: Bitcoin ayaa hoos uga dhacday $72,000 iyadoo Nvidia's Huang uu is casilayo, heerka dulsaarka ayaa kor u kacay"
     },
     {
       "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
@@ -510,54 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-11T21:36:01+00:00",
       "title_so": "Nomura wuxuu sahamiyaa iibinta unugga crypto Laser Digital: Bloomberg"
-    },
-    {
-      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-      "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T21:16:03+00:00",
-      "title_so": "Dadka haysta Bitcoin Muddada-gaaban waxay u diraan $3.6 Billion BTC wax-bedelka khasaare"
-    },
-    {
-      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-      "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T20:43:19+00:00",
-      "title_so": "Xayiraadaha xarumaha xogta ee Maraykanku waxay siin karaan macdanta Bitcoin gees AI, in kasta oo caqabadaha ay weli jiraan"
-    },
-    {
-      "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-      "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T20:16:02+00:00",
-      "title_so": "Moodelkan Cusub ee Muusigga AI ayaa Durba Ka Wanagsan Suno—Waxaan Dhignay Imtixaanka ACE"
-    },
-    {
-      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
-      "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T19:36:02+00:00",
-      "title_so": "Tether's Tiny AI Agent wuxuu garaacay moodooyinka 2.5 jeer cabirkiisa marka la xakameynayo taleefankaaga"
-    },
-    {
-      "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
-      "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T19:06:02+00:00",
-      "title_so": "Deutsche Bank wuxuu ku nool yahay haynta Crypto ka dib dhismo shan sano ah"
-    },
-    {
-      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-      "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T18:30:43+00:00",
-      "title_so": "OKXICE waxay horay ugu socotaa kayd calaamadeysan iyadoo chips buluug ah ay gadaal u riixayaan"
     }
   ]
 }
