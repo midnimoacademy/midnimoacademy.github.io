@@ -1,6 +1,158 @@
 {
-  "updated_at": "2026-11-12T10:21:59.329524+00:00",
+  "updated_at": "2026-11-12T13:33:48.430021+00:00",
   "items": [
+    {
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T13:27:09+00:00",
+      "title_so": null
+    },
+    {
+      "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
+      "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T13:25:47+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
+      "url": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T13:21:56+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T13:16:59+00:00",
+      "title_so": "Qaar ka mid ah kuwa ka hooseeya 25 waa inay helaan faa'iidooyin ka yar, Milburn dib u eegista si loo yiraahdo"
+    },
+    {
+      "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
+      "url": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T13:06:24+00:00",
+      "title_so": null
+    },
+    {
+      "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+      "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T12:21:43+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin weakness erases September's bullish signal",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T12:15:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+      "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T12:04:42+00:00",
+      "title_so": null
+    },
+    {
+      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+      "url": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T12:03:10+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+      "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T11:43:41+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+      "url": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T11:38:50+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+      "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T11:30:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+      "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T11:24:19+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T11:21:25+00:00",
+      "title_so": null
+    },
+    {
+      "title": "UK economy grows at fastest rate for more than two years",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T11:20:25+00:00",
+      "title_so": "Dhaqaalaha UK waxa uu ku koraa heerka ugu dhaqsaha badan in ka badan laba sano"
+    },
+    {
+      "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+      "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T11:00:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+      "url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T10:42:06+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+      "url": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T10:32:35+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
+      "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T10:30:29+00:00",
+      "title_so": null
+    },
     {
       "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
       "url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
@@ -18,20 +170,12 @@
       "title_so": "Cadaadiska ayaa kor u kaca Nvidia's Jensen Huang iyada oo ay jiraan Warbixinnada Arrinta Labaad"
     },
     {
-      "title": "UK economy grows at fastest rate for more than two years",
-      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T09:43:03+00:00",
-      "title_so": "Dhaqaalaha UK waxa uu ku koraa heerka ugu dhaqsaha badan in ka badan laba sano"
-    },
-    {
-      "title": "Live news: AI stocks slide with Nasdaq 100 futures in retreat following Wednesday's rally",
+      "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
       "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-12T09:15:04+00:00",
-      "title_so": "Akhbaarta tooska ah: saamiyada AI waxay la jaan qaadayaan mustaqbalka Nasdaq 100 oo dib u gurasho ah ka dib isu soo baxa Arbacada"
+      "title_so": null
     },
     {
       "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
@@ -40,14 +184,6 @@
       "category": "Crypto",
       "published": "2026-11-12T09:07:00+00:00",
       "title_so": "Gemini waxay ka iibisaa hawlgallada UK iyo Yurub shirkadda lacag bixinta ee KAST wax ka yar $10 milyan"
-    },
-    {
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T08:59:08+00:00",
-      "title_so": "Qaar ka mid ah kuwa ka hooseeya 25 waa inay helaan faa'iidooyin ka yar, Milburn dib u eegista si loo yiraahdo"
     },
     {
       "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
@@ -152,14 +288,6 @@
       "category": "Crypto",
       "published": "2026-11-12T00:09:13+00:00",
       "title_so": "MSCI waxay xaqiijisaa ka saarida Istaraatiijiyada tusmooyinka dhamaadka Noofembar"
-    },
-    {
-      "title": "Office buildings emptied out but are filling up again - as homes",
-      "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T00:05:40+00:00",
-      "title_so": "Dhismayaasha xafiisyadu waa faaruqiyeen laakiin mar kale ayay soo buuxinayaan - guryo ahaan"
     },
     {
       "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
@@ -432,126 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-11T11:37:04+00:00",
       "title_so": "Bitcoin waxay fadhiisataa dib-u-soo-noqoshada saamiyada iyadoo ETF-ka bixitaanku ay korayaan maalinta afraad"
-    },
-    {
-      "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
-      "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T11:30:36+00:00",
-      "title_so": "Waalidka Kraken wuxuu ku daraa in ka badan 200 oo kayd oo UK iyo EU ah xStocks"
-    },
-    {
-      "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
-      "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T11:05:26+00:00",
-      "title_so": "Kuwa haysta Bitcoin muddada-gaaban waxay u diraan 47K BTC wax-isweydaarsiga khasaare"
-    },
-    {
-      "title": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
-      "url": "https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T10:53:11+00:00",
-      "title_so": "Avalanche ayaa ka adkaaday NYSE. Hadda waa inay 'Qiimaha Qabato' AVAX"
-    },
-    {
-      "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
-      "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-11T10:51:34+00:00",
-      "title_so": "Kraken's xStocks waxay ku daraysaa 200 oo saamiyo UK iyo EU ah iyadoo hantideedu kor u dhaaftay $1.1 bilyan"
-    },
-    {
-      "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-      "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-11T10:45:49+00:00",
-      "title_so": "Bitcoin ayaa ku xayiran wax ka yar $74,000 iyada oo dakhliga CoreWeave uu soo nooleynayo aragtida AI, Anthropic ayaa sheegay in uu kor u qaadayo qiimeynta IPO"
-    },
-    {
-      "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
-      "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T10:20:53+00:00"
-    },
-    {
-      "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
-      "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T10:00:00+00:00"
-    },
-    {
-      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
-      "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T09:58:15+00:00"
-    },
-    {
-      "title": "ECB warns legislative delays could postpone digital euro launch",
-      "url": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T09:03:49+00:00"
-    },
-    {
-      "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T08:55:31+00:00"
-    },
-    {
-      "title": "Christmas toy rush being driven by squishies and building sets",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-11T07:52:05+00:00"
-    },
-    {
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-10T22:52:15+00:00"
-    },
-    {
-      "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-      "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-10T22:46:02+00:00"
-    },
-    {
-      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-      "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-10T21:36:03+00:00",
-      "title_so": "Warbaahinta Trump ayaa soo bandhigtay faa'iido dhan $410 milyan. Faa'iidada Bitcoin waxay samaysay kor u qaadis culus"
-    },
-    {
-      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-      "url": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-10T20:45:50+00:00",
-      "title_so": "Nvidia waxay tirtirtaa faa'iidooyinka 2026 iyadoo Jamhuuriyadu ay ugu hanjabeen Jensen Huang codsi codsi ah"
-    },
-    {
-      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
-      "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-10T20:36:33+00:00",
-      "title_so": "Warren: Muxuu Aqalka Cad sameynayaa si uu uga hortago soo laabashada khamaarka teleprompter-ka ee Trump?"
     }
   ]
 }
