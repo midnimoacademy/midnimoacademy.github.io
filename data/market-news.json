@@ -1,29 +1,179 @@
 {
-  "updated_at": "2026-11-12T13:33:48.430021+00:00",
+  "updated_at": "2026-11-12T16:21:31.864610+00:00",
   "items": [
+    {
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T16:02:10+00:00",
+      "title_so": "Sare u kaca iyo hoos u dhaca Jensen Huang - sida xiddigta teknoolajiyada u noqday fadeexad"
+    },
+    {
+      "title": "Anchorage Digital’s Stablecoins Can Now Settle Payments on Visa’s Network",
+      "url": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T16:01:03+00:00",
+      "title_so": "Anchorage Digital's Stablecoins hadda waxay dejin karaan lacag bixinta Shabakadda Visa's Network"
+    },
+    {
+      "title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
+      "url": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T15:55:38+00:00",
+      "title_so": "Tether Gold Waxay Heshaa Hantidhawrka KPMG Nadiif ah Isagoo Xaqiijinaya $2.2B ee Taageerada Dahabka Jirka ah"
+    },
+    {
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T15:46:06+00:00",
+      "title_so": "Seeraar waxay ku sii jeeddaa $71k iyadoo saamiga Nvidia uu hoos u dhacay ka dib markii Huang uu hoos u dhacay"
+    },
+    {
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T15:45:48+00:00",
+      "title_so": "DTCC waxay ku dartay Solana qorshooyinka calaamadaynta Wall Street, iyada oo la beegsanayo soo-bandhigista 2027"
+    },
+    {
+      "title": "Crypto for Advisors: The blockchain built to run financial markets",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T15:34:29+00:00",
+      "title_so": "Crypto loogu talagalay La-taliyayaasha: Blockchain-ka loo dhisay si uu u socodsiiyo suuqyada maaliyadeed"
+    },
+    {
+      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T15:26:39+00:00",
+      "title_so": "Waxa aan ognahay sida maamulaha Nvidia Jensen Huang uu isu casilay eedeymo la xiriira"
+    },
+    {
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T15:10:32+00:00",
+      "title_so": "Waa ayo maamulaha ku meel gaadhka ah ee Nvidia Colette Kress - yaase si joogto ah ula wareegi kara?"
+    },
+    {
+      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+      "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T14:45:00+00:00",
+      "title_so": "Jupiter wuxuu ku daraa USDGO-da ay taageerto Anchorage ilaa $1 bilyan ee Solana madal amaahda"
+    },
+    {
+      "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
+      "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T14:44:39+00:00",
+      "title_so": "Jensen Huang wuxuu iska casilayaa maamulaha Nvidia, iyadoo CFO Colette Kress loo magacaabay madaxa ku meel gaarka ah"
+    },
+    {
+      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T14:29:59+00:00",
+      "title_so": "Poundland waxay helaysaa waqti dheeraad ah si ay u xaqiijiso heshiiska samatabbixinta iyadoo wadahadalada degdega ah ay sii socdaan"
+    },
+    {
+      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+      "url": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T14:24:51+00:00",
+      "title_so": "Koongarayska soo socdaa wuxuu qori doonaa xeerar AI iyo teknoolajiyada soo baxaya. Waa inay marka hore isticmaalaan alaabta."
+    },
+    {
+      "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
+      "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T14:01:02+00:00",
+      "title_so": "SoFi waxay keentaa Stablecoin oo uu bangigu soo saaray kaydka lacag bixinta ee Polygon"
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+      "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T13:59:02+00:00",
+      "title_so": "Jensen Huang wuxuu iska casilay maamulaha Nvidia, wuxuu ka tagay guddiga; saamiyadu hoos u dhacaan"
+    },
+    {
+      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+      "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T13:57:53+00:00",
+      "title_so": "Maamulaha Nvidia Huang wuxuu ka tagay shirkad uu wax ka aasaasay, oo hogaaminayay 3 sano. Saamiyada ayaa hoos u dhacay"
+    },
+    {
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T13:52:39+00:00",
+      "title_so": "Saamiyada Bit Digital ayaa hoos u dhacay 5% suuqa kahor ka dib dakhligii Q3 oo seegay"
+    },
+    {
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T13:44:03+00:00",
+      "title_so": "Tayland waxay soo jeedinaysaa $148k maalin kasta koofiyad ku saabsan dhigaalka iyo ka bixista stablecoin"
+    },
+    {
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
+      "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T13:31:59+00:00",
+      "title_so": "Khasaaraha jabsiga Crypto wuxuu la mid yahay 57 senti halkii $1 ee la kasbaday onchain: Ark's Valente"
+    },
+    {
+      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+      "url": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T13:30:00+00:00",
+      "title_so": "Alt-L1s miyay dhammaatay? Ammaanka, kharashyadu waxay u kaxeeyaan silsilado yaryar Ethereum"
+    },
     {
       "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
       "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-12T13:27:09+00:00",
-      "title_so": null
+      "title_so": "Faysal Islaam: Waa maxay sababta dhaqaalaha UK uu si la yaab leh u adkeysanayo"
     },
     {
       "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
       "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-12T13:25:47+00:00",
-      "title_so": null
+      "published": "2026-11-12T13:25:47+00:00"
     },
     {
       "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
       "url": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-12T13:21:56+00:00",
-      "title_so": null
+      "published": "2026-11-12T13:21:56+00:00"
     },
     {
       "title": "Some under-25s should get fewer benefits, Milburn review to say",
@@ -38,80 +188,63 @@
       "url": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-12T13:06:24+00:00",
-      "title_so": null
+      "published": "2026-11-12T13:06:24+00:00"
     },
     {
       "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
       "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-12T12:21:43+00:00",
-      "title_so": null
+      "published": "2026-11-12T12:21:43+00:00"
     },
     {
       "title": "Bitcoin weakness erases September's bullish signal",
       "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-12T12:15:00+00:00",
-      "title_so": null
+      "published": "2026-11-12T12:15:00+00:00"
     },
     {
       "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
       "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-12T12:04:42+00:00",
-      "title_so": null
+      "published": "2026-11-12T12:04:42+00:00"
     },
     {
       "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
       "url": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-12T12:03:10+00:00",
-      "title_so": null
+      "published": "2026-11-12T12:03:10+00:00"
     },
     {
       "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
       "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-12T11:43:41+00:00",
-      "title_so": null
+      "published": "2026-11-12T11:43:41+00:00"
     },
     {
       "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
       "url": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-12T11:38:50+00:00",
-      "title_so": null
+      "published": "2026-11-12T11:38:50+00:00"
     },
     {
       "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
       "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-12T11:30:00+00:00",
-      "title_so": null
+      "published": "2026-11-12T11:30:00+00:00"
     },
     {
       "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
       "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-12T11:24:19+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T11:21:25+00:00",
-      "title_so": null
+      "published": "2026-11-12T11:24:19+00:00"
     },
     {
       "title": "UK economy grows at fastest rate for more than two years",
@@ -126,32 +259,28 @@
       "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-12T11:00:00+00:00",
-      "title_so": null
+      "published": "2026-11-12T11:00:00+00:00"
     },
     {
       "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
       "url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-12T10:42:06+00:00",
-      "title_so": null
+      "published": "2026-11-12T10:42:06+00:00"
     },
     {
       "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
       "url": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-12T10:32:35+00:00",
-      "title_so": null
+      "published": "2026-11-12T10:32:35+00:00"
     },
     {
       "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
       "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-12T10:30:29+00:00",
-      "title_so": null
+      "published": "2026-11-12T10:30:29+00:00"
     },
     {
       "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
@@ -170,12 +299,11 @@
       "title_so": "Cadaadiska ayaa kor u kaca Nvidia's Jensen Huang iyada oo ay jiraan Warbixinnada Arrinta Labaad"
     },
     {
-      "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
+      "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
       "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-12T09:15:04+00:00",
-      "title_so": null
+      "published": "2026-11-12T09:15:04+00:00"
     },
     {
       "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
@@ -258,28 +386,12 @@
       "title_so": "Binance CSO waxay si aan ula kac ahayn u saadaalisay $6.3B xeeladda jabsiga bilaha ka hor weerarka"
     },
     {
-      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T04:18:33+00:00",
-      "title_so": "Waxa aan ognahay sida cadaadisku ku dhisayo madaxa Nvidia Jensen Huang"
-    },
-    {
       "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
       "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-12T04:03:47+00:00",
       "title_so": "Nvidia perps ayaa burburtay 7% iyadoo maamulaha guud Jensen Huang la sheegay inuu wajahayo faashka"
-    },
-    {
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T00:49:05+00:00",
-      "title_so": "Poundland ayaa u qoondaysay waqti dheeri ah si ay u xaqiijiso heshiiska samatabbixinta iyadoo wadahadalada degdega ah ay socdaan"
     },
     {
       "title": "MSCI confirms Strategy’s removal from indexes at end of November",
@@ -432,134 +544,6 @@
       "category": "Crypto",
       "published": "2026-11-11T16:00:45+00:00",
       "title_so": "Crypto Long & Short: Damaanadqaadyada Xeerka GENIUS ma daboolayaan amaahinta DeFi"
-    },
-    {
-      "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
-      "url": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T14:02:55+00:00",
-      "title_so": "Decrypt Wuxuu Noqday Daabacihii Ugu Horreeyay Ee War Bixinta Perps Trading, oo ay ku shaqeyso Solana's Phoenix"
-    },
-    {
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T14:02:18+00:00",
-      "title_so": "Deutsche Bank wuxuu bilaabay haynta crypto ee shirkadaha iyo hay'adaha"
-    },
-    {
-      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
-      "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T13:30:00+00:00",
-      "title_so": "Burburka bangiga Paraguay wuxuu muujinayaa 'stablecoins' waxay bixin karaan khad nololeed ... noocyo kala duwan ah"
-    },
-    {
-      "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T13:26:18+00:00",
-      "title_so": "Axdiyada Bitcoin Qaybta 5: MATT iyo OP_CHECKCONTRACTVERIFY - Sidee Seeraar u qaadi kartaa xaaladda wax kala iibsiga"
-    },
-    {
-      "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
-      "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T13:02:30+00:00",
-      "title_so": "Saamiga CoreWeave wuxuu ku boodaa 15% premarket ka dib dakhliga Q3 wuxuu garaacay qiyaasaha"
-    },
-    {
-      "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
-      "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-11T13:00:00+00:00",
-      "title_so": "OKXICE si ay ugu horeyso ganacsiga saamiyada calaamadeysan ee Strategy, Coinbase, Circle bishaan"
-    },
-    {
-      "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
-      "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-11T12:57:36+00:00",
-      "title_so": "La kulan Spiko, sanduuqa calaamadaynta ee ugu weyn adduunka oo aadan weligaa maqlin"
-    },
-    {
-      "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
-      "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T12:55:18+00:00",
-      "title_so": "Daqiiqada Subaxda: Maxay Anthropic's $1.4 Trillion IPO uga dhigan tahay Crypto"
-    },
-    {
-      "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
-      "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T12:46:24+00:00",
-      "title_so": "Payward Parent Kraken Keeniyaa 200 UK iyo EU Stocks Onchain sida xStocks"
-    },
-    {
-      "title": "FSB urges Turkey to tighten crypto oversight, set stablecoin rules",
-      "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T12:44:10+00:00",
-      "title_so": "FSB waxay ku boorineysaa Turkiga in ay adkeeyaan kormeerka crypto, dejiyaan xeerarka xasilloonida"
-    },
-    {
-      "title": "Zcash falls below $1,000 for first time since September",
-      "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T12:31:44+00:00",
-      "title_so": "Zcash ayaa hoos uga dhacday $1,000 markii ugu horeysay tan iyo Sebtembar"
-    },
-    {
-      "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-      "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-11T12:21:24+00:00",
-      "title_so": "Warka tooska ah: Bitcoin ayaa weli cadaadis ku jirta sida CoreWeave, Nvidia hogaanka AI dib u soo celinta"
-    },
-    {
-      "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-11T12:19:30+00:00",
-      "title_so": "Bitcoin si dirqi ah ayey ugu rogmataa CPI-da kulul iyadoo iibinta ETF ay hoos u dhacday"
-    },
-    {
-      "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
-      "url": "https://decrypt.co/382991/nvidia-sheds-430b-in-two-days-as-jensen-huang-faces-calls-to-resign",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T12:15:46+00:00",
-      "title_so": "Nvidia waxay ku daadisaa $430B laba maalmood gudahood iyadoo Jensen Huang uu wajahayo ugu baaqaya inuu iscasilo"
-    },
-    {
-      "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
-      "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T11:56:23+00:00",
-      "title_so": "Barclays waxay kor u qaadaysaa saamiga BlackRock Bitcoin ETF 48% iyadoo bangiyadu ay balaadhinayaan hantidooda"
-    },
-    {
-      "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-      "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-11T11:37:04+00:00",
-      "title_so": "Bitcoin waxay fadhiisataa dib-u-soo-noqoshada saamiyada iyadoo ETF-ka bixitaanku ay korayaan maalinta afraad"
     }
   ]
 }
