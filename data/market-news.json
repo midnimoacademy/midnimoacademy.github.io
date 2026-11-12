@@ -1,21 +1,85 @@
 {
-  "updated_at": "2026-11-12T04:14:54.489320+00:00",
+  "updated_at": "2026-11-12T07:39:52.310802+00:00",
   "items": [
     {
-      "title": "Bitcoin listless, Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
-      "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T07:32:41+00:00",
+      "title_so": "Dhaqaalaha UK waxa uu ku koraa heerka ugu dhaqsaha badan in ka badan laba sano"
+    },
+    {
+      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+      "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-12T04:03:47+00:00",
-      "title_so": null
+      "published": "2026-11-12T07:00:37+00:00",
+      "title_so": "MSCI waxay ka saaraysaa Istaraatiijiyadda tusmaheeda, ka-saaridduna waxay ku dhufan kartaa mishiinkeeda bitcoin-iibsiga"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T06:00:00+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T05:54:48+00:00",
+      "title_so": "Kuuriyada Koofureed si ay u oggolaato ka bixitaanka crypto inta lagu jiro hanjabaadaha jabsiga"
+    },
+    {
+      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+      "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T05:49:44+00:00",
+      "title_so": "Dadka haysta Zcash si ay ugu codeeyaan ka soo jiidashada 50,000 ZEC, oo qiimaheedu dhan yahay $50 milyan, khasnada deeqaha"
+    },
+    {
+      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+      "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T05:22:31+00:00",
+      "title_so": "Bitcoin Core wuxuu daaha ka qaaday bug ka dhigay kumanaan qanjidhyo ah inay aaminaan shisheeye kasta oo Tor ah"
+    },
+    {
+      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+      "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T05:18:43+00:00",
+      "title_so": "Nidaamka amaahinta bangiga ee Ripple ayaa ku soo dhawaaday in lagu bilaabo Ledger-ka XRP"
+    },
+    {
+      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+      "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T05:07:11+00:00",
+      "title_so": "Binance CSO waxay si aan ula kac ahayn u saadaalisay $6.3B xeeladda jabsiga bilaha ka hor weerarka"
     },
     {
       "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
       "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-12T04:01:14+00:00",
-      "title_so": null
+      "published": "2026-11-12T04:18:33+00:00",
+      "title_so": "Waxa aan ognahay sida cadaadisku ku dhisayo madaxa Nvidia Jensen Huang"
+    },
+    {
+      "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+      "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T04:03:47+00:00",
+      "title_so": "Nvidia perps ayaa burburtay 7% iyadoo maamulaha guud Jensen Huang la sheegay inuu wajahayo faashka"
     },
     {
       "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
@@ -31,7 +95,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-12T00:09:13+00:00",
-      "title_so": null
+      "title_so": "MSCI waxay xaqiijisaa ka saarida Istaraatiijiyada tusmooyinka dhamaadka Noofembar"
     },
     {
       "title": "From Paris to DC - why offices are being turned into apartments",
@@ -39,7 +103,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-12T00:05:40+00:00",
-      "title_so": null
+      "title_so": "Laga soo bilaabo Paris ilaa DC - sababta xafiisyada looga dhigay guri dabaqyo ah"
     },
     {
       "title": "Some under-25s should get fewer benefits, Milburn review to say",
@@ -47,7 +111,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-11T23:22:04+00:00",
-      "title_so": null
+      "title_so": "Qaar ka mid ah kuwa ka hooseeya 25 waa inay helaan faa'iidooyin ka yar, Milburn dib u eegista si loo yiraahdo"
     },
     {
       "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
@@ -55,7 +119,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-11T23:18:44+00:00",
-      "title_so": null
+      "title_so": "Jeebka Suiet si loo xidho bixitaankii ugu dambeeyay ee nidaamka deegaanka Sui"
     },
     {
       "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
@@ -63,7 +127,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-11T22:44:47+00:00",
-      "title_so": null
+      "title_so": "Nvidia waxay isku diyaarineysaa inay meesha ka saarto maamulaha guud Jensen Huang ka dib arrimaha: WSJ"
     },
     {
       "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
@@ -71,15 +135,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-11T22:36:03+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T22:15:26+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+      "title_so": "Nvidia-Backed CoreWeave ayaa kor u kacaysa: Waa tan waxa ay uga dhigan tahay Boomka AI"
     },
     {
       "title": "Uncalled US House races could send more crypto allies to Congress",
@@ -87,7 +143,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-11T22:05:17+00:00",
-      "title_so": null
+      "title_so": "Jinsiyada Aqalka Mareykanka ee aan la magacaabin waxay u diri karaan xulafo badan oo crypto Congress-ka"
     },
     {
       "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
@@ -95,15 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-11T21:46:03+00:00",
-      "title_so": null
-    },
-    {
-      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-11T21:42:20+00:00",
-      "title_so": null
+      "title_so": "Stablecoin Drain, ETF Outflows waxay ka tagtaa Bitcoin 'Ku Socota Madhan'"
     },
     {
       "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
@@ -111,7 +159,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-11T21:36:01+00:00",
-      "title_so": null
+      "title_so": "Nomura wuxuu sahamiyaa iibinta unugga crypto Laser Digital: Bloomberg"
     },
     {
       "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
@@ -119,7 +167,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-11T21:16:03+00:00",
-      "title_so": null
+      "title_so": "Dadka haysta Bitcoin Muddada-gaaban waxay u diraan $3.6 Billion BTC wax-bedelka khasaare"
     },
     {
       "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
@@ -127,23 +175,21 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-11T20:43:19+00:00",
-      "title_so": null
+      "title_so": "Xayiraadaha xarumaha xogta ee Maraykanku waxay siin karaan macdanta Bitcoin gees AI, in kasta oo caqabadaha ay weli jiraan"
     },
     {
       "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
       "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-11T20:16:02+00:00",
-      "title_so": null
+      "published": "2026-11-11T20:16:02+00:00"
     },
     {
       "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
       "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-11T19:36:02+00:00",
-      "title_so": null
+      "published": "2026-11-11T19:36:02+00:00"
     },
     {
       "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
@@ -282,12 +328,11 @@
       "title_so": "Payward Parent Kraken Keeniyaa 200 UK iyo EU Stocks Onchain sida xStocks"
     },
     {
-      "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+      "title": "FSB urges Turkey to tighten crypto oversight, set stablecoin rules",
       "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-11T12:44:10+00:00",
-      "title_so": "FSB waxay ku boorineysaa Turkiga inay xoojiso kormeerka crypto, dejiso xeerarka xasilloonida"
+      "published": "2026-11-11T12:44:10+00:00"
     },
     {
       "title": "Zcash falls below $1,000 for first time since September",
@@ -302,32 +347,28 @@
       "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-11T12:21:24+00:00",
-      "title_so": null
+      "published": "2026-11-11T12:21:24+00:00"
     },
     {
       "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
       "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-11T12:19:30+00:00",
-      "title_so": null
+      "published": "2026-11-11T12:19:30+00:00"
     },
     {
       "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
       "url": "https://decrypt.co/382991/nvidia-sheds-430b-in-two-days-as-jensen-huang-faces-calls-to-resign",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-11T12:15:46+00:00",
-      "title_so": null
+      "published": "2026-11-11T12:15:46+00:00"
     },
     {
       "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
       "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-11T11:56:23+00:00",
-      "title_so": null
+      "published": "2026-11-11T11:56:23+00:00"
     },
     {
       "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
@@ -421,20 +462,6 @@
       "published": "2026-11-11T07:52:05+00:00"
     },
     {
-      "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
-      "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T05:52:14+00:00"
-    },
-    {
-      "title": "Across Protocol restores website after hackers hijack domain",
-      "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T04:42:30+00:00"
-    },
-    {
       "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -511,38 +538,6 @@
       "category": "Crypto",
       "published": "2026-11-10T18:33:37+00:00",
       "title_so": "Goldman, Citi iyo Bangiyada Caalamiga ah waxay ballan qaadeen $270 milyan si ay uga hortagaan Crypto's Stablecoin Giants"
-    },
-    {
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-10T17:56:12+00:00",
-      "title_so": "Sameeyaha Claude chatbot wuxuu dajiyay $1.3tn suuqa saamiyada ee ugu horeysay in kasta oo 'masiibo' AI looga digay"
-    },
-    {
-      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
-      "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-10T17:32:22+00:00",
-      "title_so": "Goldman Sachs, Citi oo ka mid ah bangiyada ayaa sheegay in ay ku bixinayaan $270 milyan si ay u maalgashadaan xasilloonida"
-    },
-    {
-      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-10T17:07:22+00:00",
-      "title_so": "Crypto hadda waxay la socotaa dawladda Maraykanka laba dagaal oo sharci ah oo ku saabsan perps"
-    },
-    {
-      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-10T17:04:55+00:00",
-      "title_so": "Kim Kardashian's Skims waxa ay soo celisaa $148 kalandarka imaanshaha ka dib dib u dhac"
     }
   ]
 }
