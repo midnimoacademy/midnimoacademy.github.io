@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-13T01:28:39.013960+00:00",
+  "updated_at": "2026-11-13T04:14:55.581551+00:00",
   "items": [
+    {
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-13T03:57:01+00:00",
+      "title_so": "Madaxii hore ee NVIDIA Jensen Huang ayaa u yeedhay si uu uga markhaati furo Congress-ka hortiisa arrinta ku saabsan eedaymaha basaaska Shiinaha"
+    },
+    {
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-13T03:37:00+00:00",
+      "title_so": "Bitcoin ayaa hoos u dhacaysa $70,000 iyadoo Tusmada Doolarka ay sare u kacday 19-bilood"
+    },
+    {
+      "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
+      "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-13T02:29:27+00:00",
+      "title_so": "Trump ayaa u magacaabay ku-xigeenka Hester Peirce ee SEC, CFTC"
+    },
+    {
+      "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+      "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-13T01:26:27+00:00",
+      "title_so": "Madaxii hore ee Nvidia Huang ayaa lahaa dacwad saddexaad: Reuters"
+    },
     {
       "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
       "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -16,14 +48,6 @@
       "category": "Economy",
       "published": "2026-11-13T00:13:35+00:00",
       "title_so": "Kor u kaca 'guri kaluumaysi' - goorma ayay adeegsiga AI ka baxaysaa horumarinta ilaa marin habaabinta?"
-    },
-    {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T23:34:05+00:00",
-      "title_so": "Fadeexad ku dhacday maamulaha Nvidia Jensen Huang ayaa shaqada ka tagay, isaga oo ku riday fadeexad weyn"
     },
     {
       "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
@@ -136,14 +160,6 @@
       "category": "Crypto",
       "published": "2026-11-12T20:36:03+00:00",
       "title_so": "Waa maxay sababta Waddada Iska-caabbinta Quantum-ku ay kor ugu socoto kuwa sameeya jeebka Bitcoin"
-    },
-    {
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T20:25:29+00:00",
-      "title_so": "Microsoft waxay la halgamaysaa soo celinta adeegga maadaama maqnaanshaha caalamiga ahi uu saameeyay Muuqaalka iyo Kooxaha"
     },
     {
       "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
@@ -544,22 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-12T05:49:44+00:00",
       "title_so": "Dadka haysta Zcash si ay ugu codeeyaan ka soo jiidashada 50,000 ZEC, oo qiimaheedu dhan yahay $50 milyan, khasnada deeqaha"
-    },
-    {
-      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-12T05:22:31+00:00",
-      "title_so": "Bitcoin Core wuxuu daaha ka qaaday bug ka dhigay kumanaan qanjidhyo ah inay aaminaan shisheeye kasta oo Tor ah"
-    },
-    {
-      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-      "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-12T05:18:43+00:00",
-      "title_so": "Nidaamka amaahinta bangiga ee Ripple ayaa ku soo dhawaaday in lagu bilaabo Ledger-ka XRP"
     }
   ]
 }
