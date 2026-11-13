@@ -1,29 +1,85 @@
 {
-  "updated_at": "2026-11-13T16:06:43.024183+00:00",
+  "updated_at": "2026-11-13T19:15:57.448847+00:00",
   "items": [
+    {
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-13T18:39:58+00:00",
+      "title_so": "Seeraar waxay hoos ugu dhacday $68,000 iyadoo fawdada IPO ee Anthropic ay ku dartay jahwareerka suuqa"
+    },
+    {
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-13T18:36:57+00:00",
+      "title_so": "Waa maxay sababta maqnaanshaha Microsoft uu u sii raagayo iimayladana waa la waayi doonaa?"
+    },
+    {
+      "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
+      "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-13T18:36:02+00:00",
+      "title_so": "Guddoomiyaha Fed Warsh wuxuu rabaa jawaabo ku saabsan sicir bararka AI-iyo Bitcoin ayaa laga yaabaa inay dareemaan saameynta"
+    },
+    {
+      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+      "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-13T18:28:29+00:00",
+      "title_so": "Metaplanet waxay isu beddeshaa $170M khasaara iyadoo iibka Bitcoin uu kor u kaco dakhliga"
+    },
+    {
+      "title": "Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators",
+      "url": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-13T17:56:03+00:00",
+      "title_so": "Doorashadii Dimuqraadiga ee ugu horeysay ee Trump ee SEC iyo CFTC waxay dib u qaabayn kartaa Nidaamiyeyaasha Crypto"
+    },
+    {
+      "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+      "url": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-13T17:22:54+00:00",
+      "title_so": "Seeraar waxay ku dhufatay 12-todobaad hoose iyadoo heerka Fed uu ka baqayo Badi Dibadbaxa Xagaaga"
+    },
+    {
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-13T17:05:43+00:00",
+      "title_so": "Guddiga Bangiyada ee Senate-ka Mareykanka ayaa u tartamaya dhageysiga magacaabista SEC ee cusub"
+    },
+    {
+      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+      "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-13T16:39:11+00:00",
+      "title_so": "Seeraar waxay haysaa wax ka hooseeya $70k sida kaydku u sii dhacayo inkasta oo daabacaadda PPI ee US qabow tahay"
+    },
     {
       "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-13T16:01:27+00:00",
-      "title_so": null
+      "title_so": "Seeraar ayaa madax u ah khasaaraha lixaad ee toddobaadlaha ah sida Anthropic's blockbuster IPO soo socda"
     },
     {
-      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-13T15:40:08+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Why is the Microsoft outage lasting so long?",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-13T14:21:26+00:00",
-      "title_so": null
+      "title_so": "Cadaadisku wuxuu ku sii kordhayaa Xoghayaha Ganacsiga ee Trump Lutnick ee ka soo horjeeda fadeexadda Nvidia"
     },
     {
       "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
@@ -31,7 +87,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-13T14:02:00+00:00",
-      "title_so": null
+      "title_so": "Kraken waalidka Payward ayaa sheegay in ballaarinta ka baxsan ganacsiga crypto ay ka caawiso hoos u dhaca dakhliga"
     },
     {
       "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
@@ -39,7 +95,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-13T13:55:25+00:00",
-      "title_so": null
+      "title_so": "Dhaqayista Crypto 'Khatarta Walxaha' ee UK ka hor inta aan la eegin FATF: RUSI"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -55,7 +111,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-13T13:41:26+00:00",
-      "title_so": null
+      "title_so": "Arthur Hayes 'waa la yaabay' sida Coinbase ay u taageerto saamiyada US"
     },
     {
       "title": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
@@ -63,7 +119,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-13T13:36:29+00:00",
-      "title_so": null
+      "title_so": "'Roadmap'ku wuu dhameystiran yahay,' aasaasaha Cardano Charles Hoskinson ayaa yiri"
     },
     {
       "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
@@ -71,7 +127,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-13T13:04:19+00:00",
-      "title_so": null
+      "title_so": "Saamiyada Nakamoto ayaa hoos u dhacay 6% ka dib markii dakhliga Q3 uu noqdo mid xun"
     },
     {
       "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
@@ -79,7 +135,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-13T13:03:40+00:00",
-      "title_so": null
+      "title_so": "Daqiiqada Subaxda: Crypto Plummets sida Jensen Huang uga baxo Nvidia"
     },
     {
       "title": "How a sex scandal at Nvidia is putting pressure on the White House",
@@ -87,7 +143,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-13T12:22:30+00:00",
-      "title_so": null
+      "title_so": "Sida fadeexadda galmada ee Nvidia ay cadaadis saarayso Aqalka Cad"
     },
     {
       "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
@@ -95,7 +151,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-13T12:19:01+00:00",
-      "title_so": null
+      "title_so": "Bilayska Israa'iil ayaa xidhay shan $5 milyan oo doolar oo ah baaritaanka ganacsiga crypto ee WhatsApp"
     },
     {
       "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
@@ -103,7 +159,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-13T12:14:22+00:00",
-      "title_so": null
+      "title_so": "Qiyaasta xawliga Bitcoin ayaa guduudaneysa, waxay dib u soo celin kartaa qiimaha ka hooseeya $60,000"
     },
     {
       "title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
@@ -111,66 +167,59 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-13T11:58:47+00:00",
-      "title_so": null
+      "title_so": "Shaqaalaha Nvidia ayaa riixaya guddiga si ay u soo celiyaan Jensen Huang: Warbixin"
     },
     {
       "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-13T11:52:25+00:00",
-      "title_so": null
+      "published": "2026-11-13T11:52:25+00:00"
     },
     {
       "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
       "url": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-13T11:20:44+00:00",
-      "title_so": null
+      "published": "2026-11-13T11:20:44+00:00"
     },
     {
       "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
       "url": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-13T10:55:54+00:00",
-      "title_so": null
+      "published": "2026-11-13T10:55:54+00:00"
     },
     {
       "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
       "url": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-13T09:58:21+00:00",
-      "title_so": null
+      "published": "2026-11-13T09:58:21+00:00"
     },
     {
       "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
       "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-13T09:39:05+00:00",
-      "title_so": null
+      "published": "2026-11-13T09:39:05+00:00"
     },
     {
       "title": "Heat pumps: How much heat does your home really need?",
       "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-13T09:29:25+00:00",
-      "title_so": null
+      "published": "2026-11-13T09:29:25+00:00"
     },
     {
       "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
       "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-13T09:27:14+00:00",
-      "title_so": null
+      "published": "2026-11-13T09:27:14+00:00"
     },
     {
-      "title": "Live updates: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
+      "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
       "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
       "source": "CoinDesk",
       "category": "Crypto",
@@ -495,62 +544,6 @@
       "category": "Crypto",
       "published": "2026-11-12T14:45:00+00:00",
       "title_so": "Jupiter wuxuu ku daraa USDGO-da ay taageerto Anchorage ilaa $1 bilyan ee Solana madal amaahda"
-    },
-    {
-      "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
-      "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-12T14:44:39+00:00",
-      "title_so": "Jensen Huang wuxuu iska casilayaa maamulaha Nvidia, iyadoo CFO Colette Kress loo magacaabay madaxa ku meel gaarka ah"
-    },
-    {
-      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T14:29:59+00:00",
-      "title_so": "Poundland waxay helaysaa waqti dheeraad ah si ay u xaqiijiso heshiiska samatabbixinta iyadoo wadahadalada degdega ah ay sii socdaan"
-    },
-    {
-      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
-      "url": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-12T14:24:51+00:00",
-      "title_so": "Koongarayska soo socdaa wuxuu qori doonaa xeerar AI iyo teknoolajiyada soo baxaya. Waa inay marka hore isticmaalaan alaabta."
-    },
-    {
-      "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
-      "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-12T14:01:02+00:00",
-      "title_so": "SoFi waxay keentaa Stablecoin oo uu bangigu soo saaray kaydka lacag bixinta ee Polygon"
-    },
-    {
-      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
-      "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T13:59:02+00:00",
-      "title_so": "Jensen Huang wuxuu iska casilay maamulaha Nvidia, wuxuu ka tagay guddiga; saamiyadu hoos u dhacaan"
-    },
-    {
-      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
-      "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-12T13:57:53+00:00",
-      "title_so": "Maamulaha Nvidia Huang wuxuu ka tagay shirkad uu wax ka aasaasay, oo hogaaminayay 3 sano. Saamiyada ayaa hoos u dhacay"
-    },
-    {
-      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
-      "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T13:52:39+00:00",
-      "title_so": "Saamiyada Bit Digital ayaa hoos u dhacay 5% suuqa kahor ka dib dakhligii Q3 oo seegay"
     }
   ]
 }
