@@ -1,6 +1,102 @@
 {
-  "updated_at": "2026-11-12T22:02:45.051935+00:00",
+  "updated_at": "2026-11-13T01:28:39.013960+00:00",
   "items": [
+    {
+      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
+      "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-13T00:52:42+00:00",
+      "title_so": "Gemini mugga ganacsiga tafaariiqda saddexdii biloodlaha ah wuxuu hoos ugu dhacayaa 3-sano"
+    },
+    {
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-13T00:13:35+00:00",
+      "title_so": "Kor u kaca 'guri kaluumaysi' - goorma ayay adeegsiga AI ka baxaysaa horumarinta ilaa marin habaabinta?"
+    },
+    {
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T23:34:05+00:00",
+      "title_so": "Fadeexad ku dhacday maamulaha Nvidia Jensen Huang ayaa shaqada ka tagay, isaga oo ku riday fadeexad weyn"
+    },
+    {
+      "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
+      "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T23:12:55+00:00",
+      "title_so": "Istiraatijiyadda Maple Finance waxay u dirtaa la-aasaasaha, COO meelaha laga baxo"
+    },
+    {
+      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T22:55:52+00:00",
+      "title_so": "Jabsiga Kuuriyada Waqooyi ee Binance ayaa wajahaya cadaadis Mareykan ah iyadoo DOJ ay bartilmaameedsatay $1.2 bilyan oo crypto la xaday."
+    },
+    {
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T22:51:18+00:00",
+      "title_so": "Qaar ka mid ah kuwa ka hooseeya 25 waa inay helaan faa'iidooyin ka yar, Milburn dib u eegista si loo yiraahdo"
+    },
+    {
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-12T22:47:41+00:00",
+      "title_so": "Madaxweynaha Mareykanka Trump ayaa magacaabay CFTC, SEC markii ugu horeysay muddo sanad ah"
+    },
+    {
+      "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+      "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T22:36:02+00:00",
+      "title_so": "Senetarka Jamhuuriga waxa uu rabaa in uu qaboojiyo kobcinta Xarunta Xogta AI iyada oo Koongarasku riixayo in uu ballaariyo"
+    },
+    {
+      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T22:29:58+00:00",
+      "title_so": "NK hackers waxay ku biiraan memecoin trenches, xStocks waxay ku daraysaa sinnaanta Hong Kong: Asia Express"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T22:11:41+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+      "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-12T22:06:03+00:00",
+      "title_so": "Kuuriyada Woqooyi waxay xaday $400 milyan oo Crypto iyadoo la adeegsanayo Wicitaannada Fiidiyowga Deepfake, DOJ ayaa leh"
+    },
+    {
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-12T22:05:01+00:00",
+      "title_so": "Kalshi wuxuu soo afjaray Donald Trump Jr. door la-talin ah oo ku saabsan maalgashiga Polymarket: Reuters"
+    },
     {
       "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
       "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -42,6 +138,14 @@
       "title_so": "Waa maxay sababta Waddada Iska-caabbinta Quantum-ku ay kor ugu socoto kuwa sameeya jeebka Bitcoin"
     },
     {
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-12T20:25:29+00:00",
+      "title_so": "Microsoft waxay la halgamaysaa soo celinta adeegga maadaama maqnaanshaha caalamiga ahi uu saameeyay Muuqaalka iyo Kooxaha"
+    },
+    {
       "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
       "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -74,28 +178,12 @@
       "title_so": "Canshuurta Crypto Illinois Isbahaysiga DOJ, Bangiyada iyo DeFi aan suurtogal ahayn"
     },
     {
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T17:32:14+00:00",
-      "title_so": "Qaar ka mid ah kuwa ka hooseeya 25 waa inay helaan faa'iidooyin ka yar, Milburn dib u eegista si loo yiraahdo"
-    },
-    {
       "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
       "url": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-12T17:14:42+00:00",
       "title_so": "'Qallad Wayn': Tech, AI iyo Aasaasayaasha Crypto waxay ka falceliyaan ka bixitaanka Jensen Huang's Nvidia"
-    },
-    {
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T17:11:48+00:00",
-      "title_so": "Sare u kaca iyo hoos u dhaca Jensen Huang - sida xiddigta teknoolajiyada u noqday fadeexad"
     },
     {
       "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
@@ -152,14 +240,6 @@
       "category": "Crypto",
       "published": "2026-11-12T15:34:29+00:00",
       "title_so": "Crypto loogu talagalay La-taliyayaasha: Blockchain-ka loo dhisay si uu u socodsiiyo suuqyada maaliyadeed"
-    },
-    {
-      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T15:26:39+00:00",
-      "title_so": "Waxa aan ognahay sida maamulaha Nvidia Jensen Huang uu isu casilay eedeymo la xiriira"
     },
     {
       "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
@@ -450,14 +530,6 @@
       "title_so": "MSCI waxay ka saaraysaa Istaraatiijiyadda tusmaheeda, ka-saaridduna waxay ku dhufan kartaa mishiinkeeda bitcoin-iibsiga"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T06:00:00+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
       "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
       "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -488,78 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-12T05:18:43+00:00",
       "title_so": "Nidaamka amaahinta bangiga ee Ripple ayaa ku soo dhawaaday in lagu bilaabo Ledger-ka XRP"
-    },
-    {
-      "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
-      "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T05:07:11+00:00",
-      "title_so": "Binance CSO waxay si aan ula kac ahayn u saadaalisay $6.3B xeeladda jabsiga bilaha ka hor weerarka"
-    },
-    {
-      "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
-      "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-12T04:03:47+00:00",
-      "title_so": "Nvidia perps ayaa burburtay 7% iyadoo maamulaha guud Jensen Huang la sheegay inuu wajahayo faashka"
-    },
-    {
-      "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-      "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T00:09:13+00:00",
-      "title_so": "MSCI waxay xaqiijisaa ka saarida Istaraatiijiyada tusmooyinka dhamaadka Noofembar"
-    },
-    {
-      "title": "Suiet wallet to shut down in latest exit from Sui ecosystem",
-      "url": "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T23:18:44+00:00",
-      "title_so": "Jeebka Suiet si loo xidho bixitaankii ugu dambeeyay ee nidaamka deegaanka Sui"
-    },
-    {
-      "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
-      "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T22:44:47+00:00",
-      "title_so": "Nvidia waxay isku diyaarineysaa inay meesha ka saarto maamulaha guud Jensen Huang ka dib arrimaha: WSJ"
-    },
-    {
-      "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
-      "url": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T22:36:03+00:00",
-      "title_so": "Nvidia-Backed CoreWeave ayaa kor u kacaysa: Waa tan waxa ay uga dhigan tahay Boomka AI"
-    },
-    {
-      "title": "Uncalled US House races could send more crypto allies to Congress",
-      "url": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T22:05:17+00:00",
-      "title_so": "Jinsiyada Aqalka Mareykanka ee aan la magacaabin waxay u diri karaan xulafo badan oo crypto Congress-ka"
-    },
-    {
-      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
-      "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-11T21:46:03+00:00",
-      "title_so": "Stablecoin Drain, ETF Outflows waxay ka tagtaa Bitcoin 'Ku Socota Madhan'"
-    },
-    {
-      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
-      "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-11T21:36:01+00:00",
-      "title_so": "Nomura wuxuu sahamiyaa iibinta unugga crypto Laser Digital: Bloomberg"
     }
   ]
 }
