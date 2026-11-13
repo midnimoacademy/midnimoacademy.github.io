@@ -1,9 +1,73 @@
 {
-  "updated_at": "2026-11-13T13:29:34.289952+00:00",
+  "updated_at": "2026-11-13T16:06:43.024183+00:00",
   "items": [
     {
+      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-13T16:01:27+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-13T15:40:08+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Why is the Microsoft outage lasting so long?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-13T14:21:26+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+      "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-13T14:02:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
+      "url": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-13T13:55:25+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-13T13:49:44+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
+      "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-13T13:41:26+00:00",
+      "title_so": null
+    },
+    {
+      "title": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
+      "url": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-13T13:36:29+00:00",
+      "title_so": null
+    },
+    {
       "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-      "url": "https://cointelegraph.com/news/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-13T13:04:19+00:00",
@@ -15,14 +79,6 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-13T13:03:40+00:00",
-      "title_so": null
-    },
-    {
-      "title": "What we know about the global Microsoft outage",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-13T12:31:49+00:00",
       "title_so": null
     },
     {
@@ -114,60 +170,46 @@
       "title_so": null
     },
     {
-      "title": "Live news: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
+      "title": "Live updates: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
       "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-13T09:16:58+00:00",
-      "title_so": null
+      "published": "2026-11-13T09:16:58+00:00"
     },
     {
       "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
       "url": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-13T09:05:10+00:00",
-      "title_so": null
+      "published": "2026-11-13T09:05:10+00:00"
     },
     {
       "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
       "url": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-13T08:26:01+00:00",
-      "title_so": null
+      "published": "2026-11-13T08:26:01+00:00"
     },
     {
       "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
       "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-13T07:05:29+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-13T06:16:46+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+      "published": "2026-11-13T07:05:29+00:00"
     },
     {
       "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-13T06:03:41+00:00",
-      "title_so": null
+      "published": "2026-11-13T06:03:41+00:00"
     },
     {
       "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
       "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-13T06:00:15+00:00",
-      "title_so": null
+      "published": "2026-11-13T06:00:15+00:00"
     },
     {
       "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
@@ -509,54 +551,6 @@
       "category": "Crypto",
       "published": "2026-11-12T13:52:39+00:00",
       "title_so": "Saamiyada Bit Digital ayaa hoos u dhacay 5% suuqa kahor ka dib dakhligii Q3 oo seegay"
-    },
-    {
-      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
-      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T13:44:03+00:00",
-      "title_so": "Tayland waxay soo jeedinaysaa $148k maalin kasta koofiyad ku saabsan dhigaalka iyo ka bixista stablecoin"
-    },
-    {
-      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
-      "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T13:31:59+00:00",
-      "title_so": "Khasaaraha jabsiga Crypto wuxuu la mid yahay 57 senti halkii $1 ee la kasbaday onchain: Ark's Valente"
-    },
-    {
-      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
-      "url": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T13:30:00+00:00",
-      "title_so": "Alt-L1s miyay dhammaatay? Ammaanka, kharashyadu waxay u kaxeeyaan silsilado yaryar Ethereum"
-    },
-    {
-      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-12T13:27:09+00:00",
-      "title_so": "Faysal Islaam: Waa maxay sababta dhaqaalaha UK uu si la yaab leh u adkeysanayo"
-    },
-    {
-      "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
-      "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-12T13:25:47+00:00",
-      "title_so": "DTCC si ay u keento kayd iyo kayd Tokenized Solana sanadka 2027"
-    },
-    {
-      "title": "Uber’s UK banking partner Griffin raises $20M for stablecoin services",
-      "url": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T13:21:56+00:00",
-      "title_so": "Uber's UK shuraakada bangiga Griffin ayaa kor u qaaday $20M adeegyada stablecoin"
     }
   ]
 }
