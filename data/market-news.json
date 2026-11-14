@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-13T22:00:41.164608+00:00",
+  "updated_at": "2026-11-14T01:24:47.464486+00:00",
   "items": [
+    {
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-13T23:30:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
+      "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-13T22:16:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-13T22:08:37+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-13T22:01:03+00:00",
+      "title_so": null
+    },
     {
       "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
       "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -162,14 +194,6 @@
       "title_so": "Dhaqayista Crypto 'Khatarta Walxaha' ee UK ka hor inta aan la eegin FATF: RUSI"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-13T13:49:44+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
       "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
       "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -310,24 +334,21 @@
       "url": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-13T08:26:01+00:00",
-      "title_so": null
+      "published": "2026-11-13T08:26:01+00:00"
     },
     {
       "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
       "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-13T07:05:29+00:00",
-      "title_so": null
+      "published": "2026-11-13T07:05:29+00:00"
     },
     {
       "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-13T06:03:41+00:00",
-      "title_so": null
+      "published": "2026-11-13T06:03:41+00:00"
     },
     {
       "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
@@ -532,30 +553,6 @@
       "category": "Crypto",
       "published": "2026-11-12T18:06:03+00:00",
       "title_so": "Nvidia, AMD, Broadcom: Ku guuleystayaasha saamiyada AI iyo kuwa khasaaray ka dib markii Jensen Huang's Ousting"
-    },
-    {
-      "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
-      "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-12T17:46:02+00:00",
-      "title_so": "Canshuurta Crypto Illinois Isbahaysiga DOJ, Bangiyada iyo DeFi aan suurtogal ahayn"
-    },
-    {
-      "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
-      "url": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-12T17:14:42+00:00",
-      "title_so": "'Qallad Wayn': Tech, AI iyo Aasaasayaasha Crypto waxay ka falceliyaan ka bixitaanka Jensen Huang's Nvidia"
-    },
-    {
-      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
-      "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-12T16:45:52+00:00",
-      "title_so": "Canshuurta crypto ee Illinois waa wax aan macquul aheyn in la dhaqan geliyo sida qoran, warshadaha crypto ayaa u sheegay maxkamada"
     }
   ]
 }
