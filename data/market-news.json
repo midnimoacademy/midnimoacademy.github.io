@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-14T04:10:48.886145+00:00",
+  "updated_at": "2026-11-14T07:25:14.173997+00:00",
   "items": [
+    {
+      "title": "Microsoft says services fully restored after for day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-14T06:42:27+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin ETFs shed $2.35B in two weeks as BlackRock’s losing streak hits 11 sessions",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-14T06:33:13+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-14T04:30:00+00:00",
+      "title_so": null
+    },
     {
       "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
       "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
@@ -47,14 +71,6 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-13T21:36:03+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-13T21:14:22+00:00",
       "title_so": null
     },
     {
@@ -318,16 +334,14 @@
       "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-13T09:16:58+00:00",
-      "title_so": null
+      "published": "2026-11-13T09:16:58+00:00"
     },
     {
       "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
       "url": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-13T09:05:10+00:00",
-      "title_so": null
+      "published": "2026-11-13T09:05:10+00:00"
     },
     {
       "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
@@ -531,28 +545,12 @@
       "title_so": "Waa maxay sababta Waddada Iska-caabbinta Quantum-ku ay kor ugu socoto kuwa sameeya jeebka Bitcoin"
     },
     {
-      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-      "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T20:07:41+00:00",
-      "title_so": "DTCC waxay u qorshaysaa Balaadhinta Solana sida Sharciyada Jeebka ay xaddidayso gelitaanka"
-    },
-    {
       "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
       "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-12T18:55:03+00:00",
       "title_so": "Waa ayo Colette Kress, Jensen Huang's ku-xigeenka agaasimaha Nvidia?"
-    },
-    {
-      "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang’s Ousting",
-      "url": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-12T18:06:03+00:00",
-      "title_so": "Nvidia, AMD, Broadcom: Ku guuleystayaasha saamiyada AI iyo kuwa khasaaray ka dib markii Jensen Huang's Ousting"
     }
   ]
 }
