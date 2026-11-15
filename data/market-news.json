@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T01:29:06.078408+00:00",
+  "updated_at": "2026-11-15T04:12:38.404886+00:00",
   "items": [
+    {
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-15T02:50:57+00:00",
+      "title_so": "XRP waxay ku burburtay kiisii ​​​​ugu hooseeyay tan iyo Noofambar 2024 iyadoo lacagtu ka baxdo crypto"
+    },
     {
       "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
       "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
@@ -26,12 +34,12 @@
       "title_so": "OpenAI, Anthropic, Google iyo kuwa kale ee AI Giants ayaa wajahaya dacwad dalbanaysa in la hakiyo horumarka"
     },
     {
-      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
       "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-14T16:33:29+00:00",
-      "title_so": "Bitcoin ayaa ku burburtay ilaa 3-bilood oo hoose oo ka hooseeya $64,000 iyada oo falanqeeyuhu uu tilmaamayo mowjadda xajmiyeedka afraad"
+      "title_so": "Bitcoin ayaa ku burburtay ilaa 3-bilood oo hoose oo ka hooseeya $63,000 iyada oo falanqeeyuhu uu calanka u dhigay mowjadda xajmiyeedka afraad"
     },
     {
       "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
@@ -552,14 +560,6 @@
       "category": "Economy",
       "published": "2026-11-13T00:13:35+00:00",
       "title_so": "Kor u kaca 'guri kaluumaysi' - goorma ayay adeegsiga AI ka baxaysaa horumarinta ilaa marin habaabinta?"
-    },
-    {
-      "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-      "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-12T23:12:55+00:00",
-      "title_so": "Istiraatijiyadda Maple Finance waxay u dirtaa la-aasaasaha, COO meelaha laga baxo"
     }
   ]
 }
