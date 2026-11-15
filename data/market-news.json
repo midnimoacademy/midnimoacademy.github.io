@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-15T15:56:08.312329+00:00",
+  "updated_at": "2026-11-15T19:05:13.256183+00:00",
   "items": [
+    {
+      "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+      "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-15T16:01:02+00:00",
+      "title_so": "Sidee Wall Street Ugu Tartamaysaa Sheegashada Dollarka Onchain"
+    },
     {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-15T14:56:21+00:00",
-      "title_so": null
+      "title_so": "Basaas looga shakisan yahay Shiinaha oo lala xiriiriyay madaxii hore ee Nvidia ayaa tagay 2025, Megaspeed ayaa leh"
     },
     {
       "title": "Enterprise blockchain is going to come back from the dead",
@@ -15,7 +23,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-15T14:30:00+00:00",
-      "title_so": null
+      "title_so": "Blockchain ganacsigu wuu ka soo noqon doonaa kuwii dhintay"
     },
     {
       "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
@@ -23,7 +31,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-15T14:01:02+00:00",
-      "title_so": null
+      "title_so": "Bitcoin ETFs lumin $2.1 Billion bisha Noofambar iyada oo qulqulka qulqulka ahi uu gaadhay todoba maalmood"
     },
     {
       "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
@@ -31,7 +39,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-15T14:00:00+00:00",
-      "title_so": null
+      "title_so": "Indhaha Crypto-ku kuma xisaabtamayaan dahaarka qalinka ee Congress-ka' fadhiga duck curyaan ah"
     },
     {
       "title": "Minister backs legal right to job support for young people",
@@ -39,7 +47,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-15T13:06:15+00:00",
-      "title_so": null
+      "title_so": "Wasiirku wuxuu taageeray xuquuqda sharciga ah ee taageerada shaqo ee dhalinyarada"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -552,14 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-13T06:00:15+00:00",
       "title_so": "Bitcoin ayaa ka hoosaysa $70K iyada oo ay jirto dareere khafiif ah, ETF baxay"
-    },
-    {
-      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-13T05:45:26+00:00",
-      "title_so": "Bitcoin ETFs ayaa hadda hoos u dhacay in ka badan $1.5 bilyan ee soo-baxa saafiga ah ee sanadka"
     }
   ]
 }
