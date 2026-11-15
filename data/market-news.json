@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T21:53:37.795945+00:00",
+  "updated_at": "2026-11-15T01:29:06.078408+00:00",
   "items": [
+    {
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-15T00:01:07+00:00",
+      "title_so": "Jadwalka imaatinka quruxda wuxuu ku kici karaa boqolaal - laakiin miyay qiimo u leeyihiin lacag?"
+    },
     {
       "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
       "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
@@ -18,12 +26,12 @@
       "title_so": "OpenAI, Anthropic, Google iyo kuwa kale ee AI Giants ayaa wajahaya dacwad dalbanaysa in la hakiyo horumarka"
     },
     {
-      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
       "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-14T16:33:29+00:00",
-      "title_so": "Bitcoin waxay u duldhacday ilaa 3-bilood hoose oo ah $65,000 sida falanqeeyuhu u calamo mowjadda afraad"
+      "title_so": "Bitcoin ayaa ku burburtay ilaa 3-bilood oo hoose oo ka hooseeya $64,000 iyada oo falanqeeyuhu uu tilmaamayo mowjadda xajmiyeedka afraad"
     },
     {
       "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
@@ -136,6 +144,14 @@
       "category": "Crypto",
       "published": "2026-11-13T23:30:00+00:00",
       "title_so": "Macdanta Bitcoin waxay bixiyaan Paraguay $ 350 milyan sanadkii, laakiin AI ayaa ka saaraysa iyaga"
+    },
+    {
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-13T23:00:31+00:00",
+      "title_so": "Sida fadeexadda Jensen Huang ay madax-xanuun ugu abuurtay Singapore saaxiib la ah ganacsiga"
     },
     {
       "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
@@ -338,14 +354,6 @@
       "title_so": "Daqiiqada Subaxda: Crypto Plummets sida Jensen Huang uga baxo Nvidia"
     },
     {
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-13T12:22:30+00:00",
-      "title_so": "Sida fadeexadda galmada ee Nvidia ay cadaadis saarayso Aqalka Cad"
-    },
-    {
       "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
       "url": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -458,12 +466,12 @@
       "title_so": "Shirkadda khasnadda Ethereum BTCS waxay ku iibisay ether khasaare si ay u ilaaliso deynta Aave $ 64 milyan oo caafimaad leh"
     },
     {
-      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "title": "Bitcoin firm Nakamoto pushes $60 million Kraken loan repayment to 2027 to extend its 'runway'",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-13T06:03:41+00:00",
-      "title_so": "Shirkadda Bitcoin ee Nakamoto ayaa Kraken ku leh $165 milyan, taas oo ka badan dhammaan qiimaheeda suuqa"
+      "title_so": "Shirkadda Bitcoin ee Nakamoto ayaa ku riixday $60 milyan oo deyn Kraken ah inay dib u bixiso 2027 si ay u kordhiso 'runway-geeda'"
     },
     {
       "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
@@ -552,14 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-12T23:12:55+00:00",
       "title_so": "Istiraatijiyadda Maple Finance waxay u dirtaa la-aasaasaha, COO meelaha laga baxo"
-    },
-    {
-      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-      "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-12T22:55:52+00:00",
-      "title_so": "Jabsiga Kuuriyada Waqooyi ee Binance ayaa wajahaya cadaadis Mareykan ah iyadoo DOJ ay bartilmaameedsatay $1.2 bilyan oo crypto la xaday."
     }
   ]
 }
