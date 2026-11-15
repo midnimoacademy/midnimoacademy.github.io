@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T19:05:13.256183+00:00",
+  "updated_at": "2026-11-15T21:54:42.625361+00:00",
   "items": [
+    {
+      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-15T19:30:00+00:00",
+      "title_so": "Suuqyada saadaasha miyay waceen doorashada dhexe ee Maraykanka?: Gobolka Crypto"
+    },
     {
       "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
       "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
@@ -552,14 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-13T06:03:41+00:00",
       "title_so": "Shirkadda Bitcoin ee Nakamoto ayaa ku riixday $60 milyan oo deyn Kraken ah inay dib u bixiso 2027 si ay u kordhiso 'runway-geeda'"
-    },
-    {
-      "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-13T06:00:15+00:00",
-      "title_so": "Bitcoin ayaa ka hoosaysa $70K iyada oo ay jirto dareere khafiif ah, ETF baxay"
     }
   ]
 }
