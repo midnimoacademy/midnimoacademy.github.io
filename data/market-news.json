@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T07:27:34.758058+00:00",
+  "updated_at": "2026-11-15T10:02:46.521928+00:00",
   "items": [
+    {
+      "title": "Coinone warns of phishing, identity theft after customer data breach",
+      "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-15T08:07:58+00:00",
+      "title_so": null
+    },
     {
       "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
       "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -18,12 +26,12 @@
       "title_so": "XRP waxay ku burburtay kiisii ​​​​ugu hooseeyay tan iyo Noofambar 2024 iyadoo lacagtu ka baxdo crypto"
     },
     {
-      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
       "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-15T00:01:07+00:00",
-      "title_so": "Jadwalka imaatinka quruxda wuxuu ku kici karaa boqolaal - laakiin miyay qiimo u leeyihiin lacag?"
+      "title_so": null
     },
     {
       "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
@@ -552,14 +560,6 @@
       "category": "Economy",
       "published": "2026-11-13T01:17:58+00:00",
       "title_so": "Burnham ayaa sheegtay in heshiiska 'guul-guuleysiga' ay ku heshiin karaan UK iyo EU"
-    },
-    {
-      "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
-      "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-13T00:52:42+00:00",
-      "title_so": "Gemini mugga ganacsiga tafaariiqda saddexdii biloodlaha ah wuxuu hoos ugu dhacayaa 3-sano"
     }
   ]
 }
