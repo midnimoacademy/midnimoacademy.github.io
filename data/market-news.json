@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-15T10:02:46.521928+00:00",
+  "updated_at": "2026-11-15T13:14:48.673831+00:00",
   "items": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-15T11:18:48+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+      "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-15T10:23:17+00:00",
+      "title_so": "Bitcoin ayaa hoos ugu dhacday afar bilood ku dhawaad ​​$62K iyadoo crypto salesoff uu qoto dheer yahay"
+    },
     {
       "title": "Coinone warns of phishing, identity theft after customer data breach",
       "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-15T08:07:58+00:00",
-      "title_so": null
+      "title_so": "Coinone wuxuu ka digay phishing, xatooyo aqoonsiga kadib jebinta xogta macmiilka"
     },
     {
       "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
@@ -15,7 +31,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-15T06:27:26+00:00",
-      "title_so": null
+      "title_so": "RWA borotokoolka stUSDT ayaa hoos u dhacay saddex sano ka dib $2.3B TVL ugu sarreeya"
     },
     {
       "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
@@ -31,7 +47,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-15T00:01:07+00:00",
-      "title_so": null
+      "title_so": "Jadwalka imaatinka quruxda wuxuu ku kici karaa boqolaal laakiin miyay qiimo u leeyihiin lacag?"
     },
     {
       "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
@@ -112,14 +128,6 @@
       "category": "Crypto",
       "published": "2026-11-14T12:57:00+00:00",
       "title_so": "Xoogaga daaha gadaashiisa ayaa laga yaabaa inay kordhiyaan isbeddelka qiimaha bitcoin iyo ether"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-14T11:28:12+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Microsoft confirms global outage resolved, rules out cyberattack",
@@ -552,14 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-13T01:26:27+00:00",
       "title_so": "Madaxii hore ee Nvidia Huang ayaa lahaa dacwad saddexaad: Reuters"
-    },
-    {
-      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-      "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-13T01:17:58+00:00",
-      "title_so": "Burnham ayaa sheegtay in heshiiska 'guul-guuleysiga' ay ku heshiin karaan UK iyo EU"
     }
   ]
 }
