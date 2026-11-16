@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-15T21:54:42.625361+00:00",
+  "updated_at": "2026-11-16T01:45:07.026396+00:00",
   "items": [
+    {
+      "title": "Black Friday and tax return scams - don't fall for these",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-16T00:50:39+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-15T23:47:45+00:00",
+      "title_so": null
+    },
+    {
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-15T22:50:59+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-15T22:30:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-15T22:24:20+00:00",
+      "title_so": "Basaas looga shakisan yahay Shiinaha oo lala xiriiriyay madaxii hore ee Nvidia ayaa tagay 2025, Megaspeed ayaa leh"
+    },
+    {
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-15T22:00:24+00:00",
+      "title_so": null
+    },
     {
       "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
       "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
@@ -16,14 +64,6 @@
       "category": "Crypto",
       "published": "2026-11-15T16:01:02+00:00",
       "title_so": "Sidee Wall Street Ugu Tartamaysaa Sheegashada Dollarka Onchain"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-15T14:56:21+00:00",
-      "title_so": "Basaas looga shakisan yahay Shiinaha oo lala xiriiriyay madaxii hore ee Nvidia ayaa tagay 2025, Megaspeed ayaa leh"
     },
     {
       "title": "Enterprise blockchain is going to come back from the dead",
@@ -520,46 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-13T09:27:14+00:00",
       "title_so": "DOJ waxay u dhaqaaqday inay $1.2B kala wareegto jabsiga Binance, waxay carqaladaynaysaa khiyaanada FaceStealer"
-    },
-    {
-      "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-      "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-13T09:16:58+00:00",
-      "title_so": "Cusboonaysiinta tooska ah: Indhaha Bitcoin waxay xambaarsan yihiin hoos u dhac ku yimaada suuqa maadaama isu soo baxa xagaaga dambe inta badan la tirtiray"
-    },
-    {
-      "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
-      "url": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-13T09:05:10+00:00",
-      "title_so": "Jane Street waxay kor u qaadaysaa Fidelity Bitcoin ETF haysashada ku dhawaad ​​​​8x, waxay jareysaa IBIT"
-    },
-    {
-      "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
-      "url": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-13T08:26:01+00:00",
-      "title_so": "Maqnaanshaha Microsoft 365 wuxuu ku dhuftey emailka Outlook iyo jadwalka kooxuhu adduunka oo dhan"
-    },
-    {
-      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-      "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-13T07:05:29+00:00",
-      "title_so": "Shirkadda khasnadda Ethereum BTCS waxay ku iibisay ether khasaare si ay u ilaaliso deynta Aave $ 64 milyan oo caafimaad leh"
-    },
-    {
-      "title": "Bitcoin firm Nakamoto pushes $60 million Kraken loan repayment to 2027 to extend its 'runway'",
-      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-13T06:03:41+00:00",
-      "title_so": "Shirkadda Bitcoin ee Nakamoto ayaa ku riixday $60 milyan oo deyn Kraken ah inay dib u bixiso 2027 si ay u kordhiso 'runway-geeda'"
     }
   ]
 }
