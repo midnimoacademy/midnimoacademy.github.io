@@ -1,21 +1,77 @@
 {
-  "updated_at": "2026-11-17T04:14:08.175449+00:00",
+  "updated_at": "2026-11-17T07:40:16.720348+00:00",
   "items": [
+    {
+      "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-17T07:38:07+00:00",
+      "title_so": "Seeraar waxa ay u sii gudbi kartaa $50,000 sida qiimaha Fed uu u dhisanayo, Wintermute ayaa leh"
+    },
+    {
+      "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-17T07:21:37+00:00",
+      "title_so": "Waa kuwee meelaha ugu shaqada badan ee loogu talagalay 16-24 sano jir? Isticmaal raadintayada si aad u ogaato"
+    },
+    {
+      "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+      "url": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-17T06:54:49+00:00",
+      "title_so": "Mu'asasada Cardano waxay ka raadisaa $5 milyan khasnadda iyadoo la isticmaalayo qiimaha ADA 33% ka sarreeya suuqa"
+    },
+    {
+      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+      "url": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-17T06:35:19+00:00",
+      "title_so": "Injineerkii hore ee Robinhood ayaa qirtay dambiga $125k nidaamka ganacsi ee Hyperliquid"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-17T06:00:00+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-17T05:37:23+00:00",
+      "title_so": "Wells Fargo's ayaa soo warisay BlackRock bitcoin ETF haysashada labanlaab ilaa $2.35 bilyan"
+    },
+    {
+      "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+      "url": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-17T05:02:05+00:00",
+      "title_so": "Evernorth oo ay taageerto Ripple ayaa qortay hantideeda hore ee XRP 60%"
+    },
     {
       "title": "Trezor customer data exposed in 3rd partner breach this year",
       "url": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-17T03:46:22+00:00",
-      "title_so": null
+      "title_so": "Macluumaadka macmiilka Trezor ayaa kashifay jebinta 3aad ee lammaanaha sanadkan"
     },
     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-17T02:37:53+00:00",
-      "title_so": null
+      "title_so": "Nvidia waxay meesha ka saartay ololaha 'Bring Jensen Back' iyadoo Trump uu taageeray dadaalka lagu doonayo in dib loogu soo celiyo madaxii hore"
     },
     {
       "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
@@ -23,7 +79,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-17T01:02:05+00:00",
-      "title_so": null
+      "title_so": "Hackers-ku waxay duraan kaarka deynta, malware-xatooyada loo yaqaan 'crypto-stealing malware' 178 shabakadood oo waaweyn"
     },
     {
       "title": "Customers report service outages at major US banks",
@@ -31,15 +87,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-17T00:18:01+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
-      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-17T00:00:03+00:00",
-      "title_so": null
+      "title_so": "Macaamiishu waxay ka warbixiyaan adeeg la'aanta bangiyada waaweyn ee Maraykanka"
     },
     {
       "title": "We couldn't afford a house alone, so we bought one with strangers",
@@ -47,7 +95,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-17T00:00:02+00:00",
-      "title_so": null
+      "title_so": "Kaligaa guri ma awoodno, markaa waxaan ka iibsannay guri dad aan garanayn"
     },
     {
       "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
@@ -55,15 +103,15 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-16T23:50:41+00:00",
-      "title_so": null
+      "title_so": "Saamiyada Nvidia ayaa hoos u dhacay 4% iyadoo guddiga la sheegay inuu meesha ka saarayo soo laabashada Huang"
     },
     {
-      "title": "California sues OpenAI over Hugging Face attack",
+      "title": "OpenAI sued by California over Hugging Face attack",
       "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-16T23:12:24+00:00",
-      "title_so": null
+      "title_so": "OpenAI ayaa California ku dacweysay wejiga Hugging"
     },
     {
       "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
@@ -71,7 +119,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-16T22:54:57+00:00",
-      "title_so": null
+      "title_so": "Bankiga Custodia ayaa lumiyay dalabka Maxkamadda Sare ee helitaanka lacag-bixinta tooska ah ee Fed"
     },
     {
       "title": "German lawmakers back crypto freezes outside criminal cases",
@@ -79,7 +127,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-16T22:46:44+00:00",
-      "title_so": null
+      "title_so": "Sharci-dajiyayaasha Jarmalku waxay dib u dhigaan crypto-ka-joojinta kiisaska dambiyada ka baxsan"
     },
     {
       "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It",
@@ -87,15 +135,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-16T22:46:02+00:00",
-      "title_so": null
-    },
-    {
-      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-16T22:32:47+00:00",
-      "title_so": null
+      "title_so": "Alibaba's Qwen 4 Max wuxuu hogaamiyaa tartanka wakiilka AI ee Shiinaha—Laakin ma soo dejisan kartid"
     },
     {
       "title": "Binance hack may push institutions to outside custody, FalconX exec says",
@@ -103,7 +143,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-16T22:19:41+00:00",
-      "title_so": null
+      "title_so": "Jabsiga Binance waxaa laga yaabaa inay ku riixdo hay'adaha xabsiga ka baxsan, FalconX exec ayaa leh"
     },
     {
       "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
@@ -111,15 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-16T22:18:03+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-16T22:07:36+00:00",
-      "title_so": null
+      "title_so": "Bitcoin Wallet Maker Trezor ayaa sheegay in Xogta Macmiilka mar kale la kashifay"
     },
     {
       "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
@@ -127,39 +159,35 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-16T21:51:04+00:00",
-      "title_so": null
+      "title_so": "Injineerkii hore ee Robinhood ayaa qirtay dambiga ah in uu galay nidaamka ganacsi ee Hyperliquid"
     },
     {
       "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
       "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-16T21:46:03+00:00",
-      "title_so": null
+      "published": "2026-11-16T21:46:03+00:00"
     },
     {
       "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
       "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-16T21:16:03+00:00",
-      "title_so": null
+      "published": "2026-11-16T21:16:03+00:00"
     },
     {
       "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
       "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T20:45:47+00:00",
-      "title_so": null
+      "published": "2026-11-16T20:45:47+00:00"
     },
     {
       "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
       "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-16T20:36:03+00:00",
-      "title_so": null
+      "published": "2026-11-16T20:36:03+00:00"
     },
     {
       "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
@@ -518,34 +546,6 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-16T08:18:03+00:00"
-    },
-    {
-      "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-      "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-16T07:51:15+00:00"
-    },
-    {
-      "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
-      "url": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-16T06:27:42+00:00"
-    },
-    {
-      "title": "Gas starts flowing from Jackdaw after government green light",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-16T06:24:08+00:00"
-    },
-    {
-      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
-      "url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-16T06:01:41+00:00"
     }
   ]
 }
