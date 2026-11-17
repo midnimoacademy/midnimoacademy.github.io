@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T01:33:56.471426+00:00",
+  "updated_at": "2026-11-17T04:14:08.175449+00:00",
   "items": [
+    {
+      "title": "Trezor customer data exposed in 3rd partner breach this year",
+      "url": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-17T03:46:22+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-17T02:37:53+00:00",
+      "title_so": null
+    },
     {
       "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
       "url": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -82,14 +98,6 @@
       "title_so": null
     },
     {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-16T22:21:27+00:00",
-      "title_so": null
-    },
-    {
       "title": "Binance hack may push institutions to outside custody, FalconX exec says",
       "url": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -158,8 +166,7 @@
       "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-16T20:35:21+00:00",
-      "title_so": null
+      "published": "2026-11-16T20:35:21+00:00"
     },
     {
       "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
@@ -539,13 +546,6 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-16T06:01:41+00:00"
-    },
-    {
-      "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
-      "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-16T05:28:40+00:00"
     }
   ]
 }
