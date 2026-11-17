@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-11-17T07:40:16.720348+00:00",
+  "updated_at": "2026-11-17T10:25:00.927997+00:00",
   "items": [
+    {
+      "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+      "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-17T10:22:18+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Nvidia faces first earnings test without Jensen Huang as AI stocks slide",
+      "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-17T10:17:01+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Google says hackers use AI agents to find and exploit software flaws",
+      "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-17T10:05:59+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
+      "url": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-17T09:54:32+00:00",
+      "title_so": null
+    },
+    {
+      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+      "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-17T09:30:05+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+      "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-17T09:27:29+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+      "url": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-17T09:21:19+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Where has the most jobs for 16-24 year-olds? Use our look-up to find out",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-17T09:15:38+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+      "url": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-17T09:08:32+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
+      "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-17T09:01:03+00:00",
+      "title_so": null
+    },
     {
       "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
       "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
@@ -8,14 +88,6 @@
       "category": "Crypto",
       "published": "2026-11-17T07:38:07+00:00",
       "title_so": "Seeraar waxa ay u sii gudbi kartaa $50,000 sida qiimaha Fed uu u dhisanayo, Wintermute ayaa leh"
-    },
-    {
-      "title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
-      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-17T07:21:37+00:00",
-      "title_so": "Waa kuwee meelaha ugu shaqada badan ee loogu talagalay 16-24 sano jir? Isticmaal raadintayada si aad u ogaato"
     },
     {
       "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
@@ -166,56 +238,64 @@
       "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-16T21:46:03+00:00"
+      "published": "2026-11-16T21:46:03+00:00",
+      "title_so": null
     },
     {
       "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
       "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-16T21:16:03+00:00"
+      "published": "2026-11-16T21:16:03+00:00",
+      "title_so": null
     },
     {
       "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
       "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T20:45:47+00:00"
+      "published": "2026-11-16T20:45:47+00:00",
+      "title_so": null
     },
     {
       "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
       "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-16T20:36:03+00:00"
+      "published": "2026-11-16T20:36:03+00:00",
+      "title_so": null
     },
     {
-      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto selloff",
       "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-16T20:35:21+00:00"
+      "published": "2026-11-16T20:35:21+00:00",
+      "title_so": null
     },
     {
       "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
       "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T20:18:02+00:00"
+      "published": "2026-11-16T20:18:02+00:00",
+      "title_so": null
     },
     {
       "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
       "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T19:56:18+00:00"
+      "published": "2026-11-16T19:56:18+00:00",
+      "title_so": null
     },
     {
       "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
       "url": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-16T19:36:03+00:00"
+      "published": "2026-11-16T19:36:03+00:00",
+      "title_so": null
     },
     {
       "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
@@ -358,7 +438,8 @@
       "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T14:19:50+00:00"
+      "published": "2026-11-16T14:19:50+00:00",
+      "title_so": null
     },
     {
       "title": "Banks are banning AI agents over security... and competition concerns",
@@ -479,73 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-16T10:25:15+00:00",
       "title_so": "Sharci-yaqaannada Jarmalku waxay dib ugu celiyaan awoodaha kastamka si ay u qabtaan Crypto \"Asal aan caddayn\""
-    },
-    {
-      "title": "Avoid this Black Friday scam - how to check it's a real deal",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-16T09:58:52+00:00",
-      "title_so": "Iska ilaali khiyaanadan Jimcaha Madow - sida loo hubiyo inay tahay heshiis dhab ah"
-    },
-    {
-      "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
-      "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-16T09:54:55+00:00",
-      "title_so": "Vitalik Buterin Hadda 'wadarta dibi' ee ku tiirsan PCS sida ugu dhakhsaha badan ee Quantum-Safe Ethereum"
-    },
-    {
-      "title": "Live updates: Bitcoin trades near $65,000 as Nasdaq closes with 2.5% loss",
-      "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-16T09:34:18+00:00"
-    },
-    {
-      "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
-      "url": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-16T09:25:01+00:00",
-      "title_so": "Elon Musk wuxuu ku biiray 160,000 codsi taageero ah si uu Jensen Huang ugu soo celiyo Nvidia"
-    },
-    {
-      "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-16T09:23:07+00:00",
-      "title_so": "Daqiiqadaha FOMC, Dakhliga Nvidia, Xeerarka tafaariiqda tafaariiqda ee Ruushka: Toddobaadka Crypto ee soo socda"
-    },
-    {
-      "title": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
-      "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-16T08:50:50+00:00"
-    },
-    {
-      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
-      "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-16T08:46:00+00:00"
-    },
-    {
-      "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-      "url": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-16T08:27:39+00:00"
-    },
-    {
-      "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-      "url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-16T08:18:03+00:00"
     }
   ]
 }
