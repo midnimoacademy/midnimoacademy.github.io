@@ -1,6 +1,94 @@
 {
-  "updated_at": "2026-11-17T19:23:36.931228+00:00",
+  "updated_at": "2026-11-17T22:11:59.916876+00:00",
   "items": [
+    {
+      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+      "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-17T21:56:35+00:00",
+      "title_so": null
+    },
+    {
+      "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+      "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-17T21:46:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-17T21:45:13+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Nvidia tops estimates, issues strong guidance; shares rise",
+      "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-17T21:25:50+00:00",
+      "title_so": null
+    },
+    {
+      "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+      "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-17T20:56:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
+      "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-17T20:36:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-17T20:05:04+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Speed camera fault may have allowed drivers to escape fines",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-17T20:04:54+00:00",
+      "title_so": "Ciladda kamarada xawaaraha ayaa laga yaabaa inay u ogolaato darawalada inay ka baxsadaan ganaaxyada"
+    },
+    {
+      "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+      "url": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-17T19:46:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-17T19:45:57+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+      "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-17T19:26:02+00:00",
+      "title_so": null
+    },
     {
       "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
       "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
@@ -104,14 +192,6 @@
       "category": "Crypto",
       "published": "2026-11-17T15:11:00+00:00",
       "title_so": "Hong Kong, Swift waxay tijaabisay dhigaal la calaamadeeyay iyada oo bangiyadu ay eryanayaan xawliga qaab-ka xasilloon"
-    },
-    {
-      "title": "Speed camera fault may have allowed drivers to escape fines",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-17T15:08:48+00:00",
-      "title_so": "Ciladda kamarada xawaaraha ayaa laga yaabaa inay u ogolaato darawalada inay ka baxsadaan ganaaxyada"
     },
     {
       "title": "US bank services returning to normal after major outage",
@@ -310,8 +390,7 @@
       "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-17T10:33:26+00:00",
-      "title_so": null
+      "published": "2026-11-17T10:33:26+00:00"
     },
     {
       "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
@@ -480,86 +559,6 @@
       "category": "Crypto",
       "published": "2026-11-16T22:54:57+00:00",
       "title_so": "Bankiga Custodia ayaa lumiyay dalabka Maxkamadda Sare ee helitaanka lacag-bixinta tooska ah ee Fed"
-    },
-    {
-      "title": "German lawmakers back crypto freezes outside criminal cases",
-      "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-16T22:46:44+00:00",
-      "title_so": "Sharci-dajiyayaasha Jarmalku waxay dib u dhigaan crypto-ka-joojinta kiisaska dambiyada ka baxsan"
-    },
-    {
-      "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It",
-      "url": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-16T22:46:02+00:00",
-      "title_so": "Alibaba's Qwen 4 Max wuxuu hogaamiyaa tartanka wakiilka AI ee Shiinaha—Laakin ma soo dejisan kartid"
-    },
-    {
-      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
-      "url": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-16T22:19:41+00:00",
-      "title_so": "Jabsiga Binance waxaa laga yaabaa inay ku riixdo hay'adaha xabsiga ka baxsan, FalconX exec ayaa leh"
-    },
-    {
-      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
-      "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-16T22:18:03+00:00",
-      "title_so": "Bitcoin Wallet Maker Trezor ayaa sheegay in Xogta Macmiilka mar kale la kashifay"
-    },
-    {
-      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-      "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-16T21:51:04+00:00",
-      "title_so": "Injineerkii hore ee Robinhood ayaa qirtay dambiga ah in uu galay nidaamka ganacsi ee Hyperliquid"
-    },
-    {
-      "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
-      "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-16T21:46:03+00:00",
-      "title_so": "Bitcoin's $2 Billion Liquidation Weekend wuxuu ka tagayaa ganacsatada inay daawadaan $60,000"
-    },
-    {
-      "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-      "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-16T21:16:03+00:00",
-      "title_so": "Hackers-ku waxay u jiheeyeen Abaalmarinta Macdanta Bitcoin iyada oo loo sii marayo AI Attack, Maamulaha Luxor ayaa yidhi"
-    },
-    {
-      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
-      "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-16T20:45:47+00:00",
-      "title_so": "Bitmine waxay ku dhowdahay 5% ee sahayda ETH iyadoo khasnadaha ay soo sheegaan inay iibsadaan suuqa hoos u dhaca"
-    },
-    {
-      "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
-      "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-16T20:36:03+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto selloff",
-      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-16T20:35:21+00:00",
-      "title_so": null
     }
   ]
 }
