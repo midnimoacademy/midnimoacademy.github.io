@@ -1,6 +1,118 @@
 {
-  "updated_at": "2026-11-16T22:05:11.921592+00:00",
+  "updated_at": "2026-11-17T01:33:56.471426+00:00",
   "items": [
+    {
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "url": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-17T01:02:05+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Customers report service outages at major US banks",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-17T00:18:01+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-17T00:00:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-17T00:00:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
+      "url": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-16T23:50:41+00:00",
+      "title_so": null
+    },
+    {
+      "title": "California sues OpenAI over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-16T23:12:24+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-16T22:54:57+00:00",
+      "title_so": null
+    },
+    {
+      "title": "German lawmakers back crypto freezes outside criminal cases",
+      "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-16T22:46:44+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It",
+      "url": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-16T22:46:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-16T22:32:47+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-16T22:21:27+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+      "url": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-16T22:19:41+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+      "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-16T22:18:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-16T22:07:36+00:00",
+      "title_so": null
+    },
     {
       "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
       "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
@@ -54,32 +166,21 @@
       "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T20:18:02+00:00",
-      "title_so": null
+      "published": "2026-11-16T20:18:02+00:00"
     },
     {
       "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
       "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T19:56:18+00:00",
-      "title_so": null
+      "published": "2026-11-16T19:56:18+00:00"
     },
     {
       "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
       "url": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-16T19:36:03+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-16T19:16:52+00:00",
-      "title_so": "Trump ayaa taageeray soo celinta madaxii hore ee NVIDIA ka dib markii la bilaabay ololihii 'Bring Jensen Back'"
+      "published": "2026-11-16T19:36:03+00:00"
     },
     {
       "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
@@ -222,8 +323,7 @@
       "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T14:19:50+00:00",
-      "title_so": null
+      "published": "2026-11-16T14:19:50+00:00"
     },
     {
       "title": "Banks are banning AI agents over security... and competition concerns",
@@ -366,8 +466,7 @@
       "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-16T09:34:18+00:00",
-      "title_so": null
+      "published": "2026-11-16T09:34:18+00:00"
     },
     {
       "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
@@ -390,170 +489,63 @@
       "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T08:50:50+00:00",
-      "title_so": null
+      "published": "2026-11-16T08:50:50+00:00"
     },
     {
       "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
       "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-16T08:46:00+00:00",
-      "title_so": null
+      "published": "2026-11-16T08:46:00+00:00"
     },
     {
       "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
       "url": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T08:27:39+00:00",
-      "title_so": null
+      "published": "2026-11-16T08:27:39+00:00"
     },
     {
       "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
       "url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-16T08:18:03+00:00",
-      "title_so": null
+      "published": "2026-11-16T08:18:03+00:00"
     },
     {
       "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
       "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-16T07:51:15+00:00",
-      "title_so": null
+      "published": "2026-11-16T07:51:15+00:00"
     },
     {
       "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
       "url": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-16T06:27:42+00:00",
-      "title_so": null
+      "published": "2026-11-16T06:27:42+00:00"
     },
     {
       "title": "Gas starts flowing from Jackdaw after government green light",
       "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-16T06:24:08+00:00",
-      "title_so": null
+      "published": "2026-11-16T06:24:08+00:00"
     },
     {
       "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
       "url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-16T06:01:41+00:00",
-      "title_so": null
+      "published": "2026-11-16T06:01:41+00:00"
     },
     {
       "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
       "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-16T05:28:40+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-16T05:01:17+00:00"
-    },
-    {
-      "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
-      "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-16T04:42:07+00:00"
-    },
-    {
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-16T03:04:01+00:00"
-    },
-    {
-      "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
-      "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-16T02:33:07+00:00"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-16T01:47:57+00:00",
-      "title_so": "Basaas looga shakisan yahay Shiinaha oo lala xiriiriyay madaxii hore ee Nvidia ayaa tagay 2025, Megaspeed ayaa leh"
-    },
-    {
-      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
-      "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-15T23:47:45+00:00"
-    },
-    {
-      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-15T22:50:59+00:00"
-    },
-    {
-      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-15T19:30:00+00:00",
-      "title_so": "Suuqyada saadaasha miyay waceen doorashada dhexe ee Maraykanka?: Gobolka Crypto"
-    },
-    {
-      "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
-      "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-15T16:01:02+00:00",
-      "title_so": "Sidee Wall Street Ugu Tartamaysaa Sheegashada Dollarka Onchain"
-    },
-    {
-      "title": "Enterprise blockchain is going to come back from the dead",
-      "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-15T14:30:00+00:00",
-      "title_so": "Blockchain ganacsigu wuu ka soo noqon doonaa kuwii dhintay"
-    },
-    {
-      "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-      "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-15T14:01:02+00:00",
-      "title_so": "Bitcoin ETFs lumin $2.1 Billion bisha Noofambar iyada oo qulqulka qulqulka ahi uu gaadhay todoba maalmood"
-    },
-    {
-      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-15T14:00:00+00:00",
-      "title_so": "Indhaha Crypto-ku kuma xisaabtamayaan dahaarka qalinka ee Congress-ka' fadhiga duck curyaan ah"
-    },
-    {
-      "title": "Minister backs legal right to job support for young people",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-15T13:06:15+00:00",
-      "title_so": "Wasiirku wuxuu taageeray xuquuqda sharciga ah ee taageerada shaqo ee dhalinyarada"
+      "published": "2026-11-16T05:28:40+00:00"
     }
   ]
 }
