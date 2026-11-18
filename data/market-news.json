@@ -1,20 +1,116 @@
 {
-  "updated_at": "2026-11-18T10:23:36.237305+00:00",
+  "updated_at": "2026-11-18T13:34:24.139830+00:00",
   "items": [
+    {
+      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-18T13:17:06+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-18T13:10:01+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-18T12:53:34+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit",
+      "url": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-18T12:53:12+00:00",
+      "title_so": null
+    },
+    {
+      "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
+      "url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-18T12:45:37+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-18T12:41:09+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+      "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-18T12:25:14+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-18T12:15:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec",
+      "url": "https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-18T12:10:27+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-18T11:42:52+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-18T10:58:36+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+      "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-18T10:33:07+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
+      "url": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-18T10:31:20+00:00",
+      "title_so": null
+    },
     {
       "title": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
       "url": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-18T10:17:17+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
-      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-18T10:10:12+00:00",
       "title_so": null
     },
     {
@@ -70,24 +166,21 @@
       "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-18T07:37:59+00:00",
-      "title_so": null
+      "published": "2026-11-18T07:37:59+00:00"
     },
     {
-      "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+      "title": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
       "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-18T07:27:48+00:00",
-      "title_so": null
+      "published": "2026-11-18T07:27:48+00:00"
     },
     {
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
       "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-18T06:04:21+00:00",
-      "title_so": null
+      "published": "2026-11-18T06:04:21+00:00"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -102,72 +195,63 @@
       "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-18T05:30:10+00:00",
-      "title_so": null
+      "published": "2026-11-18T05:30:10+00:00"
     },
     {
-      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months",
       "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-18T04:34:21+00:00",
-      "title_so": null
+      "published": "2026-11-18T04:34:21+00:00"
     },
     {
       "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
       "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-18T04:28:37+00:00",
-      "title_so": null
+      "published": "2026-11-18T04:28:37+00:00"
     },
     {
       "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
       "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-18T04:00:54+00:00",
-      "title_so": null
+      "published": "2026-11-18T04:00:54+00:00"
     },
     {
       "title": "Waymo pulls driverless taxis from all US freeways",
       "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-18T03:07:22+00:00",
-      "title_so": null
+      "published": "2026-11-18T03:07:22+00:00"
     },
     {
       "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
       "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-18T02:39:52+00:00",
-      "title_so": null
+      "published": "2026-11-18T02:39:52+00:00"
     },
     {
       "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-18T01:18:18+00:00",
-      "title_so": null
+      "published": "2026-11-18T01:18:18+00:00"
     },
     {
       "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
       "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-18T00:46:25+00:00",
-      "title_so": null
+      "published": "2026-11-18T00:46:25+00:00"
     },
     {
       "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
       "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-18T00:16:43+00:00",
-      "title_so": null
+      "published": "2026-11-18T00:16:43+00:00"
     },
     {
       "title": "Europe plans to catch the next computer chip wave",
@@ -439,102 +523,6 @@
       "category": "Crypto",
       "published": "2026-11-17T12:50:55+00:00",
       "title_so": "\"Fursada ugu weyn ee Crypto ayaa horayba u socota\": Solana waxay ku sharxaysaa wakiilada AI"
-    },
-    {
-      "title": "Where are the most jobs for 18-24 year-olds?",
-      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-17T12:35:53+00:00",
-      "title_so": "Aaway shaqooyinka ugu badan ee loogu talagalay 18-24 sano jir?"
-    },
-    {
-      "title": "Revolut plans four blockchain-based funds for private markets, chair says",
-      "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-17T12:24:20+00:00",
-      "title_so": "Revolut wuxuu qorsheynayaa afar lacag oo ku saleysan blockchain oo loogu talagalay suuqyada gaarka ah, ayuu yiri guddoomiyaha"
-    },
-    {
-      "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-17T12:16:53+00:00",
-      "title_so": "Crypto's 'casino-chips' way baaba'ayaan, taas oo ku sii kordhinaysa xanuunka booska ETF ka baxay"
-    },
-    {
-      "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
-      "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-17T12:00:55+00:00",
-      "title_so": "Maalgelinta cilmi-baarihii hore ee OpenAI waxay daadisay macdan qodayaasha bitcoin, waxay jartay IREN 94% ka dib hoos u dhaca faylalka"
-    },
-    {
-      "title": "US senators seek SEC answers on tokenized stock money laundering risks",
-      "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-17T11:36:26+00:00",
-      "title_so": "Senatarrada Maraykanku waxay raadiyaan jawaabaha SEC ee ku saabsan khataraha lacagta la dhaqay ee la calaamadeeyay"
-    },
-    {
-      "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-17T11:36:07+00:00",
-      "title_so": "Bitcoin ayaa weli qalinka ku duugtay ku dhawaad ​​$64,000 xitaa iyadoo qulqulka qulqulka ETF uu dhammaanayo"
-    },
-    {
-      "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
-      "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-17T11:29:51+00:00",
-      "title_so": "Solana Foundation waxay qaadataa saamiga ugu badan ee bixiyaha xogta crypto CoinGecko"
-    },
-    {
-      "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
-      "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-17T11:25:58+00:00",
-      "title_so": "Jiilka cusub ee wax-soosaarka DeFi wuxuu bartilmaameedsadaa xisaabaadka bangiga 'scam-like' kaas oo ilaaliya dhammaan xiisaha"
-    },
-    {
-      "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
-      "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-17T11:18:18+00:00",
-      "title_so": "BlackRock's Bitcoin ETF ayaa soo jiidatay $2.35B qulqulka qulqulka iyada oo ay jirto cabsi aad u daran"
-    },
-    {
-      "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-      "url": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-17T11:14:05+00:00",
-      "title_so": "Seeraar garatay mitirka khasaaraha ayaa garaacaya Juun sare sida indhaha xiisaha furan ee 2-sano hooseeyo"
-    },
-    {
-      "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
-      "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-17T11:05:25+00:00",
-      "title_so": "Si Wanaagsan Loo Jabsado Ledger-ka La Afduubtay, BBC iyo 176 Goobood oo kale si loogu beddelo Ciwaanka Wallet-ka"
-    },
-    {
-      "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
-      "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-17T10:48:12+00:00",
-      "title_so": "Guddoomiyaha Fed Michael Barr ayaa ka digay wakiilada AI inay kicin karaan socodsiinta bangiyada daqiiqado gudahood"
     }
   ]
 }
