@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-18T01:39:26.102890+00:00",
+  "updated_at": "2026-11-18T04:15:58.981918+00:00",
   "items": [
+    {
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-18T04:00:54+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-18T03:07:22+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+      "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-18T02:39:52+00:00",
+      "title_so": null
+    },
     {
       "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
@@ -39,6 +63,14 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-17T23:16:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-17T23:02:12+00:00",
       "title_so": null
     },
     {
@@ -150,32 +182,28 @@
       "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-17T19:26:02+00:00",
-      "title_so": null
+      "published": "2026-11-17T19:26:02+00:00"
     },
     {
       "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
       "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-17T19:16:00+00:00",
-      "title_so": null
+      "published": "2026-11-17T19:16:00+00:00"
     },
     {
       "title": "Government backs welfare shake-up to prevent 'lost generation'",
       "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-17T18:43:05+00:00",
-      "title_so": null
+      "published": "2026-11-17T18:43:05+00:00"
     },
     {
       "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
       "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-17T18:24:21+00:00",
-      "title_so": null
+      "published": "2026-11-17T18:24:21+00:00"
     },
     {
       "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
@@ -519,38 +547,6 @@
       "category": "Crypto",
       "published": "2026-11-17T09:01:03+00:00",
       "title_so": "Aasaaska Solana waxay u taageertaa CoinGecko sidii Crypto Data Giant Indhaha Ganacsiga"
-    },
-    {
-      "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
-      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-17T07:38:07+00:00",
-      "title_so": "Seeraar waxa ay u sii gudbi kartaa $50,000 sida qiimaha Fed uu u dhisanayo, Wintermute ayaa leh"
-    },
-    {
-      "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
-      "url": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-17T06:54:49+00:00",
-      "title_so": "Mu'asasada Cardano waxay ka raadisaa $5 milyan khasnadda iyadoo la isticmaalayo qiimaha ADA 33% ka sarreeya suuqa"
-    },
-    {
-      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
-      "url": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-17T06:35:19+00:00",
-      "title_so": "Injineerkii hore ee Robinhood ayaa qirtay dambiga $125k nidaamka ganacsi ee Hyperliquid"
-    },
-    {
-      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-      "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-17T05:37:23+00:00",
-      "title_so": "Wells Fargo's ayaa soo warisay BlackRock bitcoin ETF haysashada labanlaab ilaa $2.35 bilyan"
     }
   ]
 }
