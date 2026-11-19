@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-19T19:20:33.028329+00:00",
+  "updated_at": "2026-11-19T22:08:09.245173+00:00",
   "items": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-19T21:42:20+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-19T21:38:42+00:00",
+      "title_so": "Anthropic waxay noqotaa mid ka mid ah shirkadaha dadweynaha ee ugu qiimaha badan adduunka marka loo eego suuqa saamiyada"
+    },
+    {
+      "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+      "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-19T21:12:06+00:00",
+      "title_so": "Nvidia, AMD, Micron Sink sida Anthropic wuxuu u xiraa 17% ka sarreeya Qiimaha IPO"
+    },
+    {
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-19T21:01:42+00:00",
+      "title_so": "MoonPay wuxuu u raadsadaa charterka bangiga Mareykanka ee stablecoin, adeegyada haynta"
+    },
+    {
+      "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+      "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-19T20:46:02+00:00",
+      "title_so": "La kulan SHRINCS: Seeraar Horu-socodka Soo baxaya ee Saxiixa Quantum-ka Kadib"
+    },
+    {
+      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-19T20:33:24+00:00",
+      "title_so": "Mustaqbalka Hyperliquid Anthropic waxaa lagu qiimeeyay 1% ee qiimaha furitaanka Nasdaq"
+    },
+    {
+      "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
+      "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-19T20:15:32+00:00",
+      "title_so": "Hackers Leak Visa, Mastercard iyo JPMorgan Xogta Macmiilka"
+    },
+    {
+      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-19T20:06:34+00:00",
+      "title_so": "Musharaxa SEC ee Trump Johnson wuxuu taageeray sharci-dejinta rasmiga ah ee ganacsiga saamiyada"
+    },
+    {
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-19T19:53:42+00:00",
+      "title_so": "Sky's USDS stablecoin ayaa hoos u dhacday 35% iyadoo $ 1.5 bilyan ay ka baxdo kaydka ka dib warbixinta maaliyadeed ee sharci-darrada ah"
+    },
     {
       "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
       "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
@@ -58,12 +130,12 @@
       "title_so": "Waa maxay Mustaqbalka Joogtada ah? Sidee u Shaqeeyaa Soo saarista ugu Caansan ee Crypto"
     },
     {
-      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "title": "Anthropic gains after IPO, but pulls off highest levels",
       "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-19T17:01:47+00:00",
-      "title_so": "Anthropic wuxuu ku furmay ganacsiga $111.50, ilaa 34% marka loo eego qiimaha IPO"
+      "title_so": "Faa'iidooyinka Anthropic ka dib IPO, laakiin jiidaya heerarka ugu sarreeya"
     },
     {
       "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
@@ -122,14 +194,6 @@
       "title_so": "Gen Z wuxuu aqbalay Crypto halka inta badan dadka Maraykanku ay ugu yeeraan 'Weydiiso dhinac ah'"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T13:48:14+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
       "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
       "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
       "source": "Decrypt",
@@ -174,80 +238,91 @@
       "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-19T12:59:14+00:00"
+      "published": "2026-11-19T12:59:14+00:00",
+      "title_so": "Binance wuxuu ku guuleystey $6.5B Amarka Baraf-joojinta ka badan Hack kaas oo lagu adeegi karo iyada oo loo marayo Blockchain"
     },
     {
       "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
       "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T12:44:06+00:00"
+      "published": "2026-11-19T12:44:06+00:00",
+      "title_so": "Hong Kong waxay ku dartay Hyperliquid liiska aaladaha 'crypto' ee laga shakisan yahay"
     },
     {
       "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
       "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T12:40:12+00:00"
+      "published": "2026-11-19T12:40:12+00:00",
+      "title_so": "Warbaahinta Trump ayaa doonaysa in ay ka saarto $884 milyan oo deyn ah iyada oo aan la iibin bitcoin-keeda"
     },
     {
       "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
       "url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T12:33:46+00:00"
+      "published": "2026-11-19T12:33:46+00:00",
+      "title_so": "Daabacaada GTA VI waxay kor u qaadaysaa ku dhawaad ​​​​3x mugga saamiga saamiyada ee Nvidia"
     },
     {
       "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
       "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T12:20:39+00:00"
+      "published": "2026-11-19T12:20:39+00:00",
+      "title_so": "Bixinta Bitcoin ETF waxay muujineysaa rabitaanka cuntada ee crypto sii yaraanaya ka hor bilowga Nasdaq ee Anthropic"
     },
     {
       "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
       "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T12:08:06+00:00"
+      "published": "2026-11-19T12:08:06+00:00",
+      "title_so": "Seeraar waxay haysaa in ka badan $63,750 laakiin Feed-ku hanjabaadaha-kor u kaca ayaa aad u weyn"
     },
     {
       "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
       "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T11:30:00+00:00"
+      "published": "2026-11-19T11:30:00+00:00",
+      "title_so": "Hackers-ka Kuuriyada Waqooyi waxay adeegsadeen nidaamka Sky's stablecoin, taasoo balaayiin ku ridaya halis"
     },
     {
       "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
       "url": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T11:19:58+00:00"
+      "published": "2026-11-19T11:19:58+00:00",
+      "title_so": "H100 ee Iswiidhan waxa ay taabataa barkadda ganacsiga ee Bitcoin si ay u maalgeliso dib-u-soo-iibsiga wadaagga"
     },
     {
       "title": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
       "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-19T11:15:08+00:00"
+      "published": "2026-11-19T11:15:08+00:00",
+      "title_so": "Maamulaha GameStop ayaa sheegay in Ciyaaraha Dijital-Kaliya ay 'waxyeeleeyeen macaamiisha' sida GTA 6 uu u boodo saxannada"
     },
     {
       "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
       "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T11:06:13+00:00"
+      "published": "2026-11-19T11:06:13+00:00",
+      "title_so": "Iibka Anthropic ee $107 bilyan ayaa lagu wadaa inuu sare u kaco SpaceX's IPO iyadoo saamiyada la calaamadeeyay ay helayaan soo jiidasho leh"
     },
     {
       "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
       "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T10:55:29+00:00"
+      "published": "2026-11-19T10:55:29+00:00",
+      "title_so": "Shirkadaha dhaqaaluhu waa inay hadda shaqeeyaan marka kombuyuutarrada quantumku ay u koraan 'mid aad u horumarsan,' IOSCO ayaa ka digtay"
     },
     {
-      "title": "Live updates: Bitcoin falls as strong Anthropic opening fails to lift animal spirits",
+      "title": "Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble",
       "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
       "source": "CoinDesk",
       "category": "Crypto",
@@ -467,67 +542,6 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-18T21:28:08+00:00"
-    },
-    {
-      "title": "Palmer Luckey Says He’s Building an Offshore Haven for Industry—And 'Illegal' Medicine",
-      "url": "https://decrypt.co/383576/palmer-luckey-offshore-haven-industry-illegal-medicine",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-18T21:16:02+00:00",
-      "title_so": "Palmer Luckey Wuxuu Yidhi Wuxuu Dhisayaa Meel Ka Baxsan Xeebta ee Wershadaha-iyo Daawo 'Sharci-darro ah'"
-    },
-    {
-      "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-      "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-18T21:13:58+00:00",
-      "title_so": "Ledger wuxuu uga digay macaamiisha Berlin iyadoo baaritaanka faragelinta boorsada qalabku uu sii fidayo"
-    },
-    {
-      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
-      "url": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-18T20:32:06+00:00",
-      "title_so": "Bain Capital Crypto waxay hogaamisaa $110M Wareegga kala duwanaanshaha ee $1.5B qiimaynta"
-    },
-    {
-      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
-      "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-18T20:20:37+00:00",
-      "title_so": "Binance ayaa sheegtay in ay heshay $6.5B dalabka qaboojinta adduunka oo dhan ka dib markii la jabsaday"
-    },
-    {
-      "title": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
-      "url": "https://decrypt.co/383572/google-genie-4-ultra-subscribers-build-ai-worlds-real-time",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-18T20:16:02+00:00",
-      "title_so": "Google's Genie 4 waa halkan, U ogolaanaya macaamiisha Ultra inay dhisaan adduunyada AI waqtiga dhabta ah"
-    },
-    {
-      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
-      "url": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-18T19:46:02+00:00"
-    },
-    {
-      "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-      "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-18T19:16:02+00:00"
-    },
-    {
-      "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
-      "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-18T18:46:03+00:00"
     }
   ]
 }
