@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-11-19T13:37:46.392101+00:00",
+  "updated_at": "2026-11-19T16:20:46.023767+00:00",
   "items": [
+    {
+      "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-19T16:09:28+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Anthropic shares expected to open 26.5% above $83 IPO price",
+      "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-19T16:07:51+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-19T15:58:58+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went",
+      "url": "https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-19T15:54:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-19T15:20:38+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
+      "url": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-19T14:01:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-19T13:48:14+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
+      "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-19T13:47:00+00:00",
+      "title_so": null
+    },
     {
       "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
       "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
@@ -110,56 +174,42 @@
       "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T11:06:13+00:00",
-      "title_so": null
+      "published": "2026-11-19T11:06:13+00:00"
     },
     {
       "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
       "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T10:55:29+00:00",
-      "title_so": null
+      "published": "2026-11-19T10:55:29+00:00"
     },
     {
-      "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+      "title": "Live updates: Bitcoin gives up early gains alongside soft action in stocks",
       "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T10:48:26+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-19T10:48:04+00:00",
-      "title_so": null
+      "published": "2026-11-19T10:48:26+00:00"
     },
     {
       "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
       "url": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T10:39:36+00:00",
-      "title_so": null
+      "published": "2026-11-19T10:39:36+00:00"
     },
     {
       "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
       "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T10:32:05+00:00",
-      "title_so": null
+      "published": "2026-11-19T10:32:05+00:00"
     },
     {
       "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
       "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-19T10:25:05+00:00",
-      "title_so": null
+      "published": "2026-11-19T10:25:05+00:00"
     },
     {
       "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
@@ -217,14 +267,6 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-19T06:00:00+00:00"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T06:00:00+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
@@ -486,48 +528,6 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-18T16:02:54+00:00"
-    },
-    {
-      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-      "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-18T15:38:38+00:00"
-    },
-    {
-      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
-      "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-18T15:23:18+00:00"
-    },
-    {
-      "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
-      "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-18T14:20:52+00:00"
-    },
-    {
-      "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
-      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-18T14:04:50+00:00"
-    },
-    {
-      "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-      "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-18T13:42:37+00:00"
-    },
-    {
-      "title": "Morning Minute: Nvidia Beats, Board Says ‘No’ on Jensen",
-      "url": "https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-18T13:37:20+00:00"
     }
   ]
 }
