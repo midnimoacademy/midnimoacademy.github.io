@@ -1,13 +1,101 @@
 {
-  "updated_at": "2026-11-20T13:32:08.307096+00:00",
+  "updated_at": "2026-11-20T16:14:32.331565+00:00",
   "items": [
     {
-      "title": "Bitcoin bots pounced within seconds when researchers exposed their keys",
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-20T15:55:22+00:00",
+      "title_so": "Senate-ka Mareykanka ayaa hormariyay xayiraadaha suuqa ee saadaalinta iyadoo la raacayo sharciga DEATH BETS"
+    },
+    {
+      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-20T15:52:06+00:00",
+      "title_so": "Qiimaha Bitcoin wuxuu hoos ugu dhacayaa $60k iyadoo Anthropic uu hoos ugu dhacay $87 iibka tignoolajiyada"
+    },
+    {
+      "title": "Airbnb's divisive new house rules come into force",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T15:48:35+00:00",
+      "title_so": "Xeerarka cusub ee kala qaybinta Airbnb ayaa dhaqan galay"
+    },
+    {
+      "title": "Anthropic shares fall a day after blockbuster opening",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T15:44:53+00:00",
+      "title_so": "Saamiyada Anthropic waxay dhacaan maalin kadib furitaanka blockbuster"
+    },
+    {
+      "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+      "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-20T15:42:51+00:00",
+      "title_so": "Golaha Guurtida Oo Ansixiyay Sharciga Mamnuucida Saadaasha Suuqyada Dagaalka, Argagaxisada iyo Dhimashada"
+    },
+    {
+      "title": "DBS bets it can lose the deposit and keep the client",
+      "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-20T15:32:30+00:00",
+      "title_so": "Qadka DBS waxay lumin kartaa deebaajiga oo way haysan kartaa macmiilka"
+    },
+    {
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T14:54:30+00:00",
+      "title_so": "Madaxii hore ee Point72 ee cilmi baarista lahaanshaha ayaa sheegay in AI ay u rogi karto xogta heer cusub oo hanti ah Wall Street"
+    },
+    {
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T14:38:30+00:00",
+      "title_so": "Hong Kong waxay u dhaqaaqday inay u kordhiso sharciyada shatiga crypto dilaaliinta, la taliyayaasha iyo ilaaliyaasha"
+    },
+    {
+      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T14:25:57+00:00",
+      "title_so": "Senate-ka Mareykanka ayaa ansixiyay sharciga lagu mamnuucayo saadaasha suuqa ee dagaalka iyo dhimashada"
+    },
+    {
+      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T13:35:33+00:00",
+      "title_so": "Wararka tooska ah: Bitcoin ayaa hoos ugu dhacday hoos u dhac cusub oo ka hooseeya $60,000 sida sawirada Anthropic ka dib markii ugu horeysay ee Nasdaq"
+    },
+    {
+      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
       "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-20T13:30:22+00:00",
-      "title_so": "Bots Bitcoin ayaa ku booday ilbiriqsiyo gudahood markii cilmi-baarayaashu ay soo bandhigeen furahooda"
+      "title_so": "Bots Bitcoin ayaa ku booday ilbidhiqsiyo gudahood markii cilmi-baarayaashu ay soo bandhigeen furayaasha jeebka"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-20T13:29:58+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
@@ -26,12 +114,12 @@
       "title_so": "Lagarde ayaa ka digtay in Yurub ay lumin karto fursad ay ku mideyso suuqyada calaamadeysan"
     },
     {
-      "title": "ECB’s Largarde warns Europe could lose control of growing tokenized asset market",
+      "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
       "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-20T13:11:49+00:00",
-      "title_so": "ECB's Largarde ayaa ka digaya Yurub inay lumin karto xakamaynta suuqa hantida ee kor u kaca"
+      "title_so": "Lagarde ee ECB waxay ka digaysaa Yurub inay lumin karto xakamaynta suuqa hantida ee sii kordheysa"
     },
     {
       "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
@@ -130,14 +218,6 @@
       "title_so": "Ma jiro sharciyo gaar ah oo loogu talagalay Hyperliquid ama aaladaha kale ee ganacsiga onchain, CFTC ayaa leh"
     },
     {
-      "title": "Airbnb's divisive new house rules come into force",
-      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T09:55:20+00:00",
-      "title_so": "Xeerarka cusub ee kala qaybinta Airbnb ayaa dhaqan galay"
-    },
-    {
       "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
       "url": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
       "source": "CoinDesk",
@@ -170,12 +250,12 @@
       "title_so": "Token Monero oo duuduuban ayaa hoos u dhacay 99% iyadoo jeebka ku xiran soo saaraha uu iibiyo $13.5 milyan"
     },
     {
-      "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
       "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-20T08:03:34+00:00",
-      "title_so": "SEC waxay ku soo oogtay sideed shirkadood aaladaha crypto been abuurka ah ee ku xidhan $37m khiyaano"
+      "title_so": "SEC waxay ku soo oogtay 8 shirkadood aaladaha crypto ee been abuurka ah ee ku xidhan $37m khiyaano"
     },
     {
       "title": "Should AI be judging our credit worthiness?",
@@ -216,14 +296,6 @@
       "category": "Economy",
       "published": "2026-11-20T06:00:33+00:00",
       "title_so": "Mouldy, guryihii la qabsaday ee loogu talagalay dadka jilicsan ayaa loo iibiyey sidii maalgashi anshaxeed oo dibadda ah"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-20T06:00:00+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
@@ -274,12 +346,12 @@
       "title_so": "Bitcoin ayaa hoos ugu dhacday afar bilood ka dib IPO-ga Anthropic sida kaydka tignoolajiyadu uu hoos u dhacayo"
     },
     {
-      "title": "Eating at your desk? The dos and don'ts of lunch at work",
+      "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
       "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-20T00:08:37+00:00",
-      "title_so": "Wax ka cunaya miiskaaga? Waxa la sameeyo iyo kuwa aan ahayn ee qadada shaqada"
+      "title_so": "Kalluunka iyo ukunta al desko? Waxa la sameeyo iyo kuwa aan ahayn ee qadada shaqada"
     },
     {
       "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
@@ -488,78 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-19T15:54:03+00:00",
       "title_so": "Anthropic Tops SpaceX's IPO Bilowga ah oo leh $81 Bilyan Heshiis: Halkay Lacagtu ka baxday"
-    },
-    {
-      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
-      "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-19T15:20:38+00:00",
-      "title_so": "Binance wuxuu ku guuleystey $6.5 bilyan oo lacag bixin ah oo ka dhan ah hackers-ka ee ka dambeeya xatooyada ugu weyn ee crypto"
-    },
-    {
-      "title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
-      "url": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-19T14:01:02+00:00",
-      "title_so": "Gen Z wuxuu aqbalay Crypto halka inta badan dadka Maraykanku ay ugu yeeraan 'Weydiiso dhinac ah'"
-    },
-    {
-      "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
-      "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-19T13:47:00+00:00",
-      "title_so": "Casriyeynta Quantum waxay noqon kartaa 'Gaar ahaan caqabad ku ah' Blockchains: IOSCO"
-    },
-    {
-      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-19T13:35:52+00:00",
-      "title_so": "Viagogo waxaa laga yaabaa in ay jabisay sharciga khidmadaha qarsoon, ilaalo ayaa si ku meel gaar ah u heshaa"
-    },
-    {
-      "title": "Ethereum’s new DeFi security tool raises questions over censorship",
-      "url": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T13:30:00+00:00",
-      "title_so": "Qalabka cusub ee Ethereum ee DeFi wuxuu kiciyaa su'aalo ku saabsan faafreebka"
-    },
-    {
-      "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
-      "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-19T13:11:31+00:00",
-      "title_so": "Ganacsatada Crypto vs. Wall Street: Suuqyada Anthropic ee OKX waxay dhigeen qiimaha IPO imtixaanka"
-    },
-    {
-      "title": "Morning Minute: Google’s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO",
-      "url": "https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-19T13:05:28+00:00",
-      "title_so": "Daqiiqada Subaxda: Moodelka AI ee ugu cusub ee Google ayaa ugu sarreeya jaangooyooyinka ka horreeya IPO Anthropic"
-    },
-    {
-      "title": "Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain",
-      "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-19T12:59:14+00:00",
-      "title_so": "Binance wuxuu ku guuleystey $6.5B Amarka Baraf-joojinta ka badan Hack kaas oo lagu adeegi karo iyada oo loo marayo Blockchain"
-    },
-    {
-      "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
-      "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T12:44:06+00:00",
-      "title_so": "Hong Kong waxay ku dartay Hyperliquid liiska aaladaha 'crypto' ee laga shakisan yahay"
     }
   ]
 }
