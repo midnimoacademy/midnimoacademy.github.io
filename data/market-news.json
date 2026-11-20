@@ -1,6 +1,94 @@
 {
-  "updated_at": "2026-11-20T04:14:45.330453+00:00",
+  "updated_at": "2026-11-20T07:39:31.368046+00:00",
   "items": [
+    {
+      "title": "Should AI be judging our credit worthiness?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T07:32:19+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch",
+      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T07:30:13+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
+      "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-20T06:24:41+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+      "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T06:12:15+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
+      "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T06:08:28+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+      "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T06:00:33+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-20T06:00:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+      "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T05:32:25+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+      "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T05:20:51+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+      "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T04:58:08+00:00",
+      "title_so": null
+    },
+    {
+      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+      "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T04:28:52+00:00",
+      "title_so": null
+    },
     {
       "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
       "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -18,12 +106,12 @@
       "title_so": "Bitcoin ayaa hoos ugu dhacday afar bilood ka dib IPO-ga Anthropic sida kaydka tignoolajiyadu uu hoos u dhacayo"
     },
     {
-      "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+      "title": "GTA 6 breaks records as estimated sales top $2.3bn",
       "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-20T02:54:40+00:00",
-      "title_so": "GTA 6 ayaa jabisay rikoorada iyadoo iibka uu sareeyo $2.3bn - qiyaasta warshadaha"
+      "title_so": null
     },
     {
       "title": "Airbnb's divisive new house rules come into force",
@@ -472,88 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-19T06:23:19+00:00",
       "title_so": "Kor u kaca Fed wuxuu noqon karaa qalad. Waa kan sababta"
-    },
-    {
-      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-19T06:15:57+00:00",
-      "title_so": "Gilts v kilts: Maxaa ka dhacaya curaarta dawladda Scotland?"
-    },
-    {
-      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-      "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T06:00:00+00:00"
-    },
-    {
-      "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-      "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-19T05:39:06+00:00"
-    },
-    {
-      "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
-      "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T05:27:45+00:00"
-    },
-    {
-      "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
-      "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T05:09:45+00:00"
-    },
-    {
-      "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-      "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-19T04:46:10+00:00"
-    },
-    {
-      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-      "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-19T03:40:48+00:00",
-      "title_so": "CZ waxay leedahay Anthropic calaamadeysan ayaa imaanaysa BNB Chain maalinta IPO"
-    },
-    {
-      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-19T02:59:06+00:00"
-    },
-    {
-      "title": "Trump administration unveils new center to choke off scam payments",
-      "url": "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T01:45:33+00:00",
-      "title_so": "Maamulka Trump ayaa daaha ka rogay xarun cusub oo lagu joojinayo lacagaha been abuurka ah"
-    },
-    {
-      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
-      "url": "https://cointelegraph.com/markets/fed-officials-saw-october-rate-hold-as-close-call-minutes-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T00:35:49+00:00",
-      "title_so": "Saraakiisha Fed waxay u arkeen in heerka Oktoobar la hayo 'wicitaan dhow', bandhig daqiiqado ah"
-    },
-    {
-      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-      "url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-19T00:33:46+00:00",
-      "title_so": "Maxkamad kale oo Mareykan ah oo racfaan ka qaadaneysa ayaa ka soo horjeeda Kalshi, taasoo dhiseysa dabaylaha sharciga ah ee warshadaha"
     }
   ]
 }
