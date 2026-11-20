@@ -1,21 +1,77 @@
 {
-  "updated_at": "2026-11-20T07:39:31.368046+00:00",
+  "updated_at": "2026-11-20T10:23:44.949565+00:00",
   "items": [
+    {
+      "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
+      "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-20T10:07:46+00:00",
+      "title_so": "CryptoUK waxay ku boorinaysaa FCA inaysan ula dhaqmin DeFi Devs sida uu u nidaamiyay Default"
+    },
+    {
+      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+      "url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T10:02:03+00:00",
+      "title_so": "Ma jiro sharciyo gaar ah oo loogu talagalay Hyperliquid ama aaladaha kale ee ganacsiga onchain, CFTC ayaa leh"
+    },
+    {
+      "title": "Airbnb's divisive new house rules come into force",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T09:55:20+00:00",
+      "title_so": "Xeerarka cusub ee kala qaybinta Airbnb ayaa dhaqan galay"
+    },
+    {
+      "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
+      "url": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T09:48:52+00:00",
+      "title_so": "Cathie Wood's Ark Invest waxa ay ku ururtay Anthropic IPO, iyada oo iibsatay $90 milyan oo saamiyo ah"
+    },
+    {
+      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T09:44:56+00:00",
+      "title_so": "Cunto qasacadaysan iyo caanaha cimriga dheer waxay kor u qaadaan iibka tafaariiqda ka dib bilawga ololaha 'Diyaar u noqo'"
+    },
+    {
+      "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
+      "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-20T08:18:42+00:00",
+      "title_so": "BlackRock's IBIT ayaa luminaya rikoorka $541M iyada oo uu ku jiro kulankii ugu horreeyay ee suuqa Anthropic"
+    },
+    {
+      "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
+      "url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T08:04:40+00:00",
+      "title_so": "Token Monero oo duuduuban ayaa hoos u dhacay 99% iyadoo jeebka ku xiran soo saaraha uu iibiyo $13.5 milyan"
+    },
+    {
+      "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
+      "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-20T08:03:34+00:00",
+      "title_so": "SEC waxay ku soo oogtay sideed shirkadood aaladaha crypto been abuurka ah ee ku xidhan $37m khiyaano"
+    },
     {
       "title": "Should AI be judging our credit worthiness?",
       "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-20T07:32:19+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch",
-      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T07:30:13+00:00",
-      "title_so": null
+      "title_so": "AI ma tahay inay qiimeeyaan u qalmida credit our?"
     },
     {
       "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
@@ -23,7 +79,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-20T06:24:41+00:00",
-      "title_so": null
+      "title_so": "Anthropic's $81B IPO wuxuu sawiraa kala badh iibsashada tafaariiqda saafiga ah ee SpaceX's"
     },
     {
       "title": "Here's what's crashing gold and likely weighing on bitcoin too",
@@ -31,7 +87,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-20T06:12:15+00:00",
-      "title_so": null
+      "title_so": "Waa kuwan waxa burburaya dahabka oo ay u badan tahay in lagu miisaamo bitcoin sidoo kale"
     },
     {
       "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
@@ -39,7 +95,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-20T06:08:28+00:00",
-      "title_so": null
+      "title_so": "Saamiyada anthropic ayaa laga yaabaa inay hoos u dhacaan 5% jimcaha furitaanka, mustaqbalka crypto ayaa soo jeedinaya"
     },
     {
       "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
@@ -47,7 +103,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-20T06:00:33+00:00",
-      "title_so": null
+      "title_so": "Mouldy, guryihii la qabsaday ee loogu talagalay dadka jilicsan ayaa loo iibiyey sidii maalgashi anshaxeed oo dibadda ah"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -55,7 +111,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-20T06:00:00+00:00",
-      "title_so": null
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
@@ -63,7 +119,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-20T05:32:25+00:00",
-      "title_so": null
+      "title_so": "Macdanta Bitcoin waxay iibisay 267 BTC si ay u nadiifiso $ 22 milyan oo deyn ah. Waxa laga yaabaa in aanay weli sii noolaan"
     },
     {
       "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
@@ -71,7 +127,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-20T05:20:51+00:00",
-      "title_so": null
+      "title_so": "Lacag weyn waxay iibsatay $4 bilyan oo lacag bitcoin ah Q3, taasoo soo afjartay 9 bilood oo iib ah"
     },
     {
       "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
@@ -79,7 +135,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-20T04:58:08+00:00",
-      "title_so": null
+      "title_so": "Isbeddelka weyn ee Ethereum ee xiga waxaa lagu riixaa 2027 abka uu jebin doono"
     },
     {
       "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
@@ -87,7 +143,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-20T04:28:52+00:00",
-      "title_so": null
+      "title_so": "VanEck wuxuu Gemini u dhigayaa ilaaliyaha bitcoin, ether iyo SOL ETFs"
     },
     {
       "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
@@ -111,15 +167,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-20T02:54:40+00:00",
-      "title_so": null
-    },
-    {
-      "title": "Airbnb's divisive new house rules come into force",
-      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T00:12:28+00:00",
-      "title_so": "Xeerarka cusub ee kala qaybinta Airbnb ayaa dhaqan galay"
+      "title_so": "GTA 6 ayaa jabisay rikoorada iyadoo lagu qiyaasay iibku inuu sareeyo $2.3bn"
     },
     {
       "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
@@ -512,54 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-19T10:25:05+00:00",
       "title_so": "Bitcoin waxay u halgamaysaa inay haysato $64,000 iyadoo ETF ka soo baxaysa ay gaadhay $2.9B bishii November"
-    },
-    {
-      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-      "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-19T10:22:12+00:00",
-      "title_so": "Roundhill waxay xaaqdaa Solana iyo XRP dakhliga soo gala ETFs maadaama lacagaha iska soo horjeeda ay muujinayaan baahida hoose"
-    },
-    {
-      "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-      "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T08:54:58+00:00",
-      "title_so": "Singapore waxay dejisay $77.5M iibka biilka calaamadeysan oo leh CBDC jumlo ah"
-    },
-    {
-      "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T08:26:19+00:00",
-      "title_so": "Hantida Bitcoin ETF waxay hoos ugu dhacaysaa saddex bilood oo hoose iyada oo 2026 ka soo baxay saafiga ah ee ugu sarreeya $2.5B"
-    },
-    {
-      "title": "BTCPay Server issues emergency update for 5 security flaws",
-      "url": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T08:04:37+00:00",
-      "title_so": "Server-ka BCPay wuxuu soo saaraa cusboonaysiinta degdega ah ee 5 cilladaha amniga"
-    },
-    {
-      "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-      "url": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T07:55:56+00:00",
-      "title_so": "Bitcoin waxay dib u tijaabisaa $62K iyadoo mustaqbalka Nasdaq uu kor u kacay ka hor inta aan la bilaabin Anthropic"
-    },
-    {
-      "title": "Fed's rate hike push may be a mistake. Here's why",
-      "url": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-19T06:23:19+00:00",
-      "title_so": "Kor u kaca Fed wuxuu noqon karaa qalad. Waa kan sababta"
     }
   ]
 }
