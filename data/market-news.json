@@ -1,6 +1,70 @@
 {
-  "updated_at": "2026-11-19T22:08:09.245173+00:00",
+  "updated_at": "2026-11-20T01:29:24.206688+00:00",
   "items": [
+    {
+      "title": "Airbnb's divisive new house rules come into force",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T00:12:28+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T00:08:37+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T00:02:07+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+      "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-19T23:44:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-19T23:33:51+00:00",
+      "title_so": "Anthropic waxay noqotaa mid ka mid ah shirkadaha dadweynaha ee ugu qiimaha badan adduunka marka loo eego suuqa saamiyada"
+    },
+    {
+      "title": "California targets Nvidia in China AI chip probe",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-19T23:04:30+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+      "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-19T22:36:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+      "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-19T22:25:18+00:00",
+      "title_so": null
+    },
     {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -8,14 +72,6 @@
       "category": "Crypto",
       "published": "2026-11-19T21:42:20+00:00",
       "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-19T21:38:42+00:00",
-      "title_so": "Anthropic waxay noqotaa mid ka mid ah shirkadaha dadweynaha ee ugu qiimaha badan adduunka marka loo eego suuqa saamiyada"
     },
     {
       "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
@@ -326,70 +382,80 @@
       "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T10:48:26+00:00"
+      "published": "2026-11-19T10:48:26+00:00",
+      "title_so": null
     },
     {
       "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
       "url": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T10:39:36+00:00"
+      "published": "2026-11-19T10:39:36+00:00",
+      "title_so": null
     },
     {
       "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
       "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T10:32:05+00:00"
+      "published": "2026-11-19T10:32:05+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
       "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-19T10:25:05+00:00"
+      "published": "2026-11-19T10:25:05+00:00",
+      "title_so": null
     },
     {
       "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
       "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T10:22:12+00:00"
+      "published": "2026-11-19T10:22:12+00:00",
+      "title_so": null
     },
     {
       "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
       "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T08:54:58+00:00"
+      "published": "2026-11-19T08:54:58+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
       "url": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T08:26:19+00:00"
+      "published": "2026-11-19T08:26:19+00:00",
+      "title_so": null
     },
     {
       "title": "BTCPay Server issues emergency update for 5 security flaws",
       "url": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T08:04:37+00:00"
+      "published": "2026-11-19T08:04:37+00:00",
+      "title_so": null
     },
     {
       "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
       "url": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T07:55:56+00:00"
+      "published": "2026-11-19T07:55:56+00:00",
+      "title_so": null
     },
     {
       "title": "Fed's rate hike push may be a mistake. Here's why",
       "url": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T06:23:19+00:00"
+      "published": "2026-11-19T06:23:19+00:00",
+      "title_so": null
     },
     {
       "title": "Gilts v kilts: What is happening with Scottish government bonds?",
@@ -404,21 +470,24 @@
       "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T06:00:00+00:00"
+      "published": "2026-11-19T06:00:00+00:00",
+      "title_so": null
     },
     {
       "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
       "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-19T05:39:06+00:00"
+      "published": "2026-11-19T05:39:06+00:00",
+      "title_so": null
     },
     {
       "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
       "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-19T05:27:45+00:00"
+      "published": "2026-11-19T05:27:45+00:00",
+      "title_so": null
     },
     {
       "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
@@ -487,61 +556,6 @@
       "category": "Economy",
       "published": "2026-11-19T00:00:59+00:00",
       "title_so": "Ku xad-gudubka galmoodka ee McDonald: 'Waxay sugayeen gabdhaha da'da yari inay 18 jirsadaan'"
-    },
-    {
-      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-18T23:47:46+00:00",
-      "title_so": "Waa maxay sababta Waymo ay dhammaan baabuurteeda darawal la'aanta ah uga soo jiidatay jidadka xorta ah ee Maraykanka?"
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-18T23:42:07+00:00",
-      "title_so": "Toddobada aasaasayaasha Anthropic ee ku dhow inay noqdaan bilyaneerro badan"
-    },
-    {
-      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
-      "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-18T22:30:00+00:00",
-      "title_so": "Payward, oo ah milkiilaha isweydaarsiga crypto Kraken, ayaa iibsanaya ganacsigiisa raasumaalka ah ee maamulaha guud, Tribe"
-    },
-    {
-      "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
-      "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-18T22:16:02+00:00",
-      "title_so": "Ledger wuxuu xaqiijinayaa boorsooyinka Bitcoin ee la jabiyay ee Berlin iyadoo Baadhista Maqaar-galaha Basaasku uu ku faafayo meel ka baxsan Aasiya"
-    },
-    {
-      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
-      "url": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-18T21:57:35+00:00",
-      "title_so": "Tether waxay ugu yeertaa The Big Short si uu u garaaco S&P khatarta kaydka USDT"
-    },
-    {
-      "title": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
-      "url": "https://decrypt.co/383584/chatgpt-claude-gemini-grok-help-plan-terror-attacks-government-tests",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-18T21:46:03+00:00",
-      "title_so": "ChatGPT, Claude, Gemini iyo Grok waxay gacan ka geysteen Qorsheynta Weerarada Argagaxisada ee Imtixaanada Dowladda"
-    },
-    {
-      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-18T21:28:08+00:00"
     }
   ]
 }
