@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T13:19:15.244781+00:00",
+  "updated_at": "2026-11-21T16:01:36.897759+00:00",
   "items": [
+    {
+      "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+      "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-21T16:01:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+      "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-21T14:01:06+00:00",
+      "title_so": null
+    },
     {
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
       "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
@@ -544,22 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-19T23:44:02+00:00",
       "title_so": "Ledger CTO Charles Guillemet si uu uga tago ka dib sagaal sano oo shirkad ah"
-    },
-    {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-19T23:33:51+00:00",
-      "title_so": "Anthropic waxay noqotaa mid ka mid ah shirkadaha dadweynaha ee ugu qiimaha badan adduunka marka loo eego suuqa saamiyada"
-    },
-    {
-      "title": "California targets Nvidia in China AI chip probe",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-19T23:04:30+00:00",
-      "title_so": "Kaliforniya waxay bartilmaameedsanaysaa Nvidia ee Shiinaha AI chip baaritaanka"
     }
   ]
 }
