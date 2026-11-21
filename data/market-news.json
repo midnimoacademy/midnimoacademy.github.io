@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-20T22:05:48.181434+00:00",
+  "updated_at": "2026-11-21T01:34:14.911260+00:00",
   "items": [
+    {
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T22:53:24+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-20T22:51:14+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T22:42:47+00:00",
+      "title_so": null
+    },
     {
       "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
       "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
@@ -32,14 +56,6 @@
       "category": "Crypto",
       "published": "2026-11-20T20:36:54+00:00",
       "title_so": null
-    },
-    {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T20:00:53+00:00",
-      "title_so": "Saamiyada Anthropic ayaa hoos u dhacaya ka dib furitaanka blockbuster iyadoo iibinta tignoolajiyada ballaaran ay sii socoto"
     },
     {
       "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
@@ -88,6 +104,14 @@
       "category": "Crypto",
       "published": "2026-11-20T18:13:52+00:00",
       "title_so": "Seeraar waxay hoos ugu dhacday $59,000 iyadoo degdeg loogu helo lacag caddaan ah ay dib u soo celiso hoos u dhaca suuqa cusub ee suuqa"
+    },
+    {
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-20T17:49:48+00:00",
+      "title_so": null
     },
     {
       "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
@@ -232,14 +256,6 @@
       "category": "Crypto",
       "published": "2026-11-20T13:11:49+00:00",
       "title_so": "Lagarde ee ECB waxay ka digaysaa Yurub inay lumin karto xakamaynta suuqa hantida ee sii kordheysa"
-    },
-    {
-      "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T13:08:30+00:00",
-      "title_so": "GTA 6 ayaa kor u kaca baahida soo dejinta, iyadoo lagu qiyaasay iibku inuu sarreeyo $2.3bn"
     },
     {
       "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
@@ -544,22 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-19T20:33:24+00:00",
       "title_so": "Mustaqbalka Hyperliquid Anthropic waxaa lagu qiimeeyay 1% ee qiimaha furitaanka Nasdaq"
-    },
-    {
-      "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-      "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-19T20:15:32+00:00",
-      "title_so": "Hackers Leak Visa, Mastercard iyo JPMorgan Xogta Macmiilka"
-    },
-    {
-      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
-      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T20:06:34+00:00",
-      "title_so": "Musharaxa SEC ee Trump Johnson wuxuu taageeray sharci-dejinta rasmiga ah ee ganacsiga saamiyada"
     }
   ]
 }
