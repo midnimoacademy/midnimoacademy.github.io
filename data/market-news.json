@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T07:31:36.665820+00:00",
+  "updated_at": "2026-11-21T10:05:40.454724+00:00",
   "items": [
+    {
+      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-21T09:48:56+00:00",
+      "title_so": null
+    },
+    {
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-21T07:51:47+00:00",
+      "title_so": null
+    },
     {
       "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
       "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
@@ -544,22 +560,6 @@
       "category": "Economy",
       "published": "2026-11-19T23:04:30+00:00",
       "title_so": "Kaliforniya waxay bartilmaameedsanaysaa Nvidia ee Shiinaha AI chip baaritaanka"
-    },
-    {
-      "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-      "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-19T22:36:02+00:00",
-      "title_so": "Citi waxay tiraahdaa Macaamiisha ayaa mas'uul ka ah marka wakiilada bangiyada AI ay tagaan Rogue-Xitaa Ka dib markii la jabsado"
-    },
-    {
-      "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
-      "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T22:25:18+00:00",
-      "title_so": "Dalabka qaboojinta $6.5B ee Binance, Hong Kong 'waa laga shakisan yahay' HYPE: Asia Express"
     }
   ]
 }
