@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-21T04:11:57.306932+00:00",
+  "updated_at": "2026-11-21T07:31:36.665820+00:00",
   "items": [
+    {
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-21T06:16:42+00:00",
+      "title_so": null
+    },
+    {
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-21T05:59:19+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-21T05:40:35+00:00",
+      "title_so": null
+    },
     {
       "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
       "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
@@ -536,30 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-19T22:25:18+00:00",
       "title_so": "Dalabka qaboojinta $6.5B ee Binance, Hong Kong 'waa laga shakisan yahay' HYPE: Asia Express"
-    },
-    {
-      "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-      "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-19T21:12:06+00:00",
-      "title_so": "Nvidia, AMD, Micron Sink sida Anthropic wuxuu u xiraa 17% ka sarreeya Qiimaha IPO"
-    },
-    {
-      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
-      "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T21:01:42+00:00",
-      "title_so": "MoonPay wuxuu u raadsadaa charterka bangiga Mareykanka ee stablecoin, adeegyada haynta"
-    },
-    {
-      "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-      "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-19T20:46:02+00:00",
-      "title_so": "La kulan SHRINCS: Seeraar Horu-socodka Soo baxaya ee Saxiixa Quantum-ka Kadib"
     }
   ]
 }
