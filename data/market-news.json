@@ -1,13 +1,45 @@
 {
-  "updated_at": "2026-11-21T16:01:36.897759+00:00",
+  "updated_at": "2026-11-21T19:09:14.105474+00:00",
   "items": [
+    {
+      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+      "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-21T18:01:02+00:00",
+      "title_so": "GTA 6 Leaker Dangles Deked PC ah oo ay ka danbeyso $15 Million Pump"
+    },
+    {
+      "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-21T17:50:00+00:00",
+      "title_so": "Bitcoin ayaa ka soo kabsatay 9% labadii sano ee ugu hooseysay si ay dib ugu qaadato $60,000 iyadoo ganacsatadu ay isha ku hayaan kaydka Isniinta"
+    },
+    {
+      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+      "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-21T17:01:02+00:00",
+      "title_so": "Khayaanada waxay adeegsadeen Isweydaarsiga Crypto Fake si ay u xadaan $37 Milyan, eedeymaha SEC"
+    },
+    {
+      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-21T16:41:00+00:00",
+      "title_so": "Hab-maamuuska silsiladda isku-tallaabta ee taangiyada FLIP ee Chainflip 30% ka dib markii laga shakiyay $4.86 milyan"
+    },
     {
       "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
       "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-21T16:01:02+00:00",
-      "title_so": null
+      "title_so": "Calaamaduhu waxay ugu yeeraan heerka OS-ka AI 'halis jirta' oo waxay xannibaysaa sawir-qaadista si loola dagaallamo"
     },
     {
       "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
@@ -15,7 +47,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-21T14:01:06+00:00",
-      "title_so": null
+      "title_so": "Ugu dambayntii AI xumbo soo boodaya? Nvidia waxay burburtay 48% iyadoo khubarada Wall Street ay u dhawaqayaan qaylo-dhaanta"
     },
     {
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -23,7 +55,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-21T12:30:00+00:00",
-      "title_so": null
+      "title_so": "Shirkadda khasnada ee Ether BTCS waxay ka digaysaa SEC in $ 54 milyan amaahda Aave la baabi'in karo"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -39,7 +71,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-21T09:48:56+00:00",
-      "title_so": null
+      "title_so": "ECB waxay raadisaa la-hawlgalayaasha warshadaha si ay u helaan dhigaal la calaamadeeyay, tijaabooyin securities"
     },
     {
       "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
@@ -47,7 +79,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-21T07:51:47+00:00",
-      "title_so": null
+      "title_so": "Sharci-dajiyayaal Maraykan ah ayaa soo jeedinaya ilaa 30% abaal-marinno la siiyo dadka wax saadaaliya suuqa saadaasha"
     },
     {
       "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
@@ -55,7 +87,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-21T06:16:42+00:00",
-      "title_so": null
+      "title_so": "Nodes Bitcoin waa la joojin karaa iyadoo lagu celiyo hal aqoonsi 50,000 jeer. AI waxay heshay cilladda"
     },
     {
       "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
@@ -63,7 +95,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-21T05:59:19+00:00",
-      "title_so": null
+      "title_so": "XRP waxay hoos u dhacdaa 10% ilaa inta sharadku furto oo hantida ETF ay hoos uga dhacdo $1 bilyan"
     },
     {
       "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
@@ -71,7 +103,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-21T05:40:35+00:00",
-      "title_so": null
+      "title_so": "Hong Kong waxay ku riixdaa inay keento ilaaliyayaasha crypto, lataliyeyaasha hoos yimaada xeerarka shatiga"
     },
     {
       "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
@@ -79,7 +111,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-21T04:10:07+00:00",
-      "title_so": null
+      "title_so": "Taangiyada Bitcoin waxay ka hooseeyaan $57,000 markii ugu horeysay muddo laba sano ah, kaligeedna maaha"
     },
     {
       "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
@@ -87,7 +119,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-20T22:53:24+00:00",
-      "title_so": null
+      "title_so": "Iibka GTA 6 wuxuu gaaray $3.8bn hal maalin gudaheed - madadaalada ugu weyn ee la bilaabo taariikhda"
     },
     {
       "title": "Kalshi races to get ahead of New York order that could shut down exchange",
@@ -95,7 +127,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-20T22:51:14+00:00",
-      "title_so": null
+      "title_so": "Kalshi wuxuu u tartamayaa inuu ka hormaro amarka New York kaasoo xiri kara sarifka lacagaha"
     },
     {
       "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
@@ -103,7 +135,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-20T22:42:47+00:00",
-      "title_so": null
+      "title_so": "Iibinta teknoolojiyada saamiyada ayaa hoos u dhigaysa suuqyada iyadoo saamiyada Anthropic ay simbiriirixanayaan"
     },
     {
       "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
@@ -111,7 +143,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-20T22:05:31+00:00",
-      "title_so": null
+      "title_so": "Fairmint waxay qorshaynaysaa inay calaamadiso goobta saamiyada ee Canton, Ethereum iyadoo la raacayo tijaabada SEC"
     },
     {
       "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
@@ -119,7 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-20T21:36:02+00:00",
-      "title_so": null
+      "title_so": "Claude Wuxuu Sheegtay Horumarka Xisaabta Taariikhiga ah Maalin Kadib IPO Anthropic"
     },
     {
       "title": "Trump threatens ban on US firms building AI data centres overseas",
@@ -127,7 +159,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-20T20:54:12+00:00",
-      "title_so": null
+      "title_so": "Trump wuxuu ku hanjabay mamnuucida shirkadaha Mareykanka inay dhisaan xarumaha xogta AI ee dibedda"
     },
     {
       "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
@@ -135,23 +167,21 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-20T20:36:54+00:00",
-      "title_so": null
+      "title_so": "Saamiyada Nvidia waxay hoos ugu dhacday 52-toddobaad ka dib Warbixinta SEC waxay hubinaysaa Xisaabinta"
     },
     {
       "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
       "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-20T19:37:27+00:00",
-      "title_so": null
+      "published": "2026-11-20T19:37:27+00:00"
     },
     {
       "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
       "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-20T19:36:03+00:00",
-      "title_so": null
+      "published": "2026-11-20T19:36:03+00:00"
     },
     {
       "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
@@ -190,8 +220,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-20T17:49:48+00:00",
-      "title_so": null
+      "published": "2026-11-20T17:49:48+00:00"
     },
     {
       "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
@@ -294,8 +323,7 @@
       "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-20T13:35:33+00:00",
-      "title_so": null
+      "published": "2026-11-20T13:35:33+00:00"
     },
     {
       "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
@@ -514,22 +542,6 @@
       "title_so": "Lacag weyn waxay iibsatay $4 bilyan oo lacag bitcoin ah Q3, taasoo soo afjartay 9 bilood oo iib ah"
     },
     {
-      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-      "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-20T04:58:08+00:00",
-      "title_so": "Isbeddelka weyn ee Ethereum ee xiga waxaa lagu riixaa 2027 abka uu jebin doono"
-    },
-    {
-      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-      "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-20T04:28:52+00:00",
-      "title_so": "VanEck wuxuu Gemini u dhigayaa ilaaliyaha bitcoin, ether iyo SOL ETFs"
-    },
-    {
       "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
       "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -544,22 +556,6 @@
       "category": "Economy",
       "published": "2026-11-20T00:08:37+00:00",
       "title_so": "Kalluunka iyo ukunta al desko? Waxa la sameeyo iyo kuwa aan ahayn ee qadada shaqada"
-    },
-    {
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T00:02:07+00:00",
-      "title_so": "Tobanaan kun oo talaajadood oo UK ah ayaa laga badbaadiyay tuugada hawlgal qarsoodi ah oo dalka oo dhan ka socday"
-    },
-    {
-      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
-      "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T23:44:02+00:00",
-      "title_so": "Ledger CTO Charles Guillemet si uu uga tago ka dib sagaal sano oo shirkad ah"
     }
   ]
 }
