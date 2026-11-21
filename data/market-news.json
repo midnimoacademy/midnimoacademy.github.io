@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T19:09:14.105474+00:00",
+  "updated_at": "2026-11-21T21:57:44.450724+00:00",
   "items": [
     {
       "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
@@ -10,12 +10,12 @@
       "title_so": "GTA 6 Leaker Dangles Deked PC ah oo ay ka danbeyso $15 Million Pump"
     },
     {
-      "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
       "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-21T17:50:00+00:00",
-      "title_so": "Bitcoin ayaa ka soo kabsatay 9% labadii sano ee ugu hooseysay si ay dib ugu qaadato $60,000 iyadoo ganacsatadu ay isha ku hayaan kaydka Isniinta"
+      "title_so": "Bitcoin ayaa dib u soo ceshatay in ka badan $60,000 ka dib $1.8 bilyan mowjadda dareeraha ee crypto"
     },
     {
       "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
@@ -174,14 +174,16 @@
       "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-20T19:37:27+00:00"
+      "published": "2026-11-20T19:37:27+00:00",
+      "title_so": "Token Monero oo duuduuban ayaa burburtay 99.8% iyada oo laga shakisan yahay in $13.5M laga faa'iidaysto"
     },
     {
       "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
       "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-20T19:36:03+00:00"
+      "published": "2026-11-20T19:36:03+00:00",
+      "title_so": "SBF's 'The Altruists' Plot Twist: FTX's Saamiyada Anthropic waxay noqon doonaan $43 bilyan"
     },
     {
       "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
@@ -220,7 +222,8 @@
       "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-20T17:49:48+00:00"
+      "published": "2026-11-20T17:49:48+00:00",
+      "title_so": "UK si ay u sahamiso xitaa xiriir dhow oo ay la yeelato Midowga Yurub ka dib marka ay heshiiyaan heshiiska, ayay tiri Burnham"
     },
     {
       "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
@@ -323,7 +326,8 @@
       "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-20T13:35:33+00:00"
+      "published": "2026-11-20T13:35:33+00:00",
+      "title_so": "Wararka tooska ah: Bitcoin ayaa hoos ugu dhacday hoos u dhac cusub oo ka hooseeya $59,000 sida sawirada Anthropic ka dib markii ugu horeysay ee Nasdaq"
     },
     {
       "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
