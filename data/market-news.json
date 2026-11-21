@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T01:34:14.911260+00:00",
+  "updated_at": "2026-11-21T04:11:57.306932+00:00",
   "items": [
+    {
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-21T04:10:07+00:00",
+      "title_so": null
+    },
     {
       "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
       "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
@@ -552,14 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-19T20:46:02+00:00",
       "title_so": "La kulan SHRINCS: Seeraar Horu-socodka Soo baxaya ee Saxiixa Quantum-ka Kadib"
-    },
-    {
-      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-      "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-19T20:33:24+00:00",
-      "title_so": "Mustaqbalka Hyperliquid Anthropic waxaa lagu qiimeeyay 1% ee qiimaha furitaanka Nasdaq"
     }
   ]
 }
