@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-22T13:17:15.933552+00:00",
+  "updated_at": "2026-11-22T16:00:19.903998+00:00",
   "items": [
+    {
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-22T14:30:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+      "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-22T14:01:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-22T14:00:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-22T13:50:21+00:00",
+      "title_so": null
+    },
     {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -528,38 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-20T08:18:42+00:00",
       "title_so": "BlackRock's IBIT ayaa luminaya rikoorka $541M iyada oo uu ku jiro kulankii ugu horreeyay ee suuqa Anthropic"
-    },
-    {
-      "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-      "url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-20T08:04:40+00:00",
-      "title_so": "Token Monero oo duuduuban ayaa hoos u dhacay 99% iyadoo jeebka ku xiran soo saaraha uu iibiyo $13.5 milyan"
-    },
-    {
-      "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-      "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-20T08:03:34+00:00",
-      "title_so": "SEC waxay ku soo oogtay 8 shirkadood aaladaha crypto ee been abuurka ah ee ku xidhan $37m khiyaano"
-    },
-    {
-      "title": "Should AI be judging our credit worthiness?",
-      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T07:32:19+00:00",
-      "title_so": "AI ma tahay inay qiimeeyaan u qalmida credit our?"
-    },
-    {
-      "title": "Anthropic’s $81B IPO draws half the net retail buying of SpaceX’s",
-      "url": "https://cointelegraph.com/markets/anthropic-ipo-spacex-retail-buying-first-day-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-20T06:24:41+00:00",
-      "title_so": "Anthropic's $81B IPO wuxuu sawiraa kala badh iibsashada tafaariiqda saafiga ah ee SpaceX's"
     }
   ]
 }
