@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T16:00:19.903998+00:00",
+  "updated_at": "2026-11-22T19:11:18.635396+00:00",
   "items": [
     {
       "title": "The future of onchain FX could start with users, not institutional liquidity",
@@ -7,7 +7,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-22T14:30:00+00:00",
-      "title_so": null
+      "title_so": "Mustaqbalka onchain FX wuxuu ka bilaabmi karaa isticmaalayaasha, ma aha qulqulka hay'ad"
     },
     {
       "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
@@ -15,7 +15,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-22T14:01:02+00:00",
-      "title_so": null
+      "title_so": "Quantum Chip-ka Google-ka wuxuu ku garaacaa xadka qadiimiga ah ee ciyaarta 'Suurtagal ma aha'"
     },
     {
       "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
@@ -23,7 +23,7 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-22T14:00:00+00:00",
-      "title_so": null
+      "title_so": "Caqabadda amniga tirada Bitcoin waxay ku fidsan tahay buundooyinka, ilaaliyaasha iyo malaayiin qadaadiic ah"
     },
     {
       "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
@@ -31,7 +31,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-22T13:50:21+00:00",
-      "title_so": null
+      "title_so": "Madaxa Centrica ayaa sheegay inuu 'aad uga walaacsan yahay' saamaynta biilasha tamarta ee kor u kacaya"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -136,6 +136,14 @@
       "category": "Crypto",
       "published": "2026-11-21T14:01:06+00:00",
       "title_so": "Ugu dambayntii AI xumbo soo boodaya? Nvidia waxay burburtay 48% iyadoo khubarada Wall Street ay u dhawaqayaan qaylo-dhaanta"
+    },
+    {
+      "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+      "url": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-21T14:00:00+00:00",
+      "title_so": "OpenAI, Anthropic iyo xafiiltanku waxay raadiyaan xeerarka wakiilka AI si ay uga hortagaan qaska ganacsiga"
     },
     {
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -552,14 +560,6 @@
       "category": "Economy",
       "published": "2026-11-20T09:44:56+00:00",
       "title_so": "Cunto qasacadaysan iyo caanaha cimriga dheer waxay kor u qaadaan iibka tafaariiqda ka dib bilawga ololaha 'Diyaar u noqo'"
-    },
-    {
-      "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-      "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-20T08:18:42+00:00",
-      "title_so": "BlackRock's IBIT ayaa luminaya rikoorka $541M iyada oo uu ku jiro kulankii ugu horreeyay ee suuqa Anthropic"
     }
   ]
 }
