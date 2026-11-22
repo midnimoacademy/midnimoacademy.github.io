@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-22T10:03:38.039414+00:00",
+  "updated_at": "2026-11-22T13:17:15.933552+00:00",
   "items": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-22T11:25:27+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
     {
       "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
       "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-22T09:33:06+00:00",
-      "title_so": null
+      "title_so": "Bitcoin ayaa si kooban hoos ugu dhacday $17k dhanka Kraken, sarrifka waxa uu kor u qaadaa ganacsiga"
     },
     {
       "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
@@ -15,7 +23,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-22T07:24:05+00:00",
-      "title_so": null
+      "title_so": "Sarriflayaasha Kuuriyada Koonfureed ayaa hakiyay wareejinta CYBER iyada oo la tuhunsan yahay in buundada laga faa'iidaysto"
     },
     {
       "title": "MP criticises Guernsey and Jersey company ownership register plans",
@@ -23,7 +31,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-22T07:22:05+00:00",
-      "title_so": null
+      "title_so": "Xildhibaanka ayaa dhaleeceeyay qorshayaasha diiwaan gelinta lahaanshaha shirkadda Guernsey iyo Jersey"
     },
     {
       "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
@@ -31,7 +39,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-22T07:12:41+00:00",
-      "title_so": null
+      "title_so": "Ganacsade Talyaani ah Paolo Bulgari oo ahaa dahabilaha iyo dahabka ayaa geeriyooday isagoo 89 jir ah"
     },
     {
       "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
@@ -39,7 +47,7 @@
       "source": "Cointelegraph",
       "category": "Crypto",
       "published": "2026-11-22T05:28:43+00:00",
-      "title_so": null
+      "title_so": "Chainflip wuxuu xaqiijiyay $12m jabsaday, wuxuuna soo bandhigayaa weeraryahan 10% abaal marin"
     },
     {
       "title": "Employers are being asked to give interview feedback - here's what applicants want",
@@ -47,7 +55,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-22T00:04:07+00:00",
-      "title_so": null
+      "title_so": "Loo-shaqeeyayaasha waxaa laga codsanayaa inay bixiyaan jawaab celin wareysi - waa kan waxa codsadayaashu rabaan"
     },
     {
       "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
@@ -106,14 +114,6 @@
       "title_so": "Shirkadda khasnada ee Ether BTCS waxay ka digaysaa SEC in $ 54 milyan amaahda Aave la baabi'in karo"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-21T11:18:52+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
       "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
       "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
@@ -167,7 +167,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-21T00:06:11+00:00",
-      "title_so": null
+      "title_so": "AI runtii ma caawin kartaa in la ogaado heshiisyada Jimcaha Madoow? Imtixaan baanu galnay"
     },
     {
       "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
@@ -303,7 +303,7 @@
       "source": "BBC Business",
       "category": "Economy",
       "published": "2026-11-20T16:41:52+00:00",
-      "title_so": null
+      "title_so": "Faysal Islam: Heshiiskan qiimaha dhimista ee UK iyo EU macnaheedu maaha in qiimo jaban uu raaci doono"
     },
     {
       "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
