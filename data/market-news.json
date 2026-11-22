@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-22T04:14:19.386444+00:00",
+  "updated_at": "2026-11-22T07:31:40.683369+00:00",
   "items": [
+    {
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-22T07:22:05+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-22T07:12:41+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-22T05:28:43+00:00",
+      "title_so": null
+    },
     {
       "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
       "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
@@ -240,14 +264,6 @@
       "category": "Crypto",
       "published": "2026-11-20T16:55:51+00:00",
       "title_so": "Bitcoin ayaa hoos uga dhacday $60K markii ugu horeysay tan iyo Luulyo iyada oo ay jirto iibka suuqa oo ballaaran"
-    },
-    {
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T16:41:52+00:00",
-      "title_so": "Faysal Islam: Heshiiskan qiimaha dhimista ee UK iyo EU macnaheedu maaha in qiimo jaban uu raaci doono"
     },
     {
       "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
@@ -544,22 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-20T05:20:51+00:00",
       "title_so": "Lacag weyn waxay iibsatay $4 bilyan oo lacag bitcoin ah Q3, taasoo soo afjartay 9 bilood oo iib ah"
-    },
-    {
-      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-      "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-20T03:33:22+00:00",
-      "title_so": "Machadyadu waxay dib ugu noqdaan Bitcoin ETFs ee Q3 ka dib iibinta isdabajoogga"
-    },
-    {
-      "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T00:08:37+00:00",
-      "title_so": "Kalluunka iyo ukunta al desko? Waxa la sameeyo iyo kuwa aan ahayn ee qadada shaqada"
     }
   ]
 }
