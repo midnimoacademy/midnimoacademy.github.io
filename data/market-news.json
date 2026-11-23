@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T01:37:20.095356+00:00",
+  "updated_at": "2026-11-23T04:29:57.792651+00:00",
   "items": [
+    {
+      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
+      "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T03:37:20+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
+      "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T02:47:39+00:00",
+      "title_so": null
+    },
     {
       "title": "Energy bills will soar - here's how you can ease the pain",
       "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
@@ -544,22 +560,6 @@
       "category": "Crypto",
       "published": "2026-11-20T11:23:00+00:00",
       "title_so": "Coinbase Bartilmaameedka Suuqyada Saadaasha Guriga Qeybta Hore ee 2027: Warbixinta"
-    },
-    {
-      "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
-      "url": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-20T10:54:38+00:00",
-      "title_so": "VanEck si loo joojiyo Gemini ETF heshiisyada haynta, waxay haysaa Coinbase"
-    },
-    {
-      "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-      "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-20T10:48:04+00:00",
-      "title_so": "Coinbase waxay bartilmaameedsanaysaa qaybta hore ee 2027 qandaraasyada suuqa saadaasha"
     }
   ]
 }
