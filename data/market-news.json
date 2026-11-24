@@ -1,173 +1,468 @@
 {
-  "updated_at": "2026-11-23T13:41:46.996289+00:00",
+  "updated_at": "2026-11-24T02:17:15.234708+00:00",
   "items": [
     {
-      "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
-      "url": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-23T13:34:13+00:00",
-      "title_so": null
+      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-24T01:11:54+00:00",
+      "title_so": "Nvidia ayaa dib u soo celisay maamulaha guud Jensen Huang ka dib markii uu xiriir la sameeyay basaas lagu eedeeyay Trump ayaa yiri 'waxaan sameeyay heshiiska'"
     },
     {
-      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
-      "url": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-23T13:31:01+00:00",
-      "title_so": null
+      "published": "2026-11-24T00:36:26+00:00",
+      "title_so": "Ethereum Foundation waxay labanlaabtaa kooxda amniga borotokoolka ka hor dib u habeyn"
     },
     {
-      "title": "AI agents are using credit cards. Where does that leave crypto?",
-      "url": "https://cointelegraph.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-24T00:25:04+00:00",
+      "title_so": "US CFTC waxay dejisaa siyaasadaha xogta qandaraaska dhacdada, iyadoo la adeegsanayo crypto si loo hubiyo sanduuqyada maaliyadeed"
+    },
+    {
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-24T00:01:04+00:00",
+      "title_so": "Waxaan bixiyaa £250 bishii qof kale si uu u sameeyo maamulka noloshayda - waa u qalantaa"
+    },
+    {
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-23T13:30:00+00:00",
-      "title_so": null
+      "published": "2026-11-23T23:43:34+00:00",
+      "title_so": "Shaqaalaha CFTC waxay yiraahdeen wax-is-weydaarsiga waxay xisaabin karaan Bitcoin dhanka kaydka hawlgalka"
     },
     {
-      "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
-      "url": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
+      "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
+      "url": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-23T13:25:35+00:00",
-      "title_so": null
+      "published": "2026-11-23T23:06:02+00:00",
+      "title_so": "Z.ai ee Shiinaha ayaa sheegay in moodelkeeda cusub ee AI uu u malayn karo sida hal afar jeer cabbirkiisa"
+    },
+    {
+      "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
+      "url": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T21:46:03+00:00",
+      "title_so": "OpenAI waxa ay ku siin doontaa ilaa $8k si aad ugu wacdiso injiilka AI ganacsiyada yaryar"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T21:40:44+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-23T21:23:42+00:00",
+      "title_so": "Qiimaha Nvidia ayaa kor u kacay ku dhawaad ​​$1tn iyo saamiyada tignoolajiyada oo isu soo baxa ka dib markii uu soo laabtay Jensen Huang"
+    },
+    {
+      "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
+      "url": "https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T21:16:03+00:00",
+      "title_so": "Waa maxay sababta hal caddaynta xisaabtu u leedahay AI khubarada uga digaya bini'aadamka ayaa laga yaabaa inay dhaqso u xakameeyaan"
+    },
+    {
+      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+      "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T21:04:03+00:00",
+      "title_so": "Mareykanka ayaa doonaya inuu soo ceshado $1.1B ee crypto laga xaday Kuuriyada Waqooyi ee ku xiran Binance"
+    },
+    {
+      "title": "Kalshi secures temporary win in New York gambling law dispute",
+      "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T20:38:43+00:00",
+      "title_so": "Kalshi xaqiijistay guusha ku meel gaadhka ah ee New York muranka sharciga khamaarka"
+    },
+    {
+      "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+      "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T20:36:02+00:00",
+      "title_so": "Kuuriyada Woqooyi waxay ku dhaqaaqdaa $247 milyan oo ah Binance Hack Loot iyada oo loo marayo Mixers Bitcoin"
+    },
+    {
+      "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
+      "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T19:57:21+00:00",
+      "title_so": "Waa maxay sababta Nvidia ugu baahan tahay Jensen Huang Dib-iyo waxa soo laabashadiisu runtii isbedeleyso"
+    },
+    {
+      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+      "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T19:35:06+00:00",
+      "title_so": "BTCS waxay ku dejisaa $44M ETH si ay u yarayso deynta DeFi iyadoo suuqa uu hoos u dhacay"
+    },
+    {
+      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+      "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T19:16:46+00:00",
+      "title_so": "Saldhiggu wuxuu ka dhigayaa amniga tirada mudnaan 2027 sida nidaamiyayaashu uga digayaan khataraha"
+    },
+    {
+      "title": "GPU Jesus Has Risen: Jensen Huang’s Nvidia Comeback Gets a Meme Parade",
+      "url": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T18:45:21+00:00",
+      "title_so": "GPU Ciise wuu kacay: Jensen Huang's Nvidia soo noqoshada wuxuu helay Parade Meme ah"
+    },
+    {
+      "title": "New York judge declines to block Kalshi from operating in the state for now",
+      "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-23T18:22:03+00:00",
+      "title_so": "Garsooraha New York ayaa diiday inuu Kalshi ka hor istaago inuu ka shaqeeyo gobolka hadda"
+    },
+    {
+      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+      "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T18:16:25+00:00",
+      "title_so": "Solo Bitcoin Miner Dhibcaha Mar labaad, Ku dhufashada $191,000 Jackpot ee ka soo horjeeda"
+    },
+    {
+      "title": "Perps and Swaps: How to Trade the News on Decrypt",
+      "url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T18:15:45+00:00",
+      "title_so": "Perps and Swaps: Sida Looga Ganacsado Wararka Decrypt"
+    },
+    {
+      "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+      "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-23T18:12:05+00:00",
+      "title_so": "Nvidia's Jensen Huang ayaa wajahaya baarista Senate-ka in kasta oo uu Trump taageeray soo laabashada maamule ahaan"
     },
     {
       "title": "Pip assessments need 'fundamental overhaul', report to say",
       "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-23T13:20:32+00:00",
+      "published": "2026-11-23T17:59:55+00:00",
       "title_so": "Qiimaynta pip waxay u baahan tahay 'dib u habeyn aasaasi ah', warbixin si loo yiraahdo"
+    },
+    {
+      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
+      "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T17:42:18+00:00"
+    },
+    {
+      "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
+      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-23T17:31:27+00:00"
+    },
+    {
+      "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
+      "url": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T17:28:08+00:00"
+    },
+    {
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-23T17:11:58+00:00"
+    },
+    {
+      "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+      "url": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T16:51:17+00:00"
+    },
+    {
+      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
+      "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T16:46:03+00:00"
+    },
+    {
+      "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+      "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-23T16:39:03+00:00"
+    },
+    {
+      "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
+      "url": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T16:32:04+00:00"
+    },
+    {
+      "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+      "url": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T16:23:37+00:00"
+    },
+    {
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-23T16:12:35+00:00"
+    },
+    {
+      "title": "How market depth shapes the price of a weekend Bitcoin sale",
+      "url": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T15:57:55+00:00"
+    },
+    {
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-23T15:49:52+00:00"
+    },
+    {
+      "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+      "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-23T15:29:01+00:00"
+    },
+    {
+      "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+      "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-23T15:02:32+00:00"
+    },
+    {
+      "title": "Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe",
+      "url": "https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T14:47:00+00:00"
+    },
+    {
+      "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
+      "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-23T14:43:18+00:00"
+    },
+    {
+      "title": "Nvidia soars as Jensen Huang returns to lead company",
+      "url": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-23T14:13:44+00:00"
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
+      "url": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T14:07:21+00:00"
+    },
+    {
+      "title": "OKX, ICE launch 113 tokenized assets despite issuer objections",
+      "url": "https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T14:00:00+00:00"
+    },
+    {
+      "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
+      "url": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-23T13:49:44+00:00"
+    },
+    {
+      "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
+      "url": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T13:44:16+00:00"
+    },
+    {
+      "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
+      "url": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T13:34:13+00:00"
+    },
+    {
+      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+      "url": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T13:31:01+00:00"
+    },
+    {
+      "title": "AI agents are using credit cards. Where does that leave crypto?",
+      "url": "https://cointelegraph.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-23T13:30:00+00:00"
+    },
+    {
+      "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
+      "url": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-23T13:25:35+00:00"
     },
     {
       "title": "Critics of Netflix’s FTX drama point to Obama’s producer credit",
       "url": "https://cointelegraph.com/news/netflix-ftx-scrutiny-obama-production-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-23T13:15:03+00:00",
-      "title_so": null
+      "published": "2026-11-23T13:15:03+00:00"
     },
     {
       "title": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
       "url": "https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-23T13:08:23+00:00",
-      "title_so": null
+      "published": "2026-11-23T13:08:23+00:00"
     },
     {
-      "title": "Live updates: Tech futures rebound more than 3% as dollar index tops 104, a 20-month high",
+      "title": "Live updates: Bitcoin climbs only modestly as Nasdaq soars 6% on Huang return",
       "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-23T13:01:20+00:00",
-      "title_so": null
+      "published": "2026-11-23T13:01:20+00:00"
     },
     {
       "title": "Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity",
       "url": "https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-23T12:43:30+00:00",
-      "title_so": null
+      "published": "2026-11-23T12:43:30+00:00"
     },
     {
       "title": "Next data accessed in cyber breach",
       "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-23T12:34:07+00:00",
-      "title_so": null
+      "published": "2026-11-23T12:34:07+00:00"
     },
     {
       "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
       "url": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-23T12:30:25+00:00",
-      "title_so": null
+      "published": "2026-11-23T12:30:25+00:00"
     },
     {
       "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
       "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-23T12:13:35+00:00",
-      "title_so": null
+      "published": "2026-11-23T12:13:35+00:00"
     },
     {
       "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
       "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-23T11:51:09+00:00",
-      "title_so": null
+      "published": "2026-11-23T11:51:09+00:00"
     },
     {
       "title": "ECB to let banks pledge more tokenized securities as collateral",
       "url": "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-23T11:49:38+00:00",
-      "title_so": null
+      "published": "2026-11-23T11:49:38+00:00"
     },
     {
       "title": "Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income",
       "url": "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-23T11:33:00+00:00",
-      "title_so": null
+      "published": "2026-11-23T11:33:00+00:00"
     },
     {
       "title": "Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout",
       "url": "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-23T11:29:09+00:00",
-      "title_so": null
+      "published": "2026-11-23T11:29:09+00:00"
     },
     {
       "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
       "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-23T11:24:37+00:00",
-      "title_so": null
+      "published": "2026-11-23T11:24:37+00:00"
     },
     {
       "title": "BTC price gains 12% from $55K: Three things to know in Bitcoin this week",
       "url": "https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-23T11:20:57+00:00",
-      "title_so": null
+      "published": "2026-11-23T11:20:57+00:00"
     },
     {
       "title": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
       "url": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-23T11:14:22+00:00",
-      "title_so": null
+      "published": "2026-11-23T11:14:22+00:00"
     },
     {
       "title": "South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad",
       "url": "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-23T10:53:19+00:00",
-      "title_so": null
+      "published": "2026-11-23T10:53:19+00:00"
     },
     {
       "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
       "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-23T10:31:02+00:00",
-      "title_so": null
+      "published": "2026-11-23T10:31:02+00:00"
     },
     {
       "title": "South East Water reports loss after supply issues",
@@ -223,342 +518,6 @@
       "category": "Crypto",
       "published": "2026-11-23T07:45:30+00:00",
       "title_so": "Tuugada Crypto ayaa isticmaalaya xayaysiisyada khadka tooska ah si ay ugu faafiyaan iPhones hal tabo, cilmi baaris ayaa ogaatay"
-    },
-    {
-      "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
-      "url": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-23T07:18:45+00:00",
-      "title_so": "Shirkaddan khasnadda bitcoin ee Iswiidhishka ayaa lumisay 30 BTC qayb ganacsi oo ka mid ah xidhmooyinkeeda"
-    },
-    {
-      "title": "Cardano holders are turning down a $4 million request for running its flagship event",
-      "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-23T06:15:45+00:00",
-      "title_so": "Dadka haysta Cardano ayaa diiday $4 milyan oo codsi ah si ay u socodsiiyaan dhacdada calanka"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-23T06:00:00+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
-      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
-      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-23T05:42:22+00:00",
-      "title_so": "Bitcoin ayaa lagu iibiyay $17,000 suuqa doollarka Kanada ee Kraken, ganacsiguna wuu taagan yahay"
-    },
-    {
-      "title": "Market rout kills 50 basis points December Fed rate hike bets",
-      "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-23T04:45:47+00:00",
-      "title_so": "Rabshadaha suuqyadu waxay dilaan 50 dhibcood bisha Diseembar qiimaha qiimaha kor u kaca"
-    },
-    {
-      "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO",
-      "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-23T03:37:20+00:00",
-      "title_so": "Trump ayaa dib u cusbooneysiiyay baaqii Nvidia si ay dib ugu shaqaaleysiiso Jensen Huang oo ah maamule"
-    },
-    {
-      "title": "Billionaire Bill Ackman warns Fed will make a rate ‘mistake’ in December",
-      "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-23T02:47:39+00:00",
-      "title_so": "Billionaire Bill Ackman ayaa ka digay in Fed uu samayn doono qiime 'khalad' bisha Diseembar"
-    },
-    {
-      "title": "Energy bills will soar - here's how you can ease the pain",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-23T01:05:07+00:00",
-      "title_so": "Biilasha tamarta ayaa kor u kici doona - waa kan sida aad u fududayn karto xanuunka"
-    },
-    {
-      "title": "Half of wallets on Trump’s dinner list got tokens from non-US exchanges",
-      "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-23T00:53:49+00:00",
-      "title_so": "Kala badh boorsooyinka ku jira liiska cashada ee Trump ayaa calaamado ka helay sariflayaasha aan Maraykanka ahayn"
-    },
-    {
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-23T00:33:36+00:00",
-      "title_so": "Ganacsade Talyaani ah Paolo Bulgari oo ahaa dahabilaha iyo dahabka ayaa geeriyooday isagoo 89 jir ah"
-    },
-    {
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-23T00:08:00+00:00",
-      "title_so": "San Francisco waxay ku raaxaysanaysaa kobcinta AI, laakiin welwelka ku saabsan shilka ayaa sii kordhaya"
-    },
-    {
-      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-22T22:47:09+00:00",
-      "title_so": "Soo celinta weyn ee Bitcoin ma sii socon doontaa? Ledgers fara badan ayaa la helay: Hodler's Digest"
-    },
-    {
-      "title": "More on the pending oversight hearings: State of Crypto",
-      "url": "https://www.coindesk.com/",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-22T19:30:00+00:00",
-      "title_so": "Wax badan oo ku saabsan dhegeysiga kormeerka ee la sugayo: Gobolka Crypto"
-    },
-    {
-      "title": "The future of onchain FX could start with users, not institutional liquidity",
-      "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-22T14:30:00+00:00",
-      "title_so": "Mustaqbalka onchain FX wuxuu ka bilaabmi karaa isticmaalayaasha, ma aha qulqulka hay'ad"
-    },
-    {
-      "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
-      "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-22T14:01:02+00:00",
-      "title_so": "Quantum Chip-ka Google-ka wuxuu ku garaacaa xadka qadiimiga ah ee ciyaarta 'Suurtagal ma aha'"
-    },
-    {
-      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
-      "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-22T14:00:00+00:00",
-      "title_so": "Caqabadda amniga tirada Bitcoin waxay ku fidsan tahay buundooyinka, ilaaliyaasha iyo malaayiin qadaadiic ah"
-    },
-    {
-      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-22T13:50:21+00:00",
-      "title_so": "Madaxa Centrica ayaa sheegay inuu 'aad uga walaacsan yahay' saamaynta biilasha tamarta ee kor u kacaya"
-    },
-    {
-      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
-      "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-22T09:33:06+00:00",
-      "title_so": "Bitcoin ayaa si kooban hoos ugu dhacday $17k dhanka Kraken, sarrifka waxa uu kor u qaadaa ganacsiga"
-    },
-    {
-      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-      "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-22T07:24:05+00:00",
-      "title_so": "Sarriflayaasha Kuuriyada Koonfureed ayaa hakiyay wareejinta CYBER iyada oo la tuhunsan yahay in buundada laga faa'iidaysto"
-    },
-    {
-      "title": "MP criticises Guernsey and Jersey company ownership register plans",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-22T07:22:05+00:00",
-      "title_so": "Xildhibaanka ayaa dhaleeceeyay qorshayaasha diiwaan gelinta lahaanshaha shirkadda Guernsey iyo Jersey"
-    },
-    {
-      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-      "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-22T05:28:43+00:00",
-      "title_so": "Chainflip wuxuu xaqiijiyay $12m jabsaday, wuxuuna soo bandhigayaa weeraryahan 10% abaal marin"
-    },
-    {
-      "title": "Hundreds of applications, no replies: Inside the job ghosting problem‌",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-22T00:04:07+00:00",
-      "title_so": "Boqolaal codsiyo ah, jawaabo la'aan: Gudaha dhibaatada ghosting shaqada"
-    },
-    {
-      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-      "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-21T18:01:02+00:00",
-      "title_so": "GTA 6 Leaker Dangles Deked PC ah oo ay ka danbeyso $15 Million Pump"
-    },
-    {
-      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-21T17:50:00+00:00",
-      "title_so": "Bitcoin ayaa dib u soo ceshatay in ka badan $60,000 ka dib $1.8 bilyan mowjadda dareeraha ee crypto"
-    },
-    {
-      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
-      "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-21T17:01:02+00:00",
-      "title_so": "Khayaanada waxay adeegsadeen Isweydaarsiga Crypto Fake si ay u xadaan $37 Milyan, eedeymaha SEC"
-    },
-    {
-      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-      "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-21T16:41:00+00:00",
-      "title_so": "Hab-maamuuska silsiladda isku-tallaabta ee taangiyada FLIP ee Chainflip 30% ka dib markii laga shakiyay $4.86 milyan"
-    },
-    {
-      "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
-      "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-21T16:01:02+00:00",
-      "title_so": "Calaamaduhu waxay ugu yeeraan heerka OS-ka AI 'halis jirta' oo waxay xannibaysaa sawir-qaadista si loola dagaallamo"
-    },
-    {
-      "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
-      "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-21T14:01:06+00:00",
-      "title_so": "Ugu dambayntii AI xumbo soo boodaya? Nvidia waxay burburtay 48% iyadoo khubarada Wall Street ay u dhawaqayaan qaylo-dhaanta"
-    },
-    {
-      "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
-      "url": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-21T14:00:00+00:00",
-      "title_so": "OpenAI, Anthropic iyo xafiiltanku waxay raadiyaan xeerarka wakiilka AI si ay uga hortagaan qaska ganacsiga"
-    },
-    {
-      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-      "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-21T12:30:00+00:00",
-      "title_so": "Shirkadda khasnada ee Ether BTCS waxay ka digaysaa SEC in $ 54 milyan amaahda Aave la baabi'in karo"
-    },
-    {
-      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-21T09:48:56+00:00",
-      "title_so": "ECB waxay raadisaa la-hawlgalayaasha warshadaha si ay u helaan dhigaal la calaamadeeyay, tijaabooyin securities"
-    },
-    {
-      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-      "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-21T07:51:47+00:00",
-      "title_so": "Sharci-dajiyayaal Maraykan ah ayaa soo jeedinaya ilaa 30% abaal-marinno la siiyo dadka wax saadaaliya suuqa saadaasha"
-    },
-    {
-      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-21T06:16:42+00:00",
-      "title_so": "Nodes Bitcoin waa la joojin karaa iyadoo lagu celiyo hal aqoonsi 50,000 jeer. AI waxay heshay cilladda"
-    },
-    {
-      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-21T05:59:19+00:00",
-      "title_so": "XRP waxay hoos u dhacdaa 10% ilaa inta sharadku furto oo hantida ETF ay hoos uga dhacdo $1 bilyan"
-    },
-    {
-      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-21T05:40:35+00:00",
-      "title_so": "Hong Kong waxay ku riixdaa inay keento ilaaliyayaasha crypto, lataliyeyaasha hoos yimaada xeerarka shatiga"
-    },
-    {
-      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-21T04:10:07+00:00",
-      "title_so": "Taangiyada Bitcoin waxay ka hooseeyaan $57,000 markii ugu horeysay muddo laba sano ah, kaligeedna maaha"
-    },
-    {
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-21T00:06:11+00:00",
-      "title_so": "AI runtii ma caawin kartaa in la ogaado heshiisyada Jimcaha Madoow? Imtixaan baanu galnay"
-    },
-    {
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T22:53:24+00:00",
-      "title_so": "Iibka GTA 6 wuxuu gaaray $3.8bn hal maalin gudaheed - madadaalada ugu weyn ee la bilaabo taariikhda"
-    },
-    {
-      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-20T22:51:14+00:00",
-      "title_so": "Kalshi wuxuu u tartamayaa inuu ka hormaro amarka New York kaasoo xiri kara sarifka lacagaha"
-    },
-    {
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-20T22:42:47+00:00",
-      "title_so": "Iibinta teknoolojiyada saamiyada ayaa hoos u dhigaysa suuqyada iyadoo saamiyada Anthropic ay simbiriirixanayaan"
-    },
-    {
-      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-20T22:05:31+00:00",
-      "title_so": "Fairmint waxay qorshaynaysaa inay calaamadiso goobta saamiyada ee Canton, Ethereum iyadoo la raacayo tijaabada SEC"
-    },
-    {
-      "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
-      "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-20T21:36:02+00:00",
-      "title_so": "Claude Wuxuu Sheegtay Horumarka Xisaabta Taariikhiga ah Maalin Kadib IPO Anthropic"
     }
   ]
 }
