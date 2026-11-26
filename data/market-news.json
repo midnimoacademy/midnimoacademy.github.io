@@ -1,12 +1,84 @@
 {
-  "updated_at": "2026-11-25T19:24:00.518090+00:00",
+  "updated_at": "2026-11-26T03:37:59.862664+00:00",
   "items": [
     {
-      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-26T03:01:40+00:00",
+      "title_so": null
+    },
+    {
+      "title": "UK government set to publish new treaties agreed with EU",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-26T02:13:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-25T18:54:51+00:00",
+      "published": "2026-11-26T01:33:20+00:00",
+      "title_so": null
+    },
+    {
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-26T00:07:51+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-26T00:01:37+00:00",
+      "title_so": null
+    },
+    {
+      "title": "China's Google Just Released Its Fast New AI Model for Free",
+      "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-25T22:38:09+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-25T22:33:13+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+      "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-25T21:53:38+00:00",
+      "title_so": null
+    },
+    {
+      "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+      "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-25T21:46:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-25T21:43:18+00:00",
       "title_so": null
     },
     {
@@ -14,7 +86,63 @@
       "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-25T18:29:42+00:00",
+      "published": "2026-11-25T21:31:10+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+      "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-25T21:22:19+00:00",
+      "title_so": null
+    },
+    {
+      "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+      "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-25T21:16:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+      "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-25T21:11:39+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+      "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-25T20:36:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+      "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-25T20:06:03+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-25T19:28:54+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-25T18:54:51+00:00",
       "title_so": null
     },
     {
@@ -42,124 +170,95 @@
       "title_so": null
     },
     {
-      "title": "US stocks fall further as fears over AI intensify",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-25T17:48:09+00:00",
-      "title_so": null
-    },
-    {
       "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
       "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-25T17:46:02+00:00",
-      "title_so": null
+      "published": "2026-11-25T17:46:02+00:00"
     },
     {
       "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
       "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-25T17:38:33+00:00",
-      "title_so": null
+      "published": "2026-11-25T17:38:33+00:00"
     },
     {
       "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
       "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-25T17:33:22+00:00",
-      "title_so": null
+      "published": "2026-11-25T17:33:22+00:00"
     },
     {
       "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
       "url": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-25T17:19:33+00:00",
-      "title_so": null
+      "published": "2026-11-25T17:19:33+00:00"
     },
     {
       "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
       "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-25T17:16:02+00:00",
-      "title_so": null
+      "published": "2026-11-25T17:16:02+00:00"
     },
     {
       "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
       "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-25T17:10:53+00:00",
-      "title_so": null
+      "published": "2026-11-25T17:10:53+00:00"
     },
     {
       "title": "What's gone wrong at Poundland?",
       "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-25T17:00:32+00:00",
-      "title_so": null
+      "published": "2026-11-25T17:00:32+00:00"
     },
     {
       "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
       "url": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-25T16:52:50+00:00",
-      "title_so": null
+      "published": "2026-11-25T16:52:50+00:00"
     },
     {
       "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
       "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Economy",
-      "published": "2026-11-25T16:42:11+00:00",
-      "title_so": null
-    },
-    {
-      "title": "US announces new tariffs on host of countries including China",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-25T16:21:34+00:00",
-      "title_so": null
+      "published": "2026-11-25T16:42:11+00:00"
     },
     {
       "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
       "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-25T16:07:35+00:00",
-      "title_so": null
+      "published": "2026-11-25T16:07:35+00:00"
     },
     {
       "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
       "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-25T16:02:31+00:00",
-      "title_so": null
+      "published": "2026-11-25T16:02:31+00:00"
     },
     {
       "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
       "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-25T16:02:07+00:00",
-      "title_so": null
+      "published": "2026-11-25T16:02:07+00:00"
     },
     {
       "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
       "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-25T15:59:44+00:00",
-      "title_so": null
+      "published": "2026-11-25T15:59:44+00:00"
     },
     {
       "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
@@ -188,14 +287,6 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-25T13:41:38+00:00"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-25T13:26:05+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
     },
     {
       "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
@@ -303,13 +394,6 @@
       "published": "2026-11-25T10:57:52+00:00"
     },
     {
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-25T10:52:09+00:00"
-    },
-    {
       "title": "Energy bills will soar - here's how you can ease the pain",
       "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -359,7 +443,7 @@
       "published": "2026-11-25T08:40:28+00:00"
     },
     {
-      "title": "Live updates: Bitcoin climbs from lows as markets attempt midday bounce",
+      "title": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines",
       "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
       "source": "CoinDesk",
       "category": "Crypto",
@@ -427,90 +511,6 @@
       "source": "CoinDesk",
       "category": "Crypto",
       "published": "2026-11-25T03:35:20+00:00"
-    },
-    {
-      "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-      "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-25T01:40:59+00:00"
-    },
-    {
-      "title": "Trump's rescue of Nvidia's Huang brings political risks",
-      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-25T01:03:05+00:00"
-    },
-    {
-      "title": "Why tiny cars are taking off across Europe",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-25T00:34:05+00:00"
-    },
-    {
-      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
-      "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-24T23:48:16+00:00"
-    },
-    {
-      "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-      "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-24T22:36:02+00:00"
-    },
-    {
-      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-      "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-24T21:50:25+00:00"
-    },
-    {
-      "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
-      "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-24T21:46:02+00:00"
-    },
-    {
-      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-      "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-24T21:16:02+00:00"
-    },
-    {
-      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-      "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-24T20:48:27+00:00"
-    },
-    {
-      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-      "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-24T20:36:02+00:00"
-    },
-    {
-      "title": "Will I get the £100 energy payment and when will I receive it?",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-24T20:16:24+00:00"
-    },
-    {
-      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-      "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-24T19:44:23+00:00"
     }
   ]
 }
