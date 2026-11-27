@@ -1,6 +1,166 @@
 {
-  "updated_at": "2026-11-26T17:02:09.121721+00:00",
+  "updated_at": "2026-11-27T01:47:31.674550+00:00",
   "items": [
+    {
+      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-27T00:54:45+00:00",
+      "title_so": "Aniga qudhaydu waxaan ku bixiyaa £200 bishii cuntooyin qurxoon - ma cuni lahayd keligiis?"
+    },
+    {
+      "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+      "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-27T00:35:39+00:00",
+      "title_so": "Lacagta qadaadiicda gaarka ah waxay la kulmaan hanti kala duwan iyadoo KuCoin uu u dhaqaaqayo inuu hoos u dhigo Monero"
+    },
+    {
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-27T00:02:19+00:00",
+      "title_so": "Waa maxay sababta ay u yar tahay makaanikada wizard 'wizard'?"
+    },
+    {
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-26T23:17:12+00:00",
+      "title_so": "UK si ay u bixiso khidmada ka qaybgalka' si ay u keento heshiisyada EU"
+    },
+    {
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-26T23:08:12+00:00",
+      "title_so": "Aasiya waxay sameysay sharadka AI weyn Nvidia. Maxaa dhacaya hadda?"
+    },
+    {
+      "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
+      "url": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-26T22:39:46+00:00",
+      "title_so": "Taxanaha Netflix SBF 'Aad cunsuri ah', BitMart's $ 319m dhimis: Asia Express"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-26T22:12:06+00:00",
+      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+      "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-26T22:01:02+00:00",
+      "title_so": "Vibecoded GTA 6 PC Ports ayaa hadda soo bandhigaya garaafyada ciyaarta dhexdeeda in kasta oo la qaaday-labo dildilaac ah"
+    },
+    {
+      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+      "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-26T21:42:43+00:00",
+      "title_so": "Silsiladda BNB waxay faahfaahinaysaa lakabka-1 cusub ee ganacsiga, maaliyadda gaarka ah iyo AI"
+    },
+    {
+      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+      "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-26T21:33:47+00:00",
+      "title_so": "Binance waxay dhamaystiraysaa soo kabashada afar usbuuc kadib $6.3B jabsiga"
+    },
+    {
+      "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+      "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-26T21:13:53+00:00",
+      "title_so": "Boqortooyada Midowday (UK) waa 'qalad' nidaamka DeFi, ayuu yidhi Coinbase"
+    },
+    {
+      "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+      "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-26T21:01:03+00:00",
+      "title_so": "Waa maxay is-xannaanaynta? Sida Loo Qabto Furayaashaada Crypto"
+    },
+    {
+      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+      "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-26T20:05:18+00:00",
+      "title_so": "Japan waxay miisaan culus ku haysaa kormeerka adag ee DeFi, boorsooyinka is-xakamaynta"
+    },
+    {
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-26T19:55:58+00:00",
+      "title_so": "Feysal Islam: Waa maxay sababta canshuuraha cusub ee Trump ay uga yar yihiin khatarta"
+    },
+    {
+      "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+      "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-26T19:01:02+00:00",
+      "title_so": "Kahor Iibinta, Kaydka AI waxay tuseen Calaamadaha Xumbo-Com-Heerka: Daraasad"
+    },
+    {
+      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-26T18:26:31+00:00",
+      "title_so": "Isbaanishka waxay u dhaqaaqday inay siiso awood ilaaliye maaliyadeed si ay u xayirto xisaabaadka crypto"
+    },
+    {
+      "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-26T18:15:29+00:00",
+      "title_so": "Bitcoin waxay haysaa in ka badan $60k sida Dhimashada Cross Clouds Thanksgiving"
+    },
+    {
+      "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+      "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-26T17:39:53+00:00",
+      "title_so": "Crypto on ogaysiis sida hawkish Fed wuxuu halis ugu jiraa Diseembar 'dhalaalid'"
+    },
+    {
+      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-26T17:30:00+00:00",
+      "title_so": "Lacag-bixin yar ayaa soo bandhigi karta ciwaanka IP-ga ee ka dambeeya boorsada bitcoin, ayuu ogaaday horumariyaha"
+    },
+    {
+      "title": "When will Poundland shops close? Five key questions answered",
+      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-26T17:21:21+00:00",
+      "title_so": "Goorma ayaa dukaamada Puntland xirmi doonaan? Shan su'aalood oo muhiim ah ayaa laga jawaabay"
+    },
     {
       "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
       "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
@@ -24,14 +184,6 @@
       "category": "Crypto",
       "published": "2026-11-26T16:40:44+00:00",
       "title_so": "Madaxa BIS Pablo Hernández de Cos ayaa qarka u saaran inuu noqdo madaxweynaha xiga ee ECB: FT"
-    },
-    {
-      "title": "When will Poundland shops close? Five key questions answered",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-26T15:55:50+00:00",
-      "title_so": "Goorma ayaa dukaamada Puntland xirmi doonaan? Shan su'aalood oo muhiim ah ayaa laga jawaabay"
     },
     {
       "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
@@ -114,14 +266,6 @@
       "title_so": "Nasdaq exec waxay ku riixdaa qawaaniinta EU-da ee caamka ah"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-26T13:45:04+00:00",
-      "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
-    },
-    {
       "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
       "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -174,7 +318,16 @@
       "url": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-26T12:13:59+00:00"
+      "published": "2026-11-26T12:13:59+00:00",
+      "title_so": "Vitalik Buterin wuxuu ku baaqayaa jajabyo la xaqiijin karo maadaama hanjabaadaha boorsada qalabka ay soo baxaan"
+    },
+    {
+      "title": "New boss appointed to lead Travelodge",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Economy",
+      "published": "2026-11-26T12:03:49+00:00",
+      "title_so": "Madax cusub oo loo magacaabay inuu hogaamiyo Travelodge"
     },
     {
       "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
@@ -378,139 +531,6 @@
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-25T22:38:09+00:00"
-    },
-    {
-      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
-      "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-25T21:53:38+00:00"
-    },
-    {
-      "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
-      "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-25T21:46:02+00:00"
-    },
-    {
-      "title": "US stocks fall further as fears over AI intensify",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-25T21:43:18+00:00"
-    },
-    {
-      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
-      "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-25T21:22:19+00:00"
-    },
-    {
-      "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
-      "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-25T21:16:02+00:00"
-    },
-    {
-      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
-      "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-25T21:11:39+00:00"
-    },
-    {
-      "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
-      "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-25T20:36:03+00:00"
-    },
-    {
-      "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
-      "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-25T20:06:03+00:00"
-    },
-    {
-      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-      "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-25T19:28:54+00:00"
-    },
-    {
-      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-25T18:54:51+00:00"
-    },
-    {
-      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
-      "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-25T18:24:47+00:00"
-    },
-    {
-      "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-      "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-25T18:18:10+00:00"
-    },
-    {
-      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
-      "url": "https://cointelegraph.com/markets/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-25T17:53:10+00:00"
-    },
-    {
-      "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-      "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-25T17:46:02+00:00"
-    },
-    {
-      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-      "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-25T17:38:33+00:00"
-    },
-    {
-      "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-25T17:33:22+00:00"
-    },
-    {
-      "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
-      "url": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-25T17:19:33+00:00"
-    },
-    {
-      "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
-      "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-25T17:16:02+00:00"
-    },
-    {
-      "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
-      "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-25T17:10:53+00:00"
     }
   ]
 }
