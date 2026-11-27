@@ -1,5 +1,5 @@
-export function mountTimedExam(container, db, exam, userId) {
-  const storageKey = 'midnimo-timed-exam:' + exam.id + ':' + userId;
+export function mountTimedExam(container, db, exam, user) {
+  const storageKey = 'midnimo-timed-exam:' + exam.id + ':' + user.id;
   const pending = new Map();
   try {
     for (const entry of JSON.parse(sessionStorage.getItem(storageKey) || '[]')) {
@@ -25,7 +25,7 @@ export function mountTimedExam(container, db, exam, userId) {
   }
 
   append(container, 'p', exam.instructions);
-  append(container, 'p', '48 questions · One attempt · Your Telegram username is used to identify your result.');
+  append(container, 'p', '48 questions · One attempt · Your Telegram details help the academy identify your result.');
   const clock = append(container, 'p', '');
   clock.className = 'timed-clock';
   const status = append(container, 'p', 'Loading exam…');
@@ -162,22 +162,52 @@ export function mountTimedExam(container, db, exam, userId) {
   function showReady() {
     status.textContent = '';
     const form = append(body, 'form', '');
-    const label = append(form, 'label', 'Telegram username');
-    const username = append(label, 'input', '');
+    function detail(labelText, type, autocomplete) {
+      const label = append(form, 'label', labelText);
+      const input = append(label, 'input', '');
+      input.className = 'timed-username';
+      input.type = type;
+      input.autocomplete = autocomplete;
+      input.maxLength = 120;
+      input.required = true;
+      return input;
+    }
+
+    const name = detail('Student full name', 'text', 'name');
+    const location = detail('Location (city and country)', 'text', 'off');
+    const genderLabel = append(form, 'label', 'Gender');
+    const gender = append(genderLabel, 'select', '');
+    gender.className = 'timed-username';
+    gender.required = true;
+    append(gender, 'option', 'Select gender').value = '';
+    for (const option of ['Female', 'Male', 'Other', 'Prefer not to say']) {
+      append(gender, 'option', option).value = option;
+    }
+    const email = detail('Email address (from your Midnimo account)', 'email', 'email');
+    email.value = user.email || '';
+    email.readOnly = true;
+    const username = detail('Telegram username or numeric ID', 'text', 'off');
     username.className = 'timed-username';
     username.required = true;
     username.maxLength = 33;
     username.pattern = '@?[A-Za-z0-9_]{1,32}';
     username.autocapitalize = 'none';
     username.spellcheck = false;
-    username.placeholder = '@username';
+    username.placeholder = '@username or numeric ID';
     const start = append(form, 'button', 'Start 30-minute exam');
+    if (!user.email) {
+      start.disabled = true;
+      status.textContent = 'Add an email address to your Midnimo account before starting.';
+    }
     form.onsubmit = async event => {
       event.preventDefault();
       start.disabled = true;
       try {
         const requestStarted = performance.now();
-        const result = await call('start', { username: username.value });
+        const result = await call('start', {
+          username: username.value,
+          student_details: { name: name.value, location: location.value, gender: gender.value },
+        });
         if (result.state === 'finished') showResult(result);
         else showActive(result, requestStarted);
       } catch (error) {
