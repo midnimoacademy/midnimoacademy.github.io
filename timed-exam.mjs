@@ -1,4 +1,5 @@
 export function mountTimedExam(container, db, exam, user) {
+  container.classList.add('timed-exam');
   const storageKey = 'midnimo-timed-exam:' + exam.id + ':' + user.id;
   const pending = new Map();
   try {
@@ -100,7 +101,7 @@ export function mountTimedExam(container, db, exam, user) {
         input.name = 'question-' + question.id;
         input.value = String(choice);
         input.checked = (pending.get(question.id) ?? result.answers[question.id]) === choice;
-        label.append(' ' + option);
+        append(label, 'span', option);
         input.onchange = () => {
           if (!active || performance.now() >= deadline) return;
           pending.set(question.id, choice);
@@ -176,7 +177,9 @@ export function mountTimedExam(container, db, exam, user) {
     const name = detail('Student full name', 'text', 'name');
     const location = detail('Location (city and country)', 'text', 'off');
     const genderLabel = append(form, 'label', 'Gender');
-    const gender = append(genderLabel, 'select', '');
+    const gender = append(form, 'select', '');
+    gender.id = 'timed-gender-' + exam.id;
+    genderLabel.htmlFor = gender.id;
     gender.className = 'timed-username';
     gender.required = true;
     append(gender, 'option', 'Select gender').value = '';
