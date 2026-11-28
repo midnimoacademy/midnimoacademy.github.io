@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-11-28T07:58:52.686783+00:00",
+  "updated_at": "2026-11-28T17:37:56.592517+00:00",
   "items": [
     {
-      "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
-      "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
+      "title": "Bank of Japan Explores Bringing Stablecoins and Tokenized Finance Into Traditional Banking",
+      "url": "https://decrypt.co/384221/bank-of-japan-stablecoins-tokenized-finance-banking",
+      "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-28T07:43:00+00:00",
+      "published": "2026-11-28T17:01:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Tether adds $10 million in Bitdeer stock after holding through an 87% drop",
+      "url": "https://www.coindesk.com/business/2026/11/28/tether-adds-usd10-million-in-bitdeer-stock-after-holding-through-an-87-drop",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-28T16:01:54+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Russia Is Turning Pigeons Into Cyborg Drones—and You Can Now Hire Them",
+      "url": "https://decrypt.co/384126/russia-pigeons-icyborg-drones-you-can-now-hire-them",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "published": "2026-11-28T14:01:02+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bybit’s $1.4 billion hack postmortem is ready. You won’t get to see it.",
+      "url": "https://www.coindesk.com/business/2026/11/28/bybit-s-usd1-4-billion-hack-postmortem-is-ready-you-won-t-get-to-see-it",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-28T14:00:00+00:00",
       "title_so": null
     },
     {
@@ -14,8 +38,48 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-27T22:12:51+00:00",
+      "published": "2026-11-28T13:55:00+00:00",
       "title_so": "Waa kuwan waxa ku dhacay crypto maanta"
+    },
+    {
+      "title": "Justin Sun calls for Trump family-linked WLFI token to be delisted",
+      "url": "https://cointelegraph.com/news/justin-sun-calls-for-trump-family-linked-wlfi-token-to-be-delisted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-28T13:28:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+      "url": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-28T13:02:18+00:00",
+      "title_so": null
+    },
+    {
+      "title": "ASEAN+3 agrees on initiative to explore crypto payments cooperation",
+      "url": "https://cointelegraph.com/news/asean3-agrees-on-initiative-to-explore-crypto-payments-cooperation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-28T10:31:00+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+      "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "published": "2026-11-28T09:32:51+00:00",
+      "title_so": null
+    },
+    {
+      "title": "Binance plans Asia hub in Bhutan, receives preliminary approval",
+      "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "published": "2026-11-28T07:43:00+00:00",
+      "title_so": null
     },
     {
       "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
@@ -110,48 +174,42 @@
       "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-27T14:40:54+00:00",
-      "title_so": null
+      "published": "2026-11-27T14:40:54+00:00"
     },
     {
       "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond",
       "url": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-27T13:50:04+00:00",
-      "title_so": null
+      "published": "2026-11-27T13:50:04+00:00"
     },
     {
       "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
       "url": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-27T13:44:00+00:00",
-      "title_so": null
+      "published": "2026-11-27T13:44:00+00:00"
     },
     {
       "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
       "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
       "source": "Decrypt",
       "category": "Crypto",
-      "published": "2026-11-27T13:24:17+00:00",
-      "title_so": null
+      "published": "2026-11-27T13:24:17+00:00"
     },
     {
       "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
       "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-27T13:19:10+00:00",
-      "title_so": null
+      "published": "2026-11-27T13:19:10+00:00"
     },
     {
       "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
       "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "Cointelegraph",
       "category": "Crypto",
-      "published": "2026-11-27T12:39:54+00:00",
-      "title_so": null
+      "published": "2026-11-27T12:39:54+00:00"
     },
     {
       "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
@@ -182,8 +240,7 @@
       "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-27T11:34:37+00:00",
-      "title_so": null
+      "published": "2026-11-27T11:34:37+00:00"
     },
     {
       "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
@@ -318,8 +375,7 @@
       "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
       "source": "CoinDesk",
       "category": "Crypto",
-      "published": "2026-11-27T04:45:47+00:00",
-      "title_so": null
+      "published": "2026-11-27T04:45:47+00:00"
     },
     {
       "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
@@ -447,28 +503,12 @@
       "title_so": "Kahor Iibinta, Kaydka AI waxay tuseen Calaamadaha Xumbo-Com-Heerka: Daraasad"
     },
     {
-      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-      "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-26T18:26:31+00:00",
-      "title_so": "Isbaanishka waxay u dhaqaaqday inay siiso awood ilaaliye maaliyadeed si ay u xayirto xisaabaadka crypto"
-    },
-    {
       "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
       "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
       "source": "Decrypt",
       "category": "Crypto",
       "published": "2026-11-26T18:15:29+00:00",
       "title_so": "Bitcoin waxay haysaa in ka badan $60k sida Dhimashada Cross Clouds Thanksgiving"
-    },
-    {
-      "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
-      "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "published": "2026-11-26T17:39:53+00:00",
-      "title_so": "Crypto on ogaysiis sida hawkish Fed wuxuu halis ugu jiraa Diseembar 'dhalaalid'"
     },
     {
       "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
@@ -509,54 +549,6 @@
       "category": "Crypto",
       "published": "2026-11-26T15:42:43+00:00",
       "title_so": "Crypto loogu talagalay La-taliyayaasha: Afar su'aalood oo la weydiiyo ka hor inta aan la aamini karin sarrifka crypto"
-    },
-    {
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-26T15:23:17+00:00",
-      "title_so": "Heshiiska cusub ee UK-EU wuxuu leeyahay 10-sano oo lagu joojinayo"
-    },
-    {
-      "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
-      "url": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-26T15:11:14+00:00",
-      "title_so": "Furai waxay hagaajisaa ChatGPT Khaladaadka biilasha, waxay ballan qaaday inay 40% ka sii xumaanayso"
-    },
-    {
-      "title": "Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
-      "url": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-26T14:38:55+00:00",
-      "title_so": "Elon Musk wuxuu leeyahay 'Multiplanetary' SpaceX wuxuu ku kici karaa $ 118 Quintillion. Haa, Quintillion"
-    },
-    {
-      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Economy",
-      "published": "2026-11-26T14:28:22+00:00",
-      "title_so": "Norse Atlantic waxay hakisay dhammaan duullimaadyadii maadaama ay soo food saartay burbur suurtagal ah"
-    },
-    {
-      "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
-      "url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "published": "2026-11-26T14:26:22+00:00",
-      "title_so": "Maxkamaddu waxay kor u qaadaysaa $5M si ay ugu dhisto AI-Native Oracle si loo xaqiijiyo sirdoon"
-    },
-    {
-      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-      "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "published": "2026-11-26T14:05:58+00:00",
-      "title_so": "Spain waxay siisaa unug ka-hortagga dhaqidda awood ay ku xayiraan xisaabaadka crypto-la'aan garsoore"
     }
   ]
 }
